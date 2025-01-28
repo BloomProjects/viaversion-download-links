@@ -66,7 +66,7 @@ def fetch_job_json_data(results: list, name: str, checkPoint: int, latestBuildNu
 
 	pbar = tqdm(total=latestBuildNumber-checkPoint-1, desc=name)
 
-	with ThreadPoolExecutor(max_workers=24) as executor:
+	with ThreadPoolExecutor(max_workers=32) as executor:
 		futures = {executor.submit(lambda number: get_job(job_url, name, number), number): number for number in range(checkPoint+1, latestBuildNumber)}
 
 		for future in futures:
@@ -74,7 +74,6 @@ def fetch_job_json_data(results: list, name: str, checkPoint: int, latestBuildNu
    
 		results += [future.result() for future in as_completed(futures)]
 	
-	results = sorted(results, key = lambda item: item["build_number"])
 	pbar.close()
 
 
@@ -98,6 +97,7 @@ if __name__ == '__main__':
 
 		checkPoint = get_latest_build_number(name)
 		fetch_job_json_data(data[name]["builds"], name, data[name]["checkPoint"], checkPoint)
+		data[name]["builds"] = sorted(data[name]["builds"], key = lambda item: item["build_number"])
 		data[name]["checkPoint"] = checkPoint
   
 	with open("builds.json", "w") as f:
