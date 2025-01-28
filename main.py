@@ -3,6 +3,7 @@ import json
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import re
+import os
 
 session = requests.Session()
 
@@ -54,38 +55,50 @@ def get_job(job_url: str, name: str, buildNumber: int):
 	}
  
 
-def get_job_json_data(name: str):
+def get_latest_build_number(name: str):
 	job_url = f"https://ci.viaversion.com/job/{name}"
 
 	r = session.get(f"{job_url}/api/json")
-	nextBuildNumber = r.json()["nextBuildNumber"]
+	return r.json()["nextBuildNumber"]
 
-	pbar = tqdm(total=nextBuildNumber-1, desc=name)
+def fetch_job_json_data(results: list, name: str, checkPoint: int, latestBuildNumber: int):
+	job_url = f"https://ci.viaversion.com/job/{name}"
+
+	pbar = tqdm(total=latestBuildNumber-checkPoint-1, desc=name)
 
 	with ThreadPoolExecutor(max_workers=24) as executor:
-		futures = {executor.submit(lambda number: get_job(job_url, name, number), number): number for number in range(1, nextBuildNumber)}
+		futures = {executor.submit(lambda number: get_job(job_url, name, number), number): number for number in range(checkPoint+1, latestBuildNumber)}
 
 		for future in futures:
 			future.add_done_callback(lambda _: pbar.update(1))
    
-		results = [future.result() for future in as_completed(futures)]
-		results = sorted(results, key = lambda item: item["build_number"])
-
+		results += [future.result() for future in as_completed(futures)]
+	
+	results = sorted(results, key = lambda item: item["build_number"])
 	pbar.close()
- 
-	return results
 
 
 if __name__ == '__main__':
+	if os.path.isfile("builds.json"):
+		with open("builds.json", "r") as f:
+			data = json.load(f)
+	else:
+		data = {}
+
 	projects = get_projects()
- 
-	data = {}
- 
+
 	for project in projects:
 		name = project["name"]
-		builds = get_job_json_data(name)
-  
-		data[name] = builds
+
+		if name not in data:
+			data[name] = {
+				"builds": [],
+				"checkPoint": 0
+			}
+
+		checkPoint = get_latest_build_number(name)
+		fetch_job_json_data(data[name]["builds"], name, data[name]["checkPoint"], checkPoint)
+		data[name]["checkPoint"] = checkPoint
   
 	with open("builds.json", "w") as f:
 		json.dump(data, f, indent=4)
