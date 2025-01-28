@@ -78,8 +78,8 @@ def fetch_job_json_data(results: list, name: str, checkPoint: int, latestBuildNu
 
 
 if __name__ == '__main__':
-	if os.path.isfile("builds.json"):
-		with open("builds.json", "r") as f:
+	if os.path.isfile("all_builds.json"):
+		with open("all_builds.json", "r") as f:
 			data = json.load(f)
 	else:
 		data = {}
@@ -100,5 +100,30 @@ if __name__ == '__main__':
 		data[name]["builds"] = sorted(data[name]["builds"], key = lambda item: item["build_number"])
 		data[name]["checkPoint"] = checkPoint
   
-	with open("builds.json", "w") as f:
-		json.dump(data, f, indent=4)
+	with open("all_builds.json", "w") as f:
+		json.dump(data, f)
+
+	MAIN_JOBS = ["ViaVersion", "ViaBackwards", "ViaRewind"]
+	main_data = {}
+
+	for job in MAIN_JOBS:
+		main_data[job] = data[job]
+
+	with open("main_builds.json", "w") as f:
+		json.dump(main_data, f)
+
+	indexed_main_builds = {}
+
+	for job in MAIN_JOBS:
+		job_indexed_data = {}
+
+		for build in data[job]["builds"]:
+			if not build["artifact"]:
+				continue
+
+			job_indexed_data[build["version"]] = build["artifact"]
+
+		indexed_main_builds[job] = job_indexed_data
+
+	with open("indexed_main_builds.json", "w") as f:
+		json.dump(indexed_main_builds, f, indent=4)
