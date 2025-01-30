@@ -49,14 +49,14 @@ def get_job(job_url: str, name: str, buildNumber: int):
 	# get version
 	version = ""
 
-	if artifacts_metadata:
-		filename = artifacts_metadata[0]["file_name"].removesuffix(".jar")
-		version = filename.split("-")[1]
-	elif "SNAPSHOT" in r.text:
-		try:
+	try:
+		if artifacts_metadata:
+			filename = artifacts_metadata[0]["file_name"].removesuffix(".jar")
+			version = filename.split("-")[1]
+		elif "SNAPSHOT" in r.text:
 			version = data["changeSet"]["items"][0]["commitId"][:7]
-		except Exception as e:
-			pass
+	except Exception as e:
+		pass
 
 	return {
 		"build_number": buildNumber,
@@ -74,9 +74,9 @@ def fetch_job_json_data(results: list, name: str, checkPoint: int, latestBuildNu
 	new_results = results
 	job_url = f"https://ci.viaversion.com/job/{name}"
 
-	pbar = tqdm(total=latestBuildNumber-checkPoint-1, desc=name)
+	pbar = tqdm(total=latestBuildNumber-checkPoint, desc=name)
 	with ThreadPoolExecutor(max_workers=16) as executor:
-		futures = {executor.submit(lambda number: get_job(job_url, name, number), number): number for number in range(checkPoint+1, latestBuildNumber)}
+		futures = {executor.submit(lambda number: get_job(job_url, name, number), number): number for number in range(checkPoint+1, latestBuildNumber+1)}
 
 		for future in futures:
 			future.add_done_callback(lambda _: pbar.update(1))
