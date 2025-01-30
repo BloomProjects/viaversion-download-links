@@ -12,7 +12,7 @@ def get_projects():
 	return [ job["name"] for job in r.json()["jobs"] ]
 
 def get_artifact_metadata(job_url: str, buildNumber: int, relativePath: str):
-	r = requests.head(f"{job_url}/{buildNumber}/artifact/{relativePath}", stream=True)
+	r = requests.head(f"{job_url}/{buildNumber}/artifact/{relativePath}")
 	size = r.headers["Content-Length"]
 
 	r2 = requests.get(f"{job_url}/{buildNumber}/artifact/{relativePath}/*fingerprint*/")
