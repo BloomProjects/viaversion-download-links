@@ -104,7 +104,7 @@ def fetch_job(name: str):
 	prevBuildNumber = data["prev_build_number"]
 	builds = data["builds"]
 	data["builds"] = fetch_job_json_data(builds, name, prevBuildNumber, latestBuildNumber)
-	data["prev_build_number"] = latestBuildNumber - 1
+	data["prev_build_number"] = latestBuildNumber
 
 	with open(file_path, "w") as f:
 		json.dump(data, f, indent=4)
