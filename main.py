@@ -12,10 +12,13 @@ def get_projects():
 	return [ job["name"] for job in r.json()["jobs"] ]
 
 def get_artifact_metadata(job_url: str, buildNumber: int, relativePath: str):
-	r = requests.head(f"{job_url}/{buildNumber}/artifact/{relativePath}")
-	size = r.headers["Content-Length"]
+	r = session.head(f"{job_url}/{buildNumber}/artifact/{relativePath}")
+	try:
+		size = int(r.headers["Content-Length"])
+	except Exception as e:
+		size = 0
 
-	r2 = requests.get(f"{job_url}/{buildNumber}/artifact/{relativePath}/*fingerprint*/")
+	r2 = session.get(f"{job_url}/{buildNumber}/artifact/{relativePath}/*fingerprint*/")
 	file_hash = re.findall(r"[0-9a-f]{32}", r2.text)[0]
 
 	return (size, file_hash)
