@@ -1,0 +1,185 @@
+{
+    "builds": [
+        {
+            "build_number": 8,
+            "version": "5.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion-Java8/8/artifact/build/libs/ViaVersion-5.0.0-SNAPSHOT-downgraded.jar",
+                    "file_name": "ViaVersion-5.0.0-SNAPSHOT-downgraded.jar",
+                    "hash": "5b11f33a4cf4459a05ae5d9d94ae8238",
+                    "size": "4489940"
+                }
+            ]
+        },
+        {
+            "build_number": 10,
+            "version": "5.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion-Java8/10/artifact/build/libs/ViaVersion-5.0.0-SNAPSHOT-downgraded.jar",
+                    "file_name": "ViaVersion-5.0.0-SNAPSHOT-downgraded.jar",
+                    "hash": "5b0fef65fdbcff0b7d9443d0331a6881",
+                    "size": "4400335"
+                }
+            ]
+        },
+        {
+            "build_number": 11,
+            "version": "5.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion-Java8/11/artifact/build/libs/ViaVersion-5.0.0-downgraded.jar",
+                    "file_name": "ViaVersion-5.0.0-downgraded.jar",
+                    "hash": "594c9dbf283dd39be45583dbf33b10ad",
+                    "size": "4488519"
+                }
+            ]
+        },
+        {
+            "build_number": 12,
+            "version": "5.0.1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion-Java8/12/artifact/build/libs/ViaVersion-5.0.1-downgraded.jar",
+                    "file_name": "ViaVersion-5.0.1-downgraded.jar",
+                    "hash": "937cc47d975884190d066358ca9446e5",
+                    "size": "4499389"
+                }
+            ]
+        },
+        {
+            "build_number": 13,
+            "version": "5.0.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion-Java8/13/artifact/build/libs/ViaVersion-5.0.2-downgraded.jar",
+                    "file_name": "ViaVersion-5.0.2-downgraded.jar",
+                    "hash": "523f2a5fb32da6e8b682d08b5ce54024",
+                    "size": "4494901"
+                }
+            ]
+        },
+        {
+            "build_number": 14,
+            "version": "5.0.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion-Java8/14/artifact/build/libs/ViaVersion-5.0.3-downgraded.jar",
+                    "file_name": "ViaVersion-5.0.3-downgraded.jar",
+                    "hash": "630e207c7e4f7006bd0d2f9e663b9112",
+                    "size": "4841643"
+                }
+            ]
+        },
+        {
+            "build_number": 15,
+            "version": "5.0.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion-Java8/15/artifact/build/libs/ViaVersion-5.0.3-downgraded.jar",
+                    "file_name": "ViaVersion-5.0.3-downgraded.jar",
+                    "hash": "630e207c7e4f7006bd0d2f9e663b9112",
+                    "size": "4841643"
+                }
+            ]
+        },
+        {
+            "build_number": 16,
+            "version": "5.0.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion-Java8/16/artifact/build/libs/ViaVersion-5.0.4-downgraded.jar",
+                    "file_name": "ViaVersion-5.0.4-downgraded.jar",
+                    "hash": "732bb01ed4395eb7c838db0a08ceb105",
+                    "size": "4923020"
+                }
+            ]
+        },
+        {
+            "build_number": 17,
+            "version": "5.0.5",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion-Java8/17/artifact/build/libs/ViaVersion-5.0.5-downgraded.jar",
+                    "file_name": "ViaVersion-5.0.5-downgraded.jar",
+                    "hash": "41bc9f545ce00d1fff11e955881e1bbb",
+                    "size": "4923020"
+                }
+            ]
+        },
+        {
+            "build_number": 18,
+            "version": "5.1.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion-Java8/18/artifact/build/libs/ViaVersion-5.1.0-downgraded.jar",
+                    "file_name": "ViaVersion-5.1.0-downgraded.jar",
+                    "hash": "9a7b3cdca12687ba91f517194e35d1ba",
+                    "size": "5026507"
+                }
+            ]
+        },
+        {
+            "build_number": 19,
+            "version": "5.1.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion-Java8/19/artifact/build/libs/ViaVersion-5.1.2-SNAPSHOT-downgraded.jar",
+                    "file_name": "ViaVersion-5.1.2-SNAPSHOT-downgraded.jar",
+                    "hash": "c7d7dfddbdb46d2d2adb130303bd54b1",
+                    "size": "5032111"
+                }
+            ]
+        },
+        {
+            "build_number": 20,
+            "version": "5.2.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion-Java8/20/artifact/build/libs/ViaVersion-5.2.0-downgraded.jar",
+                    "file_name": "ViaVersion-5.2.0-downgraded.jar",
+                    "hash": "7d0671b2a10d279171428f1ea4bac113",
+                    "size": "5103867"
+                }
+            ]
+        },
+        {
+            "build_number": 21,
+            "version": "5.2.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion-Java8/21/artifact/build/libs/ViaVersion-5.2.0-downgraded.jar",
+                    "file_name": "ViaVersion-5.2.0-downgraded.jar",
+                    "hash": "7d0671b2a10d279171428f1ea4bac113",
+                    "size": "5103867"
+                }
+            ]
+        },
+        {
+            "build_number": 22,
+            "version": "5.2.1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion-Java8/22/artifact/build/libs/ViaVersion-5.2.1-downgraded.jar",
+                    "file_name": "ViaVersion-5.2.1-downgraded.jar",
+                    "hash": "c60662d2e07fbaa470aa89a1de7ddac0",
+                    "size": "5102942"
+                }
+            ]
+        },
+        {
+            "build_number": 23,
+            "version": "5.2.1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion-Java8/23/artifact/build/libs/ViaVersion-5.2.1-downgraded.jar",
+                    "file_name": "ViaVersion-5.2.1-downgraded.jar",
+                    "hash": "bc047f49bea09c037bc317ea1ca4252c",
+                    "size": "5102942"
+                }
+            ]
+        }
+    ],
+    "prev_build_number": 23
+}

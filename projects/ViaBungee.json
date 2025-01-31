@@ -1,0 +1,440 @@
+{
+    "builds": [
+        {
+            "build_number": 1,
+            "version": "",
+            "artifacts": []
+        },
+        {
+            "build_number": 2,
+            "version": "1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/2/artifact/build/libs/ViaBungee-1.0.0.jar",
+                    "file_name": "ViaBungee-1.0.0.jar",
+                    "hash": "3d5054c54a4d0a59ccd0760280eae6f1",
+                    "size": "123501"
+                }
+            ]
+        },
+        {
+            "build_number": 3,
+            "version": "1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/3/artifact/build/libs/ViaBungee-1.0.0.jar",
+                    "file_name": "ViaBungee-1.0.0.jar",
+                    "hash": "2dfbde5d2e649350251601ab99aa1086",
+                    "size": "123313"
+                }
+            ]
+        },
+        {
+            "build_number": 4,
+            "version": "1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/4/artifact/build/libs/ViaBungee-1.0.0.jar",
+                    "file_name": "ViaBungee-1.0.0.jar",
+                    "hash": "d0f642d9cf13c1f3f1846aaf3b3a6fa8",
+                    "size": "123312"
+                }
+            ]
+        },
+        {
+            "build_number": 5,
+            "version": "1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/5/artifact/build/libs/ViaBungee-1.0.0.jar",
+                    "file_name": "ViaBungee-1.0.0.jar",
+                    "hash": "67fc9eafce2c8609decf2a3089b97ef3",
+                    "size": "123312"
+                }
+            ]
+        },
+        {
+            "build_number": 6,
+            "version": "1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/6/artifact/build/libs/ViaBungee-1.0.0.jar",
+                    "file_name": "ViaBungee-1.0.0.jar",
+                    "hash": "f49512e650ecd239ed8f553d0b970641",
+                    "size": "124446"
+                }
+            ]
+        },
+        {
+            "build_number": 7,
+            "version": "0.1.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/7/artifact/build/libs/ViaBungee-0.1.0.jar",
+                    "file_name": "ViaBungee-0.1.0.jar",
+                    "hash": "4dbde2581cfa99e9f09bfa4ede8e8129",
+                    "size": "139158"
+                }
+            ]
+        },
+        {
+            "build_number": 8,
+            "version": "0.1.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/8/artifact/build/libs/ViaBungee-0.1.0.jar",
+                    "file_name": "ViaBungee-0.1.0.jar",
+                    "hash": "4bf3e493c5172fe23e7d7499d53f33c3",
+                    "size": "140321"
+                }
+            ]
+        },
+        {
+            "build_number": 9,
+            "version": "0.1.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/9/artifact/build/libs/ViaBungee-0.1.0.jar",
+                    "file_name": "ViaBungee-0.1.0.jar",
+                    "hash": "db6f045a68ceafbb0e225c48c313ae9b",
+                    "size": "140319"
+                }
+            ]
+        },
+        {
+            "build_number": 10,
+            "version": "0.1.1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/10/artifact/build/libs/ViaBungee-0.1.1.jar",
+                    "file_name": "ViaBungee-0.1.1.jar",
+                    "hash": "a0520bc38f87eb5276ad379a4a525ee6",
+                    "size": "140319"
+                }
+            ]
+        },
+        {
+            "build_number": 11,
+            "version": "0.1.1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/11/artifact/build/libs/ViaBungee-0.1.1.jar",
+                    "file_name": "ViaBungee-0.1.1.jar",
+                    "hash": "6c8aed059a49ff7d708f76b4c1e44704",
+                    "size": "140319"
+                }
+            ]
+        },
+        {
+            "build_number": 12,
+            "version": "0.1.1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/12/artifact/build/libs/ViaBungee-0.1.1.jar",
+                    "file_name": "ViaBungee-0.1.1.jar",
+                    "hash": "fdd1c25d1b99354f221c1bffa25a5532",
+                    "size": "140319"
+                }
+            ]
+        },
+        {
+            "build_number": 13,
+            "version": "0.1.1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/13/artifact/build/libs/ViaBungee-0.1.1.jar",
+                    "file_name": "ViaBungee-0.1.1.jar",
+                    "hash": "06323301ff5a613bbad38b57b40893cf",
+                    "size": "140319"
+                }
+            ]
+        },
+        {
+            "build_number": 14,
+            "version": "0.1.1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/14/artifact/build/libs/ViaBungee-0.1.1.jar",
+                    "file_name": "ViaBungee-0.1.1.jar",
+                    "hash": "ec878f840e417a4b44455025091752ad",
+                    "size": "140319"
+                }
+            ]
+        },
+        {
+            "build_number": 15,
+            "version": "0.1.1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/15/artifact/build/libs/ViaBungee-0.1.1.jar",
+                    "file_name": "ViaBungee-0.1.1.jar",
+                    "hash": "238a993b563fbaf8c849701268044aa6",
+                    "size": "140319"
+                }
+            ]
+        },
+        {
+            "build_number": 16,
+            "version": "0.1.1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/16/artifact/build/libs/ViaBungee-0.1.1.jar",
+                    "file_name": "ViaBungee-0.1.1.jar",
+                    "hash": "d9f56d86e5bcd3a4ad50fb77fdddfcd6",
+                    "size": "140319"
+                }
+            ]
+        },
+        {
+            "build_number": 17,
+            "version": "0.1.1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/17/artifact/build/libs/ViaBungee-0.1.1.jar",
+                    "file_name": "ViaBungee-0.1.1.jar",
+                    "hash": "32bd9625b4cf68fc9b1d1d509d8a6289",
+                    "size": "140319"
+                }
+            ]
+        },
+        {
+            "build_number": 18,
+            "version": "0.1.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/18/artifact/build/libs/ViaBungee-0.1.2.jar",
+                    "file_name": "ViaBungee-0.1.2.jar",
+                    "hash": "4054a799a04f1f1967bb449aec14be2b",
+                    "size": "141474"
+                }
+            ]
+        },
+        {
+            "build_number": 19,
+            "version": "0.1.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/19/artifact/build/libs/ViaBungee-0.1.2.jar",
+                    "file_name": "ViaBungee-0.1.2.jar",
+                    "hash": "e75a923fd34d3691397040610acd765c",
+                    "size": "141934"
+                }
+            ]
+        },
+        {
+            "build_number": 20,
+            "version": "",
+            "artifacts": []
+        },
+        {
+            "build_number": 21,
+            "version": "",
+            "artifacts": []
+        },
+        {
+            "build_number": 22,
+            "version": "0.1.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/22/artifact/build/libs/ViaBungee-0.1.3.jar",
+                    "file_name": "ViaBungee-0.1.3.jar",
+                    "hash": "40a5e0a2222953ee7cf32166a12238da",
+                    "size": "141926"
+                }
+            ]
+        },
+        {
+            "build_number": 23,
+            "version": "0.1.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/23/artifact/build/libs/ViaBungee-0.1.3.jar",
+                    "file_name": "ViaBungee-0.1.3.jar",
+                    "hash": "d088278842a0748095c5ce8bb2837f67",
+                    "size": "141926"
+                }
+            ]
+        },
+        {
+            "build_number": 24,
+            "version": "0.1.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/24/artifact/build/libs/ViaBungee-0.1.3.jar",
+                    "file_name": "ViaBungee-0.1.3.jar",
+                    "hash": "bf6205577434dbfb0bc91d5e22a796ec",
+                    "size": "141926"
+                }
+            ]
+        },
+        {
+            "build_number": 25,
+            "version": "0.1.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/25/artifact/build/libs/ViaBungee-0.1.3.jar",
+                    "file_name": "ViaBungee-0.1.3.jar",
+                    "hash": "0082a28541ad7e36816f589c608fb621",
+                    "size": "141926"
+                }
+            ]
+        },
+        {
+            "build_number": 26,
+            "version": "0.1.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/26/artifact/build/libs/ViaBungee-0.1.3.jar",
+                    "file_name": "ViaBungee-0.1.3.jar",
+                    "hash": "c9935f878962e4fe7a4f5c1e38fb2f4d",
+                    "size": "215027"
+                }
+            ]
+        },
+        {
+            "build_number": 27,
+            "version": "0.1.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/27/artifact/build/libs/ViaBungee-0.1.3.jar",
+                    "file_name": "ViaBungee-0.1.3.jar",
+                    "hash": "500d1ff413de94c91a32971cb148d5bf",
+                    "size": "215162"
+                }
+            ]
+        },
+        {
+            "build_number": 28,
+            "version": "0.1.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/28/artifact/build/libs/ViaBungee-0.1.3.jar",
+                    "file_name": "ViaBungee-0.1.3.jar",
+                    "hash": "73438ef737a2dd9a6f197dc0f4c60e9a",
+                    "size": "215162"
+                }
+            ]
+        },
+        {
+            "build_number": 29,
+            "version": "0.1.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/29/artifact/build/libs/ViaBungee-0.1.3.jar",
+                    "file_name": "ViaBungee-0.1.3.jar",
+                    "hash": "e330a53dcdb201895aefa01c94a52b60",
+                    "size": "215162"
+                }
+            ]
+        },
+        {
+            "build_number": 30,
+            "version": "0.1.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/30/artifact/build/libs/ViaBungee-0.1.3.jar",
+                    "file_name": "ViaBungee-0.1.3.jar",
+                    "hash": "bb6c191f6fc982ad4a98f75ec0887ef6",
+                    "size": "216850"
+                }
+            ]
+        },
+        {
+            "build_number": 31,
+            "version": "0.1.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/31/artifact/build/libs/ViaBungee-0.1.3.jar",
+                    "file_name": "ViaBungee-0.1.3.jar",
+                    "hash": "e4538740260e74f536a758d1277b1a4d",
+                    "size": "216850"
+                }
+            ]
+        },
+        {
+            "build_number": 32,
+            "version": "0.1.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/32/artifact/build/libs/ViaBungee-0.1.3.jar",
+                    "file_name": "ViaBungee-0.1.3.jar",
+                    "hash": "d0a65702b1221e830a9c5a48c8caec7f",
+                    "size": "216850"
+                }
+            ]
+        },
+        {
+            "build_number": 33,
+            "version": "0.1.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/33/artifact/build/libs/ViaBungee-0.1.3.jar",
+                    "file_name": "ViaBungee-0.1.3.jar",
+                    "hash": "d5fbd7f5126c4dabf6e71cfa375fab42",
+                    "size": "216850"
+                }
+            ]
+        },
+        {
+            "build_number": 34,
+            "version": "0.1.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/34/artifact/build/libs/ViaBungee-0.1.3.jar",
+                    "file_name": "ViaBungee-0.1.3.jar",
+                    "hash": "6937c511c9f55de1751d8ba6032951c4",
+                    "size": "216850"
+                }
+            ]
+        },
+        {
+            "build_number": 35,
+            "version": "0.2.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/35/artifact/build/libs/ViaBungee-0.2.0.jar",
+                    "file_name": "ViaBungee-0.2.0.jar",
+                    "hash": "809400cec330b84aec19dff20734f5ab",
+                    "size": "216842"
+                }
+            ]
+        },
+        {
+            "build_number": 36,
+            "version": "0.2.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/36/artifact/build/libs/ViaBungee-0.2.0.jar",
+                    "file_name": "ViaBungee-0.2.0.jar",
+                    "hash": "fd436a5e7f6a2beec8793c1312532ed5",
+                    "size": "216823"
+                }
+            ]
+        },
+        {
+            "build_number": 37,
+            "version": "0.2.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/37/artifact/build/libs/ViaBungee-0.2.0.jar",
+                    "file_name": "ViaBungee-0.2.0.jar",
+                    "hash": "fb823bdfc166fe7977a0e04f1bc8bb4a",
+                    "size": "216823"
+                }
+            ]
+        },
+        {
+            "build_number": 38,
+            "version": "0.2.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/38/artifact/build/libs/ViaBungee-0.2.0.jar",
+                    "file_name": "ViaBungee-0.2.0.jar",
+                    "hash": "4fc67c690fa115030d73fb3b4f2ef0e2",
+                    "size": "216823"
+                }
+            ]
+        }
+    ],
+    "prev_build_number": 38
+}

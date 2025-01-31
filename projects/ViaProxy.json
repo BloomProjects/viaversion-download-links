@@ -1,0 +1,2405 @@
+{
+    "builds": [
+        {
+            "build_number": 485,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/485/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "c205ed74ca3f7df2abce9bbfd6085b71",
+                    "size": "26712867"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/485/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "1ebe4f0ff233414e16dd2564a98e9fc7",
+                    "size": "28377528"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/485/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "849d23c5ae4b00a5d8d75fe447c41629",
+                    "size": "287379"
+                }
+            ]
+        },
+        {
+            "build_number": 486,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/486/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "14e93cadf0067bcebc9a52b2dfdec4cf",
+                    "size": "26712869"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/486/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "12d8aa411db5337fc4d0700f5eb0f280",
+                    "size": "28377595"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/486/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "4c73dc7852408afab4dbd95a001d716b",
+                    "size": "287379"
+                }
+            ]
+        },
+        {
+            "build_number": 487,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/487/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "ae5480b7d019b86588ddb516cec450bb",
+                    "size": "26472030"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/487/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "f3075ec34178ef81c492b249055e4db1",
+                    "size": "28137418"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/487/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "e8ad29c9f990d5fe628c05946c5b0248",
+                    "size": "283963"
+                }
+            ]
+        },
+        {
+            "build_number": 488,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/488/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "9eed9f0b3419c2409d8f6417dfab08f9",
+                    "size": "26472200"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/488/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "78d086fef93004c771a0d552dd55093f",
+                    "size": "28137587"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/488/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "b1909f7a9b2574f6314c46630f990f2d",
+                    "size": "284035"
+                }
+            ]
+        },
+        {
+            "build_number": 489,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/489/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "cb2d4cebdaf31d6c73d65d781f91b843",
+                    "size": "26472498"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/489/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "a4d98c7a1858090f76076abe3d224839",
+                    "size": "28137909"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/489/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "fecbaaafd97d6602ab4441627f3886d2",
+                    "size": "284035"
+                }
+            ]
+        },
+        {
+            "build_number": 490,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/490/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "3dfb8d9282ebc7a6dcacd30fb6a33609",
+                    "size": "26472494"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/490/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "a0482f0905d46e451ea923fcf1f1779d",
+                    "size": "28137906"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/490/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "93771a02700205e8b649b850d7b36ba1",
+                    "size": "284035"
+                }
+            ]
+        },
+        {
+            "build_number": 491,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/491/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "fb6c82ebd037626755f71ace3ec9274d",
+                    "size": "26475735"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/491/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "6edfca477be2395e00776ca0b2f1a519",
+                    "size": "28141250"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/491/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "4abc370412a208c5e2fc7b64bbe98af3",
+                    "size": "285054"
+                }
+            ]
+        },
+        {
+            "build_number": 492,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/492/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "e3c8a093b1dc0183062c02edf9d4201a",
+                    "size": "26475734"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/492/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "b6fba365159c75bb8c77fc2c8c8b265d",
+                    "size": "28141251"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/492/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "6722ef73458a058a35e2f636b7d9ffb4",
+                    "size": "285054"
+                }
+            ]
+        },
+        {
+            "build_number": 493,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/493/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "be97cbc7c065e00bdd8315c9563719f3",
+                    "size": "26487326"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/493/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "ed8d9e095e540626e5f5cf645eb853cf",
+                    "size": "28152832"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/493/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "846d2f043833d1a6cb18ed62a35c0453",
+                    "size": "285054"
+                }
+            ]
+        },
+        {
+            "build_number": 494,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/494/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "97b244939ac7f49332121a5b9b2a787e",
+                    "size": "26494413"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/494/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "9d9749a1784e3ec2a789b8991416a0e2",
+                    "size": "28159922"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/494/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "b6ca8b57cb93e73688e6308e18d04381",
+                    "size": "285054"
+                }
+            ]
+        },
+        {
+            "build_number": 495,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/495/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "86a845d3148529665a4928bf004232f1",
+                    "size": "26505679"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/495/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "b49610d0a82485224148af60ac092e5d",
+                    "size": "28171488"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/495/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "675152096560dbd265d1ba8b161a8a47",
+                    "size": "285083"
+                }
+            ]
+        },
+        {
+            "build_number": 496,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/496/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "8e2464db8f778de7399314c6c0747fc3",
+                    "size": "26505882"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/496/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "64fa8630d08a6fa1e83681635818886f",
+                    "size": "28171703"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/496/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "613b719b78d79d2386edfe0c08964eef",
+                    "size": "285083"
+                }
+            ]
+        },
+        {
+            "build_number": 497,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/497/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "a095b617a028b1a3c450e975a96f5fd5",
+                    "size": "26505916"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/497/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "6c7fc1f2f5639e0cf8d636b0be58d1c9",
+                    "size": "28171730"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/497/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "71c960bd1ac1e8e5af9bd32468a91d73",
+                    "size": "285093"
+                }
+            ]
+        },
+        {
+            "build_number": 498,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/498/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "bf24df561cc81907d08216c9d33ed7c8",
+                    "size": "26519314"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/498/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "73239b5f1be2e19f6a7480c45803b536",
+                    "size": "28185131"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/498/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "716a11dccbd4b859648696980086b690",
+                    "size": "286235"
+                }
+            ]
+        },
+        {
+            "build_number": 499,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/499/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "fa532c08ae52288b0e0fa861ef3be2f1",
+                    "size": "26519316"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/499/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "29a7de34522503a2933e09a95ef5de89",
+                    "size": "28185129"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/499/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "604335c1f7e85f6b6ae1aa6c1e5685ed",
+                    "size": "286235"
+                }
+            ]
+        },
+        {
+            "build_number": 500,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/500/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "22b8f7fb0313d9ff013d9dbc2bf6176c",
+                    "size": "26518966"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/500/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "1fc10210012e2af615fa2329f551306f",
+                    "size": "28184805"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/500/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "f4e5adc83ab31d79ad31aa66b53e6929",
+                    "size": "286158"
+                }
+            ]
+        },
+        {
+            "build_number": 501,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/501/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "34a914433a2e5e766985b9a411505167",
+                    "size": "26519163"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/501/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "f2956a6048799a7c78cfab86cc18894e",
+                    "size": "28185002"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/501/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "eb66b6d33a70e3aa9e97de0ccdd49b19",
+                    "size": "286246"
+                }
+            ]
+        },
+        {
+            "build_number": 502,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/502/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "6757c551389c04b8bde6a6f418f4b8c4",
+                    "size": "26519165"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/502/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "82904ee9f0675ec92cf231e42970c9d9",
+                    "size": "28185001"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/502/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "2e65f19834e45ab833d203c6aa1595d4",
+                    "size": "286246"
+                }
+            ]
+        },
+        {
+            "build_number": 503,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/503/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "90a853064dd00ad39d244c2aa240d735",
+                    "size": "26519165"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/503/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "1c1baa375bde0746c3f824bd288907c3",
+                    "size": "28185006"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/503/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "b3df022242e165ea21eac0fd8e047088",
+                    "size": "286246"
+                }
+            ]
+        },
+        {
+            "build_number": 504,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/504/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "db5b619549350bf3635eb1d637e718af",
+                    "size": "26518557"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/504/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "01c8da3cf5f18152610f340491ced8c5",
+                    "size": "28184396"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/504/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "2ec26f5ffef590a80a2367959b2f9d64",
+                    "size": "286244"
+                }
+            ]
+        },
+        {
+            "build_number": 505,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/505/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "8c8ea030fd1c9bd1b7165c06dea0a449",
+                    "size": "26523139"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/505/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "7937bb2bba593f0b1640f77881915f93",
+                    "size": "28188978"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/505/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "6c587e822e68ac2eb5d58cc46dfc070c",
+                    "size": "286244"
+                }
+            ]
+        },
+        {
+            "build_number": 506,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/506/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "855f117db8499ce7eb1c44006177965c",
+                    "size": "26529693"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/506/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "3e67f6b6b432f44d20ced77c59c85cf7",
+                    "size": "28195532"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/506/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "90cc9a4f1a00e4b224a73a18879620f2",
+                    "size": "286244"
+                }
+            ]
+        },
+        {
+            "build_number": 507,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/507/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "db77d54a6d72d287d9b6158d0c33825a",
+                    "size": "26530470"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/507/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "8602b382c69b87d6a024c6b3d5a756f5",
+                    "size": "28196327"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/507/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "a0c08d7fa66ac8369284b10d04c65df4",
+                    "size": "286310"
+                }
+            ]
+        },
+        {
+            "build_number": 508,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/508/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "9273b0f44761a370c967c0bccf14ce35",
+                    "size": "26538203"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/508/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "06b480614f3737a8db4901b4114a57f5",
+                    "size": "28204060"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/508/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "71ed4c04d20adf46d97859965d0b5062",
+                    "size": "286310"
+                }
+            ]
+        },
+        {
+            "build_number": 509,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/509/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "72eea4b0e44eeda8a0d6beff25c18f39",
+                    "size": "26553008"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/509/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "85faf94e9edbdfe3e48a188b86aad3f1",
+                    "size": "28218877"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/509/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "fdf12b520fd735faf8d6c81c4a2e1a0d",
+                    "size": "286326"
+                }
+            ]
+        },
+        {
+            "build_number": 510,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/510/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "6e9c5ec202a99246c3e7490347aac7c8",
+                    "size": "26593821"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/510/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "adbd512089bed853418dde4f233aa5f3",
+                    "size": "28259689"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/510/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "0f44ce89db406cef18936ac5774791c0",
+                    "size": "286326"
+                }
+            ]
+        },
+        {
+            "build_number": 511,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/511/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "59f335add1c564d820bf8657feec3698",
+                    "size": "26595973"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/511/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "58a962a5da2777014165d23f5fad5da0",
+                    "size": "28261835"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/511/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "7ddef5b904a06349fc0165234c14dbf8",
+                    "size": "286326"
+                }
+            ]
+        },
+        {
+            "build_number": 512,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/512/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "93ca19d071e52ef19b743e63a7111da5",
+                    "size": "26595972"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/512/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "dc21dff428f3c06d623aaae72f6dee47",
+                    "size": "28261834"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/512/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "f999836ac7b9e77eb153a7e416e0eac5",
+                    "size": "286326"
+                }
+            ]
+        },
+        {
+            "build_number": 513,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/513/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "f2671a78b35386200d6fb91541a8d484",
+                    "size": "26595934"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/513/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "bea078b4f523ff741797a544dd48a9cf",
+                    "size": "28261787"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/513/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "418391662ef3cd771303b239a8ce4b32",
+                    "size": "286326"
+                }
+            ]
+        },
+        {
+            "build_number": 514,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/514/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "4badd867201e7cea48ff2de2eef90679",
+                    "size": "26596719"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/514/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "5946771f63478ab31adc8b2aa8f97595",
+                    "size": "28262545"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/514/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "675352158a2dbc720784d47ef6142476",
+                    "size": "286654"
+                }
+            ]
+        },
+        {
+            "build_number": 515,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/515/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "65530fb85132617ca3d50ce8a79d6255",
+                    "size": "26598161"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/515/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "44b79283763b59efa9ff82148b2a652c",
+                    "size": "28263985"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/515/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "6e06fe01e54b7fb20f2456ad4dd7f167",
+                    "size": "286654"
+                }
+            ]
+        },
+        {
+            "build_number": 516,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/516/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT.jar",
+                    "hash": "f31632ceb3844953fc0a2e212ae42b50",
+                    "size": "26767978"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/516/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT+java8.jar",
+                    "hash": "c5171d51f6ca1e86911d8c1d91ac1766",
+                    "size": "28444942"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/516/artifact/build/libs/ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-SNAPSHOT-sources.jar",
+                    "hash": "10258a48339fedd996d75939cb35c75b",
+                    "size": "286663"
+                }
+            ]
+        },
+        {
+            "build_number": 517,
+            "version": "3.3.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/517/artifact/build/libs/ViaProxy-3.3.4.jar",
+                    "file_name": "ViaProxy-3.3.4.jar",
+                    "hash": "c935f3cfd81458affadec5ad7a3e6472",
+                    "size": "26767906"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/517/artifact/build/libs/ViaProxy-3.3.4+java8.jar",
+                    "file_name": "ViaProxy-3.3.4+java8.jar",
+                    "hash": "b7e89085b5a4ef31e54058813dea5f75",
+                    "size": "28444867"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/517/artifact/build/libs/ViaProxy-3.3.4-sources.jar",
+                    "file_name": "ViaProxy-3.3.4-sources.jar",
+                    "hash": "6a298909f2e12534506ef21e68320887",
+                    "size": "286663"
+                }
+            ]
+        },
+        {
+            "build_number": 518,
+            "version": "3.3.5",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/518/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "hash": "c687802f7cf79d3d2db2c468e6bcfffb",
+                    "size": "26768033"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/518/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "hash": "ca7a239deb9938ee66a9870c372ea0b9",
+                    "size": "28444996"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/518/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "hash": "027107abf8c132c09c396e80ef030eba",
+                    "size": "286663"
+                }
+            ]
+        },
+        {
+            "build_number": 519,
+            "version": "3.3.5",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/519/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "hash": "4486d40fd1285e774e9585027365a92e",
+                    "size": "26768102"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/519/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "hash": "a1f27efacce49d0c5c795e446fa1e294",
+                    "size": "28445058"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/519/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "hash": "bb6d6b685ccd57b56c0c9f2ac4debf6b",
+                    "size": "286663"
+                }
+            ]
+        },
+        {
+            "build_number": 520,
+            "version": "3.3.5",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/520/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "hash": "39e17a86a08836de984f535c98c05fae",
+                    "size": "26749075"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/520/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "hash": "c3a200d87e2c37b1ae832ed1d047782c",
+                    "size": "28526026"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/520/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "hash": "5143153ff43f773639f37a3ad3bbbf0d",
+                    "size": "286663"
+                }
+            ]
+        },
+        {
+            "build_number": 521,
+            "version": "3.3.5",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/521/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "hash": "c6aceddd9a4e9f2578dfb44ea200fd45",
+                    "size": "26757420"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/521/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "hash": "df07014cce1b47534d8eab52d4779f5b",
+                    "size": "28432819"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/521/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "hash": "982a2267b38e498359ec3c39ef20f538",
+                    "size": "286663"
+                }
+            ]
+        },
+        {
+            "build_number": 522,
+            "version": "3.3.5",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/522/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "hash": "d231b463bde86db0e2f04a1fb917035f",
+                    "size": "26760720"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/522/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "hash": "bb60d03f08266d5767c5e698d9121b1a",
+                    "size": "28436051"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/522/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "hash": "c06719fb37f99ecbada34096f0ae13a0",
+                    "size": "286537"
+                }
+            ]
+        },
+        {
+            "build_number": 523,
+            "version": "3.3.5",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/523/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "hash": "58bd80f5dea15131f1ed6678293cbbd9",
+                    "size": "26760720"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/523/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "hash": "d51184db00dbdb29b54e847a89992986",
+                    "size": "28538301"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/523/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "hash": "a9afa08d45486422a1e5c05f5099e7ad",
+                    "size": "286537"
+                }
+            ]
+        },
+        {
+            "build_number": 524,
+            "version": "3.3.5",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/524/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "hash": "ccf367956f6dec138759c46872e14039",
+                    "size": "26769182"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/524/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "hash": "7dfe93c1cbab2d2f2ce3eaae63d9d191",
+                    "size": "28546858"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/524/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "hash": "1bb0f9c375072f6889fa812ae00a097a",
+                    "size": "286730"
+                }
+            ]
+        },
+        {
+            "build_number": 525,
+            "version": "3.3.5",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/525/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "hash": "6a726cc871aef4a3b1e40343ac99ec3f",
+                    "size": "26770006"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/525/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "hash": "3560dcfa007deab9c83f3677584a44e5",
+                    "size": "28547728"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/525/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "hash": "df6f31cd3d5d2dde0abfd226a86dbbf2",
+                    "size": "286771"
+                }
+            ]
+        },
+        {
+            "build_number": 526,
+            "version": "3.3.5",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/526/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "hash": "a749f3952f478fadb4622c7c047684f3",
+                    "size": "26770960"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/526/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "hash": "289e333852f0e52f5b4eb210ff7dfb0c",
+                    "size": "28548682"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/526/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "hash": "fd173e0e7b2baa1972a87c85930a4bb5",
+                    "size": "287881"
+                }
+            ]
+        },
+        {
+            "build_number": 527,
+            "version": "3.3.5",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/527/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "hash": "fd90ed01ab7f277a1b5963e7724312f5",
+                    "size": "26772518"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/527/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "hash": "82ec34b172ca43e598b36e7d5d959718",
+                    "size": "28550283"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/527/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "hash": "fbf37e9b21e34ab2f5f57821a8a6c3a3",
+                    "size": "287932"
+                }
+            ]
+        },
+        {
+            "build_number": 528,
+            "version": "3.3.5",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/528/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "hash": "1f660ae2009cf1241244e80bc65fae3b",
+                    "size": "26772522"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/528/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "hash": "8ade37c07c015291229465f08044c1e2",
+                    "size": "28550288"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/528/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "hash": "d77b535f648bd508da9c78b06240bd43",
+                    "size": "287934"
+                }
+            ]
+        },
+        {
+            "build_number": 529,
+            "version": "3.3.5",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/529/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT.jar",
+                    "hash": "a8d0410882655c5f711cbd17173ba0c2",
+                    "size": "26777399"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/529/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT+java8.jar",
+                    "hash": "ad1b7b698534c7f244ff532f6bc1b48a",
+                    "size": "28555315"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/529/artifact/build/libs/ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.5-SNAPSHOT-sources.jar",
+                    "hash": "b90fc5e2d046261f0057ce09f502e9d3",
+                    "size": "287938"
+                }
+            ]
+        },
+        {
+            "build_number": 530,
+            "version": "3.3.5",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/530/artifact/build/libs/ViaProxy-3.3.5.jar",
+                    "file_name": "ViaProxy-3.3.5.jar",
+                    "hash": "1519b8233621e9e9aeb9fa2188012fcc",
+                    "size": "26777510"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/530/artifact/build/libs/ViaProxy-3.3.5+java8.jar",
+                    "file_name": "ViaProxy-3.3.5+java8.jar",
+                    "hash": "10bde736f1966cb160927ffe9610fd53",
+                    "size": "28555427"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/530/artifact/build/libs/ViaProxy-3.3.5-sources.jar",
+                    "file_name": "ViaProxy-3.3.5-sources.jar",
+                    "hash": "44c94bb5c96f34b231f0ba77e0e3ee33",
+                    "size": "287938"
+                }
+            ]
+        },
+        {
+            "build_number": 531,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/531/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "061470ab9277a908aa83c289550d7a38",
+                    "size": "26777581"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/531/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "def6f4921326349d91218d50d5f06764",
+                    "size": "28555504"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/531/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "645f37a820d9c4880c9efce55d1110f6",
+                    "size": "287938"
+                }
+            ]
+        },
+        {
+            "build_number": 532,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/532/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "1120a3677c7682311bee95a4b2604996",
+                    "size": "26780714"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/532/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "cd46153f61bcf7967dc771f3c722d64d",
+                    "size": "28558637"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/532/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "26177bbb4bc2102ec7bf8daf6ab4207e",
+                    "size": "291070"
+                }
+            ]
+        },
+        {
+            "build_number": 533,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/533/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "0d81df5cbcfe2885afca5d65d363b58c",
+                    "size": "26879193"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/533/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "61a325b2bf0bbb707c429c1b84455331",
+                    "size": "28658032"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/533/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "d008efd79640b286349d4b96bb6b71b7",
+                    "size": "291066"
+                }
+            ]
+        },
+        {
+            "build_number": 534,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/534/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "e7387482ca7cee6d01d96b577819e2f2",
+                    "size": "26879323"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/534/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "e123af8b48193980c32deac30fc5d0ce",
+                    "size": "28658157"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/534/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "578117b8ae9bb6af40e544bbc72643f5",
+                    "size": "291189"
+                }
+            ]
+        },
+        {
+            "build_number": 535,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/535/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "056b98b8d97adcce7d8f94425bb2ee73",
+                    "size": "26952424"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/535/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "744241441d592743c703c5cebf57aa19",
+                    "size": "28731258"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/535/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "94fab1079976aa50cf30b157720b57c1",
+                    "size": "291189"
+                }
+            ]
+        },
+        {
+            "build_number": 536,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/536/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "7ccc7b53606b22b12cd9c883b0f2875d",
+                    "size": "26964216"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/536/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "484ad3b20dd30b6c22989a773f8cc961",
+                    "size": "28744064"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/536/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "8db26845e077163567781f5d627949a2",
+                    "size": "291175"
+                }
+            ]
+        },
+        {
+            "build_number": 537,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/537/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "d4b4a6705bd8d6557f3d29ccf73d7861",
+                    "size": "26963829"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/537/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "f78f00086e1cc6e1a8bd27ca19540909",
+                    "size": "28743671"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/537/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "614a48479c38b07da5d512f7b161fc58",
+                    "size": "291159"
+                }
+            ]
+        },
+        {
+            "build_number": 538,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/538/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "126d2ec149c22b2111313f9462fda9f7",
+                    "size": "26967102"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/538/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "e4f511a12f9a143e72d3ce228682baca",
+                    "size": "28746993"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/538/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "1bab370ed23d56dbe3e79a600a0aca8f",
+                    "size": "291286"
+                }
+            ]
+        },
+        {
+            "build_number": 539,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/539/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "10b2f1d59ab5208b854687a937448995",
+                    "size": "26969316"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/539/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "0b052abcb5714a56bef0be4e565e0f05",
+                    "size": "28749275"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/539/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "93000c0bc5c9f527b2fd381f30bce06a",
+                    "size": "291286"
+                }
+            ]
+        },
+        {
+            "build_number": 540,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/540/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "8cb49f22795cab74c16bda50a885673f",
+                    "size": "26969331"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/540/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "21c448217155cbfab5679138c8966ddb",
+                    "size": "28749291"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/540/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "d0af23f73f9026c5fe180d9fe170291f",
+                    "size": "291286"
+                }
+            ]
+        },
+        {
+            "build_number": 541,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/541/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "6df3befd3f8163ea0bd2bfda15250f9d",
+                    "size": "26990049"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/541/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "3a23110a3d9882c6e04e9fda9440b0ee",
+                    "size": "28770062"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/541/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "1614c2e1ae19358dfdd688ed292fe89b",
+                    "size": "291286"
+                }
+            ]
+        },
+        {
+            "build_number": 542,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/542/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "bfeb1327b51c0d68ba445668338560be",
+                    "size": "26993800"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/542/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "8ea6bbba3a538a335314a8e8ad8a60a5",
+                    "size": "287639"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/542/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "7997ae941cf57c91748f6a4ce4db2708",
+                    "size": "28773879"
+                }
+            ]
+        },
+        {
+            "build_number": 543,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/543/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "9e1dae17115b8cb02a5ee1b38dc62808",
+                    "size": "26994170"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/543/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "989cd8dfc140b3c00a9c635038943d60",
+                    "size": "28774215"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/543/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "7c9d0eb766767d5fe792b839fcfa0202",
+                    "size": "288766"
+                }
+            ]
+        },
+        {
+            "build_number": 544,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/544/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "e51a4504871a275cc978616879206e7b",
+                    "size": "27016780"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/544/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "bbdaa95d971c9bad72f4a8c287a94b14",
+                    "size": "28796826"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/544/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "0346166816c76e6fbdd35e89e1d105cd",
+                    "size": "288766"
+                }
+            ]
+        },
+        {
+            "build_number": 545,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/545/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "fc5976c53e5bb5607774d205b71266fa",
+                    "size": "27016782"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/545/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "e780309224b4e0294e4509f997950f68",
+                    "size": "28796827"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/545/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "69096d3dbbb283a312b29fb2c6b24a26",
+                    "size": "288766"
+                }
+            ]
+        },
+        {
+            "build_number": 546,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/546/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "4679d1f35ff652ac2d6dfdd6cdcb4be9",
+                    "size": "27020797"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/546/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "f4a20ce0c149037670849709779c0ec7",
+                    "size": "28800838"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/546/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "e872f46e60c5daa88657682f418bd5a4",
+                    "size": "288766"
+                }
+            ]
+        },
+        {
+            "build_number": 547,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/547/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "b078b387e901e9fd42a045133e773a15",
+                    "size": "27034219"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/547/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "d8031fad58d92b36c115f53933fd62fe",
+                    "size": "28814093"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/547/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "056a258b1f384a3f1e19ce9d62bab029",
+                    "size": "292042"
+                }
+            ]
+        },
+        {
+            "build_number": 548,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/548/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "e2770a8b63fb9b75f602b8710d789d13",
+                    "size": "27034614"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/548/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "fddcf789b83a0f92c306fcd81481be09",
+                    "size": "28814343"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/548/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "b9730875a0a8bfcfd89bd1d972453c8d",
+                    "size": "292042"
+                }
+            ]
+        },
+        {
+            "build_number": 549,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/549/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "868e565fe60dc8c3111b02bff420cd94",
+                    "size": "27063799"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/549/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "62cf9c8fa39b3a4858c8e3c42f530dc9",
+                    "size": "28843516"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/549/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "cfc40f226e65b26d0ef2790c0a1748a7",
+                    "size": "292042"
+                }
+            ]
+        },
+        {
+            "build_number": 550,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/550/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "2f9de510645cf59254aa3a8a679ab845",
+                    "size": "27064669"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/550/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "eb0e04236d0fb908df5f083d2506024b",
+                    "size": "28844366"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/550/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "5e9b5e901407ef8889fbde1c0f106305",
+                    "size": "293032"
+                }
+            ]
+        },
+        {
+            "build_number": 551,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/551/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "08732f413ca1eec29c8ea3d8385f77e6",
+                    "size": "27058772"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/551/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "97ab19e4b003b08625272c93cbb56a62",
+                    "size": "28838352"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/551/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "3d68b919fba7f09152468ffbb9614411",
+                    "size": "289517"
+                }
+            ]
+        },
+        {
+            "build_number": 552,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/552/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "6885113d58e0716289e9fcb07ce71439",
+                    "size": "27059708"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/552/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "91ca2900962ba1e534bb5d485e64cf88",
+                    "size": "28839287"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/552/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "d2186e76c257ffbf13eb542e56aac057",
+                    "size": "290453"
+                }
+            ]
+        },
+        {
+            "build_number": 553,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/553/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "19b6e77a883e3b621dac216f800f5ddb",
+                    "size": "27060178"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/553/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "ef8874544a28031e4cacacba920cd4c2",
+                    "size": "28839764"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/553/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "65ece4323da7e41b27b2590bb59db179",
+                    "size": "290604"
+                }
+            ]
+        },
+        {
+            "build_number": 554,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/554/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "cbd1e8493b35399a953a4adebec4c7fb",
+                    "size": "27060144"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/554/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "c3fe7590188d7180297fc1c2789b066f",
+                    "size": "28839702"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/554/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "f340ae906769bcd2128abbc56203c493",
+                    "size": "290610"
+                }
+            ]
+        },
+        {
+            "build_number": 555,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/555/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "4c96451c1a237631ab4f8d79efb15efb",
+                    "size": "27060143"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/555/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "a4e04fb353701bc5d561d38e36fc5968",
+                    "size": "28839703"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/555/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "714b190c1607e2dc2bb3d61efa91ddb3",
+                    "size": "290610"
+                }
+            ]
+        },
+        {
+            "build_number": 556,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/556/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT.jar",
+                    "hash": "c1208b34fcfa9c2696f7394075107c2e",
+                    "size": "27060144"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/556/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT+java8.jar",
+                    "hash": "f279399ab487dfb82a94169578103cdc",
+                    "size": "28839702"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/556/artifact/build/libs/ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-SNAPSHOT-sources.jar",
+                    "hash": "b91b78efadb3a8711cfec970a86762af",
+                    "size": "290610"
+                }
+            ]
+        },
+        {
+            "build_number": 557,
+            "version": "3.3.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/557/artifact/build/libs/ViaProxy-3.3.6.jar",
+                    "file_name": "ViaProxy-3.3.6.jar",
+                    "hash": "7102dc11a8f62ca90c1d366aba35f7c1",
+                    "size": "27130760"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/557/artifact/build/libs/ViaProxy-3.3.6+java8.jar",
+                    "file_name": "ViaProxy-3.3.6+java8.jar",
+                    "hash": "00659c10d4772c1875420602a89a03e0",
+                    "size": "28911595"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/557/artifact/build/libs/ViaProxy-3.3.6-sources.jar",
+                    "file_name": "ViaProxy-3.3.6-sources.jar",
+                    "hash": "c7b583eedcc2f0896c40b2687d801ce6",
+                    "size": "290610"
+                }
+            ]
+        },
+        {
+            "build_number": 558,
+            "version": "3.3.7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/558/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT.jar",
+                    "hash": "7a47f59adb878ae1bb5f5a44cc9e98af",
+                    "size": "27130828"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/558/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT+java8.jar",
+                    "hash": "80acd5192052c5890057da68f2cdf6f1",
+                    "size": "28911674"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/558/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT-sources.jar",
+                    "hash": "dc53f3af3d5d7422c12f7fcfa920eac7",
+                    "size": "290610"
+                }
+            ]
+        },
+        {
+            "build_number": 559,
+            "version": "3.3.7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/559/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT.jar",
+                    "hash": "25b6d452f9779b5ddad07a922dd03854",
+                    "size": "27130904"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/559/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT+java8.jar",
+                    "hash": "12acc35ae84499b925baf3391b50c0b5",
+                    "size": "28911749"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/559/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT-sources.jar",
+                    "hash": "c0d1a8c52c2ddab8668e000045e40525",
+                    "size": "290688"
+                }
+            ]
+        },
+        {
+            "build_number": 560,
+            "version": "3.3.7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/560/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT.jar",
+                    "hash": "7138b311427aa9ef39252d41081b5c71",
+                    "size": "27161379"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/560/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT+java8.jar",
+                    "hash": "a9bb899e77f9c849ed2d52435c3985e7",
+                    "size": "28941652"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/560/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT-sources.jar",
+                    "hash": "9accac08ebd46caafaa67118a34408cf",
+                    "size": "290688"
+                }
+            ]
+        },
+        {
+            "build_number": 561,
+            "version": "3.3.7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/561/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT.jar",
+                    "hash": "a68a9302cc80e040d93c72085774ab4e",
+                    "size": "27163568"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/561/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT+java8.jar",
+                    "hash": "a74db7971079084119a2ea3aab6a5e35",
+                    "size": "28943839"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/561/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT-sources.jar",
+                    "hash": "9eb2c5a04267b6901190163170284a15",
+                    "size": "290688"
+                }
+            ]
+        },
+        {
+            "build_number": 562,
+            "version": "3.3.7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/562/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT.jar",
+                    "hash": "068dffd66fea00f6bb13c8872556975a",
+                    "size": "27163435"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/562/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT+java8.jar",
+                    "hash": "1cbda45efd9f366c711d72f6fcb484e5",
+                    "size": "28943730"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/562/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT-sources.jar",
+                    "hash": "e3fcedc24abf9ce1e5c0e152c7e617c0",
+                    "size": "290529"
+                }
+            ]
+        },
+        {
+            "build_number": 563,
+            "version": "3.3.7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/563/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT.jar",
+                    "hash": "394967383b04694443b2cf04108f418f",
+                    "size": "27163160"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/563/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT+java8.jar",
+                    "hash": "2dc363d31b551957e0fbdb182452a369",
+                    "size": "28943369"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/563/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT-sources.jar",
+                    "hash": "f99c9191a1fd5294885a0ac831c8ff93",
+                    "size": "290534"
+                }
+            ]
+        },
+        {
+            "build_number": 564,
+            "version": "3.3.7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/564/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT.jar",
+                    "hash": "07aadde5a5585b7dd927d1af7321d7d5",
+                    "size": "27163971"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/564/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT+java8.jar",
+                    "hash": "881c779f18cf222c3d1a74b4183bf16d",
+                    "size": "28944168"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/564/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT-sources.jar",
+                    "hash": "98e752226e95a0945a0689a1c6967078",
+                    "size": "291428"
+                }
+            ]
+        },
+        {
+            "build_number": 565,
+            "version": "3.3.7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/565/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT.jar",
+                    "hash": "6fc884ed4f7ac894dcf0a94806c626f7",
+                    "size": "27162090"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/565/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT+java8.jar",
+                    "hash": "5d5472a031315fa39e9066804ec82c9e",
+                    "size": "28941898"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/565/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT-sources.jar",
+                    "hash": "90d61145a9991c1850ee1220eeca6fb2",
+                    "size": "291428"
+                }
+            ]
+        },
+        {
+            "build_number": 566,
+            "version": "3.3.7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/566/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT.jar",
+                    "hash": "874b7129ac06844f59a8fc36aaab8be1",
+                    "size": "27162183"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/566/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT+java8.jar",
+                    "hash": "26c3ec202de9a0a621439dfe392fdcc6",
+                    "size": "28941989"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/566/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT-sources.jar",
+                    "hash": "49298e74a010a77e2363fed60669f7f3",
+                    "size": "291518"
+                }
+            ]
+        },
+        {
+            "build_number": 567,
+            "version": "3.3.7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/567/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT.jar",
+                    "hash": "f2be2c115039e6c0a93af0c0dca07be9",
+                    "size": "27162181"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/567/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT+java8.jar",
+                    "hash": "cd06e3b31881b1544e81750d1522b264",
+                    "size": "28941989"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/567/artifact/build/libs/ViaProxy-3.3.7-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.7-SNAPSHOT-sources.jar",
+                    "hash": "bb181dc87cb7480fa65e4013b4dad4d8",
+                    "size": "291518"
+                }
+            ]
+        },
+        {
+            "build_number": 568,
+            "version": "3.3.7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/568/artifact/build/libs/ViaProxy-3.3.7.jar",
+                    "file_name": "ViaProxy-3.3.7.jar",
+                    "hash": "d0a6805a30ff6c8a142864d79bdd8e27",
+                    "size": "27162091"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/568/artifact/build/libs/ViaProxy-3.3.7+java8.jar",
+                    "file_name": "ViaProxy-3.3.7+java8.jar",
+                    "hash": "dc6633fb42a0cd4f986c6f2900748009",
+                    "size": "28941895"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/568/artifact/build/libs/ViaProxy-3.3.7-sources.jar",
+                    "file_name": "ViaProxy-3.3.7-sources.jar",
+                    "hash": "b17ee9f7433dd4de38c2b9029d16f939",
+                    "size": "291518"
+                }
+            ]
+        },
+        {
+            "build_number": 569,
+            "version": "3.3.8",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/569/artifact/build/libs/ViaProxy-3.3.8-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.8-SNAPSHOT.jar",
+                    "hash": "5d343ad5101d11c573fda860823a3d00",
+                    "size": "27162385"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/569/artifact/build/libs/ViaProxy-3.3.8-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.8-SNAPSHOT+java8.jar",
+                    "hash": "a409331a6a078ff5a2b58df333d61f8b",
+                    "size": "28942234"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/569/artifact/build/libs/ViaProxy-3.3.8-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.8-SNAPSHOT-sources.jar",
+                    "hash": "0ef3fa687faf7ba3f829dca57c46732e",
+                    "size": "291518"
+                }
+            ]
+        },
+        {
+            "build_number": 570,
+            "version": "3.3.8",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/570/artifact/build/libs/ViaProxy-3.3.8-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.8-SNAPSHOT.jar",
+                    "hash": "2e3145d525f2c0f4fa2d731dfe2a498c",
+                    "size": "27162340"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/570/artifact/build/libs/ViaProxy-3.3.8-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.8-SNAPSHOT+java8.jar",
+                    "hash": "e7e2ffe9c4c7bea19cee6e0a54626c58",
+                    "size": "28942188"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/570/artifact/build/libs/ViaProxy-3.3.8-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.8-SNAPSHOT-sources.jar",
+                    "hash": "a3b2f7f5b0a6cc223a6b29d864f8c4bc",
+                    "size": "291518"
+                }
+            ]
+        },
+        {
+            "build_number": 571,
+            "version": "3.3.8",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/571/artifact/build/libs/ViaProxy-3.3.8-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.8-SNAPSHOT.jar",
+                    "hash": "fcd9a61e5d8c1c88be42b3d785b80f8b",
+                    "size": "27162341"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/571/artifact/build/libs/ViaProxy-3.3.8-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.8-SNAPSHOT+java8.jar",
+                    "hash": "bb91a2f0fd0dfce842adb9213ccb21bd",
+                    "size": "28942188"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/571/artifact/build/libs/ViaProxy-3.3.8-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.8-SNAPSHOT-sources.jar",
+                    "hash": "c809b329c34ab6e09af613d02d9fb876",
+                    "size": "291518"
+                }
+            ]
+        },
+        {
+            "build_number": 572,
+            "version": "3.3.8",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/572/artifact/build/libs/ViaProxy-3.3.8-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.8-SNAPSHOT.jar",
+                    "hash": "dfb9e46a1ac8e559bd8cb5bcf29d7204",
+                    "size": "27179268"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/572/artifact/build/libs/ViaProxy-3.3.8-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.8-SNAPSHOT+java8.jar",
+                    "hash": "9de2687a2f0d7789a1e44374af79d3ff",
+                    "size": "28959049"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/572/artifact/build/libs/ViaProxy-3.3.8-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.8-SNAPSHOT-sources.jar",
+                    "hash": "377a7f1fb2c9553224df21dfa197a9f4",
+                    "size": "291385"
+                }
+            ]
+        },
+        {
+            "build_number": 573,
+            "version": "3.3.8",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/573/artifact/build/libs/ViaProxy-3.3.8-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.8-SNAPSHOT.jar",
+                    "hash": "32339bb61150ba3b4eb34e3024b869e8",
+                    "size": "27183351"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/573/artifact/build/libs/ViaProxy-3.3.8-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.8-SNAPSHOT+java8.jar",
+                    "hash": "bd2af3b008a2692f9f4a04de90aff201",
+                    "size": "28963134"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/573/artifact/build/libs/ViaProxy-3.3.8-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.8-SNAPSHOT-sources.jar",
+                    "hash": "42a13d1f10135efd3a1ccc2ad7823ea6",
+                    "size": "291385"
+                }
+            ]
+        },
+        {
+            "build_number": 574,
+            "version": "3.3.8",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/574/artifact/build/libs/ViaProxy-3.3.8-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.3.8-SNAPSHOT.jar",
+                    "hash": "76caa00fd179524be661f56ebada8a3a",
+                    "size": "27182754"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/574/artifact/build/libs/ViaProxy-3.3.8-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.3.8-SNAPSHOT+java8.jar",
+                    "hash": "e032c4ef5f7c302fae0d20bb1c992296",
+                    "size": "28962547"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/574/artifact/build/libs/ViaProxy-3.3.8-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.3.8-SNAPSHOT-sources.jar",
+                    "hash": "293fa11d9d5898633bfee65896192388",
+                    "size": "290461"
+                }
+            ]
+        },
+        {
+            "build_number": 575,
+            "version": "3.4.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/575/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "hash": "9bc6418fa40a9d85eedaccb2306f07e6",
+                    "size": "27186694"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/575/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "hash": "91b09e1bdb536c90ef2fcaedc35d591c",
+                    "size": "28966470"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/575/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "hash": "94de1e15318e9dbe3f4435099733c718",
+                    "size": "294240"
+                }
+            ]
+        },
+        {
+            "build_number": 576,
+            "version": "3.4.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/576/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "hash": "95f76bf82dc0b1e16e7be591bbcce350",
+                    "size": "27186733"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/576/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "hash": "6c1237e3f0578ab12a78e12c3564ff0c",
+                    "size": "28966507"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/576/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "hash": "b5fd8fe42556742e151fc239334c0622",
+                    "size": "294295"
+                }
+            ]
+        },
+        {
+            "build_number": 577,
+            "version": "3.4.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/577/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "hash": "a59a131f52d32794531b463126fbe06c",
+                    "size": "27200165"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/577/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "hash": "5343d8fc65731969de52c2c3e8cc940f",
+                    "size": "28980154"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/577/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "hash": "223993a46ab61c0142a40cc02dc4803c",
+                    "size": "294295"
+                }
+            ]
+        },
+        {
+            "build_number": 578,
+            "version": "3.4.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/578/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "hash": "b5df4b4c4e2cee098d4e05f89d6ad4c2",
+                    "size": "27200171"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/578/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "hash": "5b0dd450a0fd8384600667fdfeedbac5",
+                    "size": "28980159"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/578/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "hash": "9dacb4cb3031b78c838eaf77eac56e30",
+                    "size": "294300"
+                }
+            ]
+        },
+        {
+            "build_number": 579,
+            "version": "3.4.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/579/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "hash": "c8be0916a7bf6efe51fa5310df7758e3",
+                    "size": "27205190"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/579/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "hash": "ed543c94b81d7495a26b82ec690e5ba2",
+                    "size": "28985180"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/579/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "hash": "7f52d8f1794f3d09a65385b02cfb57af",
+                    "size": "297117"
+                }
+            ]
+        },
+        {
+            "build_number": 580,
+            "version": "3.4.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/580/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "hash": "b26e3e0df3866c4d871c826f026fd1a0",
+                    "size": "27205968"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/580/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "hash": "dc51a0023d87dbb15573d62811b2a71c",
+                    "size": "28986020"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/580/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "hash": "4c48177f46ec25f00695d684526d9dae",
+                    "size": "296276"
+                }
+            ]
+        },
+        {
+            "build_number": 581,
+            "version": "3.4.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/581/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "hash": "46c8838bc3aa3c678c5749b3f5339656",
+                    "size": "27206496"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/581/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "hash": "8a5712c4ab3b650e50c7d088e7a695f3",
+                    "size": "28986536"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/581/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "hash": "b3239f8f3fa7af2908ae22b0ca6f25a7",
+                    "size": "296588"
+                }
+            ]
+        },
+        {
+            "build_number": 582,
+            "version": "3.4.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/582/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "hash": "856177e2fcc58a7cb46b6f5176bb4b74",
+                    "size": "27222074"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/582/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "hash": "bb2de509f008197e9e617804246b8d1e",
+                    "size": "29002312"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/582/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "hash": "20d4dbcbec8029f478e5d9aa07db3e2f",
+                    "size": "296650"
+                }
+            ]
+        },
+        {
+            "build_number": 583,
+            "version": "3.4.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/583/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "hash": "3a5ea18a8acca63baa52dfa91e96514a",
+                    "size": "27225110"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/583/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "hash": "37f8dddc03358221280d55121b2075a4",
+                    "size": "29005324"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/583/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "hash": "50da700cba55ada29e085c63dfca67e8",
+                    "size": "297316"
+                }
+            ]
+        },
+        {
+            "build_number": 584,
+            "version": "3.4.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/584/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "hash": "3d9d1b651f875ed28a56164e076c3b6e",
+                    "size": "27219164"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/584/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "hash": "234ad385c7765b1f7a015b0c5273b2b2",
+                    "size": "28999390"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/584/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "hash": "c330c2c5b1e59a72940a3469afe80dff",
+                    "size": "297316"
+                }
+            ]
+        }
+    ],
+    "prev_build_number": 584
+}

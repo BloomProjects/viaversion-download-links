@@ -1,0 +1,123 @@
+{
+    "builds": [
+        {
+            "build_number": 1,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-Java8/1/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT-downgraded.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT-downgraded.jar",
+                    "hash": "7191e1a2e59e3ac9b5a4b8153e9682fb",
+                    "size": "370314"
+                }
+            ]
+        },
+        {
+            "build_number": 2,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-Java8/2/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT-downgraded.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT-downgraded.jar",
+                    "hash": "8b98ad6b83426bec35de499cc738309e",
+                    "size": "370362"
+                }
+            ]
+        },
+        {
+            "build_number": 3,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-Java8/3/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT-downgraded.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT-downgraded.jar",
+                    "hash": "32a50d5c5ac77bb2bfa2c3c2e3577d74",
+                    "size": "369638"
+                }
+            ]
+        },
+        {
+            "build_number": 4,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-Java8/4/artifact/universal/build/libs/ViaRewind-4.0.0-downgraded.jar",
+                    "file_name": "ViaRewind-4.0.0-downgraded.jar",
+                    "hash": "6663078bafd108903a0c734a5a10ad65",
+                    "size": "369589"
+                }
+            ]
+        },
+        {
+            "build_number": 5,
+            "version": "6807a02",
+            "artifacts": []
+        },
+        {
+            "build_number": 6,
+            "version": "",
+            "artifacts": []
+        },
+        {
+            "build_number": 7,
+            "version": "4.0.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-Java8/7/artifact/build/libs/ViaRewind-4.0.2-downgraded.jar",
+                    "file_name": "ViaRewind-4.0.2-downgraded.jar",
+                    "hash": "f7675f332bd0fb44ff7944bf82c42cda",
+                    "size": "261"
+                }
+            ]
+        },
+        {
+            "build_number": 8,
+            "version": "4.0.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-Java8/8/artifact/build/libs/ViaRewind-4.0.2-downgraded.jar",
+                    "file_name": "ViaRewind-4.0.2-downgraded.jar",
+                    "hash": "d73aa2e3d3f65843380eb94b63529e23",
+                    "size": "381862"
+                }
+            ]
+        },
+        {
+            "build_number": 9,
+            "version": "4.0.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-Java8/9/artifact/build/libs/ViaRewind-4.0.3-downgraded.jar",
+                    "file_name": "ViaRewind-4.0.3-downgraded.jar",
+                    "hash": "d8e8579afc483e85c0cfa4e8cb173f4f",
+                    "size": "385477"
+                }
+            ]
+        },
+        {
+            "build_number": 10,
+            "version": "4.0.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-Java8/10/artifact/build/libs/ViaRewind-4.0.4-downgraded.jar",
+                    "file_name": "ViaRewind-4.0.4-downgraded.jar",
+                    "hash": "5afae930a74046d5cd7a4d10b30fdf32",
+                    "size": "385455"
+                }
+            ]
+        },
+        {
+            "build_number": 11,
+            "version": "4.0.5",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-Java8/11/artifact/build/libs/ViaRewind-4.0.5-downgraded.jar",
+                    "file_name": "ViaRewind-4.0.5-downgraded.jar",
+                    "hash": "3fff97baa0cc4b6b298548135c325b06",
+                    "size": "385424"
+                }
+            ]
+        }
+    ],
+    "prev_build_number": 11
+}

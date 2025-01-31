@@ -1,0 +1,167 @@
+{
+    "builds": [
+        {
+            "build_number": 1,
+            "version": "Legacy",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind Legacy Support DEV/1/artifact/build/libs/ViaRewind-Legacy-Support-1.5.0-SNAPSHOT-sources.jar",
+                    "file_name": "ViaRewind-Legacy-Support-1.5.0-SNAPSHOT-sources.jar",
+                    "hash": "26601b207e2e8b3bc6ba500ee1edb70c",
+                    "size": "21984"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind Legacy Support DEV/1/artifact/build/libs/ViaRewind-Legacy-Support-1.5.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-Legacy-Support-1.5.0-SNAPSHOT.jar",
+                    "hash": "960862a2c2cce449686722dd3276752c",
+                    "size": "34193"
+                }
+            ]
+        },
+        {
+            "build_number": 2,
+            "version": "Legacy",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind Legacy Support DEV/2/artifact/build/libs/ViaRewind-Legacy-Support-1.5.0-SNAPSHOT-sources.jar",
+                    "file_name": "ViaRewind-Legacy-Support-1.5.0-SNAPSHOT-sources.jar",
+                    "hash": "b16271c7949385be66247b5de8e6f15a",
+                    "size": "21890"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind Legacy Support DEV/2/artifact/build/libs/ViaRewind-Legacy-Support-1.5.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-Legacy-Support-1.5.0-SNAPSHOT.jar",
+                    "hash": "0b40cfd1e732dac1b75d6746cabd2826",
+                    "size": "34310"
+                }
+            ]
+        },
+        {
+            "build_number": 3,
+            "version": "Legacy",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind Legacy Support DEV/3/artifact/build/libs/ViaRewind-Legacy-Support-1.5.0-SNAPSHOT-sources.jar",
+                    "file_name": "ViaRewind-Legacy-Support-1.5.0-SNAPSHOT-sources.jar",
+                    "hash": "36f536143a61f2446817712b11d5bf5a",
+                    "size": "21436"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind Legacy Support DEV/3/artifact/build/libs/ViaRewind-Legacy-Support-1.5.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-Legacy-Support-1.5.0-SNAPSHOT.jar",
+                    "hash": "5a39ab5e8c55db235ffadf101af10fab",
+                    "size": "33567"
+                }
+            ]
+        },
+        {
+            "build_number": 4,
+            "version": "Legacy",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind Legacy Support DEV/4/artifact/build/libs/ViaRewind-Legacy-Support-1.5.0-SNAPSHOT-sources.jar",
+                    "file_name": "ViaRewind-Legacy-Support-1.5.0-SNAPSHOT-sources.jar",
+                    "hash": "f83c627e69807e53dc8f899ba431d73e",
+                    "size": "21602"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind Legacy Support DEV/4/artifact/build/libs/ViaRewind-Legacy-Support-1.5.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-Legacy-Support-1.5.0-SNAPSHOT.jar",
+                    "hash": "057b1e22f3f39e64937c70c056c78eca",
+                    "size": "33795"
+                }
+            ]
+        },
+        {
+            "build_number": 5,
+            "version": "Legacy",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind Legacy Support DEV/5/artifact/build/libs/ViaRewind-Legacy-Support-1.5.0-SNAPSHOT-sources.jar",
+                    "file_name": "ViaRewind-Legacy-Support-1.5.0-SNAPSHOT-sources.jar",
+                    "hash": "a3bf97f70c81436be3972cac849ec7d9",
+                    "size": "21641"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind Legacy Support DEV/5/artifact/build/libs/ViaRewind-Legacy-Support-1.5.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-Legacy-Support-1.5.0-SNAPSHOT.jar",
+                    "hash": "a8e74644b45bf5d9ba98f3f2070b1c0c",
+                    "size": "33835"
+                }
+            ]
+        },
+        {
+            "build_number": 6,
+            "version": "Legacy",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind Legacy Support DEV/6/artifact/build/libs/ViaRewind-Legacy-Support-1.5.0-SNAPSHOT-sources.jar",
+                    "file_name": "ViaRewind-Legacy-Support-1.5.0-SNAPSHOT-sources.jar",
+                    "hash": "47bd5799e9d571b0ac55f4300a3385c3",
+                    "size": "21862"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind Legacy Support DEV/6/artifact/build/libs/ViaRewind-Legacy-Support-1.5.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-Legacy-Support-1.5.0-SNAPSHOT.jar",
+                    "hash": "c143e113556e9b7a114547ccbc750b5f",
+                    "size": "34153"
+                }
+            ]
+        },
+        {
+            "build_number": 7,
+            "version": "Legacy",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind Legacy Support DEV/7/artifact/build/libs/ViaRewind-Legacy-Support-1.5.0-SNAPSHOT-sources.jar",
+                    "file_name": "ViaRewind-Legacy-Support-1.5.0-SNAPSHOT-sources.jar",
+                    "hash": "727b9f2716a5de88fa1281d322cb50c9",
+                    "size": "21874"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind Legacy Support DEV/7/artifact/build/libs/ViaRewind-Legacy-Support-1.5.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-Legacy-Support-1.5.0-SNAPSHOT.jar",
+                    "hash": "e4ae64f4352ad0ee8dc3f366432d4125",
+                    "size": "34161"
+                }
+            ]
+        },
+        {
+            "build_number": 8,
+            "version": "Legacy",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind Legacy Support DEV/8/artifact/build/libs/ViaRewind-Legacy-Support-1.5.0-SNAPSHOT-sources.jar",
+                    "file_name": "ViaRewind-Legacy-Support-1.5.0-SNAPSHOT-sources.jar",
+                    "hash": "727b9f2716a5de88fa1281d322cb50c9",
+                    "size": "21874"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind Legacy Support DEV/8/artifact/build/libs/ViaRewind-Legacy-Support-1.5.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-Legacy-Support-1.5.0-SNAPSHOT.jar",
+                    "hash": "e4ae64f4352ad0ee8dc3f366432d4125",
+                    "size": "34161"
+                }
+            ]
+        },
+        {
+            "build_number": 9,
+            "version": "Legacy",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind Legacy Support DEV/9/artifact/build/libs/ViaRewind-Legacy-Support-1.5.1-sources.jar",
+                    "file_name": "ViaRewind-Legacy-Support-1.5.1-sources.jar",
+                    "hash": "897c0118d42c8d6002567012921bbc8e",
+                    "size": "22236"
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind Legacy Support DEV/9/artifact/build/libs/ViaRewind-Legacy-Support-1.5.1.jar",
+                    "file_name": "ViaRewind-Legacy-Support-1.5.1.jar",
+                    "hash": "6460a9621dca2e7a08328ea01702cbde",
+                    "size": "34518"
+                }
+            ]
+        }
+    ],
+    "prev_build_number": 9
+}

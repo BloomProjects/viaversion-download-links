@@ -75,7 +75,7 @@ def fetch_job_json_data(results: list, name: str, checkPoint: int, latestBuildNu
 	job_url = f"https://ci.viaversion.com/job/{name}"
 
 	pbar = tqdm(total=latestBuildNumber-checkPoint, desc=name)
-	with ThreadPoolExecutor(max_workers=16) as executor:
+	with ThreadPoolExecutor(max_workers=8) as executor:
 		futures = {executor.submit(lambda number: get_job(job_url, name, number), number): number for number in range(checkPoint+1, latestBuildNumber+1)}
 
 		for future in futures:

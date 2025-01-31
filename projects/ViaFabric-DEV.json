@@ -1,0 +1,17 @@
+{
+    "builds": [
+        {
+            "build_number": 1,
+            "version": "0.4.14+1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaFabric-DEV/1/artifact/build/libs/ViaFabric-0.4.14+1-dev-sources.jar",
+                    "file_name": "ViaFabric-0.4.14+1-dev-sources.jar",
+                    "hash": "24ba24a812a2a42b50fe5e0c8ec92028",
+                    "size": "100711"
+                }
+            ]
+        }
+    ],
+    "prev_build_number": 1
+}

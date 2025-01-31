@@ -1,0 +1,1438 @@
+{
+    "builds": [
+        {
+            "build_number": 3,
+            "version": "universal",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/3/artifact/universal/build/libs/viarewind-universal-3.0.0-SNAPSHOT.jar",
+                    "file_name": "viarewind-universal-3.0.0-SNAPSHOT.jar",
+                    "hash": "8936a0627f99199a2b67f516af30258c",
+                    "size": "443285"
+                }
+            ]
+        },
+        {
+            "build_number": 4,
+            "version": "universal",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/4/artifact/universal/build/libs/viarewind-universal-3.0.0-SNAPSHOT.jar",
+                    "file_name": "viarewind-universal-3.0.0-SNAPSHOT.jar",
+                    "hash": "36dc4a9638ad1c54fd6fdd6f145e89ed",
+                    "size": "261"
+                }
+            ]
+        },
+        {
+            "build_number": 5,
+            "version": "universal",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/5/artifact/universal/build/libs/viarewind-universal-3.0.0-SNAPSHOT.jar",
+                    "file_name": "viarewind-universal-3.0.0-SNAPSHOT.jar",
+                    "hash": "1cb91158e6e1256415cde935114ccdef",
+                    "size": "261"
+                }
+            ]
+        },
+        {
+            "build_number": 6,
+            "version": "universal",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/6/artifact/universal/build/libs/viarewind-universal-3.0.0-SNAPSHOT.jar",
+                    "file_name": "viarewind-universal-3.0.0-SNAPSHOT.jar",
+                    "hash": "2483d68bc7fd8b01e53ef4e88b762c8e",
+                    "size": "261"
+                }
+            ]
+        },
+        {
+            "build_number": 7,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/7/artifact/universal/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "9b2d8e9457b52d031ee6ac3bae2b6362",
+                    "size": "443284"
+                }
+            ]
+        },
+        {
+            "build_number": 8,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/8/artifact/universal/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "9b2d8e9457b52d031ee6ac3bae2b6362",
+                    "size": "443284"
+                }
+            ]
+        },
+        {
+            "build_number": 9,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/9/artifact/universal/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "9b2d8e9457b52d031ee6ac3bae2b6362",
+                    "size": "443284"
+                }
+            ]
+        },
+        {
+            "build_number": 10,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/10/artifact/universal/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "9b2d8e9457b52d031ee6ac3bae2b6362",
+                    "size": "443284"
+                }
+            ]
+        },
+        {
+            "build_number": 11,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/11/artifact/universal/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "9b2d8e9457b52d031ee6ac3bae2b6362",
+                    "size": "443284"
+                }
+            ]
+        },
+        {
+            "build_number": 12,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/12/artifact/universal/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "9b2d8e9457b52d031ee6ac3bae2b6362",
+                    "size": "443284"
+                }
+            ]
+        },
+        {
+            "build_number": 13,
+            "version": "",
+            "artifacts": []
+        },
+        {
+            "build_number": 14,
+            "version": "",
+            "artifacts": []
+        },
+        {
+            "build_number": 15,
+            "version": "",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/15/artifact/all/build/libs/ViaRewind.jar",
+                    "file_name": "ViaRewind.jar",
+                    "hash": "975a34e6133bdf705c833125a45da6b0",
+                    "size": "443284"
+                }
+            ]
+        },
+        {
+            "build_number": 16,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/16/artifact/all/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "332b9fd160762e7e0263e49a59dad6be",
+                    "size": "443284"
+                }
+            ]
+        },
+        {
+            "build_number": 17,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/17/artifact/all/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "b5bbfbddfb3a05352396500a6a920bfd",
+                    "size": "443285"
+                }
+            ]
+        },
+        {
+            "build_number": 18,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/18/artifact/all/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "de61d8b242f92cb76b74f6466dcfe0f7",
+                    "size": "443284"
+                }
+            ]
+        },
+        {
+            "build_number": 19,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/19/artifact/all/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "d243d6639d0697c85b081159e9ab533e",
+                    "size": "444529"
+                }
+            ]
+        },
+        {
+            "build_number": 20,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/20/artifact/all/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "3b46c28e0c8613cedd3566a21f6e3a16",
+                    "size": "444855"
+                }
+            ]
+        },
+        {
+            "build_number": 21,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/21/artifact/all/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "e6c5dedc820d127902fd485984115418",
+                    "size": "443673"
+                }
+            ]
+        },
+        {
+            "build_number": 22,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/22/artifact/all/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "0d6f428d6d70f10e66ab96b820772c70",
+                    "size": "443673"
+                }
+            ]
+        },
+        {
+            "build_number": 23,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/23/artifact/all/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "0d6f428d6d70f10e66ab96b820772c70",
+                    "size": "443673"
+                }
+            ]
+        },
+        {
+            "build_number": 24,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/24/artifact/all/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "0d6f428d6d70f10e66ab96b820772c70",
+                    "size": "443673"
+                }
+            ]
+        },
+        {
+            "build_number": 25,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/25/artifact/all/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "0d6f428d6d70f10e66ab96b820772c70",
+                    "size": "443673"
+                }
+            ]
+        },
+        {
+            "build_number": 26,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/26/artifact/all/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "0d6f428d6d70f10e66ab96b820772c70",
+                    "size": "443673"
+                }
+            ]
+        },
+        {
+            "build_number": 27,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/27/artifact/all/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "0d6f428d6d70f10e66ab96b820772c70",
+                    "size": "443673"
+                }
+            ]
+        },
+        {
+            "build_number": 28,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/28/artifact/all/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "0d6f428d6d70f10e66ab96b820772c70",
+                    "size": "443673"
+                }
+            ]
+        },
+        {
+            "build_number": 29,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/29/artifact/all/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "0d6f428d6d70f10e66ab96b820772c70",
+                    "size": "443673"
+                }
+            ]
+        },
+        {
+            "build_number": 30,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/30/artifact/all/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "0d6f428d6d70f10e66ab96b820772c70",
+                    "size": "443673"
+                }
+            ]
+        },
+        {
+            "build_number": 31,
+            "version": "3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/31/artifact/all/build/libs/ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.0-SNAPSHOT.jar",
+                    "hash": "0d6f428d6d70f10e66ab96b820772c70",
+                    "size": "443673"
+                }
+            ]
+        },
+        {
+            "build_number": 32,
+            "version": "3.0.1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/32/artifact/universal/build/libs/ViaRewind-3.0.1-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.1-SNAPSHOT.jar",
+                    "hash": "c5758bad005393b0c42ecf2fb296d9b9",
+                    "size": "444022"
+                }
+            ]
+        },
+        {
+            "build_number": 33,
+            "version": "3.0.1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/33/artifact/universal/build/libs/ViaRewind-3.0.1-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.1-SNAPSHOT.jar",
+                    "hash": "e19650b7ec05573bdfcf707779982f48",
+                    "size": "443977"
+                }
+            ]
+        },
+        {
+            "build_number": 34,
+            "version": "3.0.1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/34/artifact/universal/build/libs/ViaRewind-3.0.1-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.1-SNAPSHOT.jar",
+                    "hash": "21df41550507f3d3695ef19b7939a83a",
+                    "size": "443824"
+                }
+            ]
+        },
+        {
+            "build_number": 35,
+            "version": "3.0.1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/35/artifact/universal/build/libs/ViaRewind-3.0.1-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.1-SNAPSHOT.jar",
+                    "hash": "b37ea82b17081d76f1b532d543f88634",
+                    "size": "443824"
+                }
+            ]
+        },
+        {
+            "build_number": 36,
+            "version": "3.0.1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/36/artifact/universal/build/libs/ViaRewind-3.0.1-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.1-SNAPSHOT.jar",
+                    "hash": "bd10e318bb142ba73bb8019abfd30ed7",
+                    "size": "443825"
+                }
+            ]
+        },
+        {
+            "build_number": 37,
+            "version": "3.0.1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/37/artifact/universal/build/libs/ViaRewind-3.0.1-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.1-SNAPSHOT.jar",
+                    "hash": "c7805002cec14906ca1b046da09a833b",
+                    "size": "444183"
+                }
+            ]
+        },
+        {
+            "build_number": 38,
+            "version": "3.0.1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/38/artifact/universal/build/libs/ViaRewind-3.0.1-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.1-SNAPSHOT.jar",
+                    "hash": "317020494312235ce4447759d63c24ba",
+                    "size": "445181"
+                }
+            ]
+        },
+        {
+            "build_number": 39,
+            "version": "3.0.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/39/artifact/universal/build/libs/ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "hash": "c90f5aa9cfb165a5451d38ad36cb7262",
+                    "size": "445174"
+                }
+            ]
+        },
+        {
+            "build_number": 40,
+            "version": "3.0.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/40/artifact/universal/build/libs/ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "hash": "4353a3915b748a23497908e003e47e5e",
+                    "size": "443926"
+                }
+            ]
+        },
+        {
+            "build_number": 41,
+            "version": "3.0.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/41/artifact/universal/build/libs/ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "hash": "ef5ebe6b0f68262b117334ddd848ae38",
+                    "size": "443205"
+                }
+            ]
+        },
+        {
+            "build_number": 42,
+            "version": "3.0.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/42/artifact/universal/build/libs/ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "hash": "e774765d5306402d47aa5fc256e07197",
+                    "size": "441746"
+                }
+            ]
+        },
+        {
+            "build_number": 43,
+            "version": "3.0.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/43/artifact/universal/build/libs/ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "hash": "a04aa7cd4431d64c7adf9e7d2952e3a8",
+                    "size": "445324"
+                }
+            ]
+        },
+        {
+            "build_number": 44,
+            "version": "3.0.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/44/artifact/universal/build/libs/ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "hash": "7fa8b18f6fdbb18d9cd659b034b22f1f",
+                    "size": "445324"
+                }
+            ]
+        },
+        {
+            "build_number": 45,
+            "version": "3.0.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/45/artifact/universal/build/libs/ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "hash": "eaf542a16b30da32ef3c38ba9e81cc9c",
+                    "size": "445405"
+                }
+            ]
+        },
+        {
+            "build_number": 46,
+            "version": "3.0.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/46/artifact/universal/build/libs/ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "hash": "82dc58ce50fd0292d82b15add4b0637f",
+                    "size": "445566"
+                }
+            ]
+        },
+        {
+            "build_number": 47,
+            "version": "3.0.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/47/artifact/universal/build/libs/ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "hash": "9a7ef101fbbc8b36b69b34e13608905a",
+                    "size": "445112"
+                }
+            ]
+        },
+        {
+            "build_number": 48,
+            "version": "3.0.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/48/artifact/universal/build/libs/ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "hash": "fcfc9f5ff6782dcf100788403b2618c5",
+                    "size": "446047"
+                }
+            ]
+        },
+        {
+            "build_number": 49,
+            "version": "3.0.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/49/artifact/universal/build/libs/ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "hash": "e6ac6d1cae05202c9afb0367b606396a",
+                    "size": "446709"
+                }
+            ]
+        },
+        {
+            "build_number": 50,
+            "version": "3.0.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/50/artifact/universal/build/libs/ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "hash": "ccc44700dda72a4a936ecd6ba414980b",
+                    "size": "446725"
+                }
+            ]
+        },
+        {
+            "build_number": 51,
+            "version": "3.0.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/51/artifact/universal/build/libs/ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.2-SNAPSHOT.jar",
+                    "hash": "2af8ed43f3d5a7798f8f8a880599b65f",
+                    "size": "438440"
+                }
+            ]
+        },
+        {
+            "build_number": 52,
+            "version": "3.0.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/52/artifact/universal/build/libs/ViaRewind-3.0.3-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.3-SNAPSHOT.jar",
+                    "hash": "cfe629afa6a5c3ca0c9868b3c5a7b782",
+                    "size": "438438"
+                }
+            ]
+        },
+        {
+            "build_number": 53,
+            "version": "3.0.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/53/artifact/universal/build/libs/ViaRewind-3.0.3-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.3-SNAPSHOT.jar",
+                    "hash": "c1cfae97059c8fad9c4ba7e4cfe3fdbf",
+                    "size": "438444"
+                }
+            ]
+        },
+        {
+            "build_number": 54,
+            "version": "3.0.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/54/artifact/universal/build/libs/ViaRewind-3.0.3-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.3-SNAPSHOT.jar",
+                    "hash": "827b464627a12cde048737534d905fd0",
+                    "size": "438444"
+                }
+            ]
+        },
+        {
+            "build_number": 55,
+            "version": "3.0.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/55/artifact/universal/build/libs/ViaRewind-3.0.3-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.3-SNAPSHOT.jar",
+                    "hash": "291f41b3731b425cae065452ec0b96eb",
+                    "size": "439721"
+                }
+            ]
+        },
+        {
+            "build_number": 56,
+            "version": "3.0.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/56/artifact/universal/build/libs/ViaRewind-3.0.3-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.3-SNAPSHOT.jar",
+                    "hash": "7c07e2e0d0b956e060811801d4361c3a",
+                    "size": "440010"
+                }
+            ]
+        },
+        {
+            "build_number": 57,
+            "version": "3.0.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/57/artifact/universal/build/libs/ViaRewind-3.0.3-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.3-SNAPSHOT.jar",
+                    "hash": "583144cd0588cd5367dd3d1cd76c9dba",
+                    "size": "440129"
+                }
+            ]
+        },
+        {
+            "build_number": 58,
+            "version": "3.0.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/58/artifact/universal/build/libs/ViaRewind-3.0.3-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.3-SNAPSHOT.jar",
+                    "hash": "5cda37c717a5d77977ffe47d0b85f623",
+                    "size": "439807"
+                }
+            ]
+        },
+        {
+            "build_number": 59,
+            "version": "3.0.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/59/artifact/universal/build/libs/ViaRewind-3.0.3-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.3-SNAPSHOT.jar",
+                    "hash": "0e5a49187f86ad3bc1344cf2d6bf2f80",
+                    "size": "439759"
+                }
+            ]
+        },
+        {
+            "build_number": 60,
+            "version": "3.0.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/60/artifact/universal/build/libs/ViaRewind-3.0.3-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.3-SNAPSHOT.jar",
+                    "hash": "20aa6c51adc3a59a292dfff77ac37d32",
+                    "size": "439759"
+                }
+            ]
+        },
+        {
+            "build_number": 61,
+            "version": "3.0.3",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/61/artifact/universal/build/libs/ViaRewind-3.0.3-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.3-SNAPSHOT.jar",
+                    "hash": "1bea322f1b8b7318bb46d6d76ff43d18",
+                    "size": "427112"
+                }
+            ]
+        },
+        {
+            "build_number": 62,
+            "version": "3.0.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/62/artifact/universal/build/libs/ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "hash": "9694de4264107d401647bf8112659d65",
+                    "size": "427158"
+                }
+            ]
+        },
+        {
+            "build_number": 63,
+            "version": "3.0.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/63/artifact/universal/build/libs/ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "hash": "ecb367952ff822efc1a01c6a19483fbe",
+                    "size": "427124"
+                }
+            ]
+        },
+        {
+            "build_number": 64,
+            "version": "3.0.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/64/artifact/universal/build/libs/ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "hash": "baffa5a315a8d74b86f0f3ee675a53b5",
+                    "size": "427212"
+                }
+            ]
+        },
+        {
+            "build_number": 65,
+            "version": "3.0.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/65/artifact/universal/build/libs/ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "hash": "6c51522aaf154c23abaef793cbc6606c",
+                    "size": "427178"
+                }
+            ]
+        },
+        {
+            "build_number": 66,
+            "version": "3.0.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/66/artifact/universal/build/libs/ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "hash": "97fec5ce8820d284ffbfa83c82e20932",
+                    "size": "426737"
+                }
+            ]
+        },
+        {
+            "build_number": 67,
+            "version": "3.0.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/67/artifact/universal/build/libs/ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "hash": "10b9d96cd30c9067f932c4467db63374",
+                    "size": "433826"
+                }
+            ]
+        },
+        {
+            "build_number": 68,
+            "version": "3.0.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/68/artifact/universal/build/libs/ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "hash": "3bcf240a4afc36b883c4ae8a549ad410",
+                    "size": "433825"
+                }
+            ]
+        },
+        {
+            "build_number": 69,
+            "version": "3.0.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/69/artifact/universal/build/libs/ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "hash": "af44e6fac284ff46fc51645c0270c032",
+                    "size": "435356"
+                }
+            ]
+        },
+        {
+            "build_number": 70,
+            "version": "3.0.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/70/artifact/universal/build/libs/ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "hash": "65ae4742fa6851070c3e0faa14f71659",
+                    "size": "435644"
+                }
+            ]
+        },
+        {
+            "build_number": 71,
+            "version": "3.0.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/71/artifact/universal/build/libs/ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "hash": "d3bf998a8040f94e5d8f357bc7399a77",
+                    "size": "435644"
+                }
+            ]
+        },
+        {
+            "build_number": 72,
+            "version": "3.0.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/72/artifact/universal/build/libs/ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "hash": "963768ee0e49f4d8c01c97955c712daf",
+                    "size": "435644"
+                }
+            ]
+        },
+        {
+            "build_number": 73,
+            "version": "3.0.4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/73/artifact/universal/build/libs/ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.4-SNAPSHOT.jar",
+                    "hash": "d8a2c5f0d896e5b873d1d33acd918ad6",
+                    "size": "435644"
+                }
+            ]
+        },
+        {
+            "build_number": 74,
+            "version": "3.0.5",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/74/artifact/universal/build/libs/ViaRewind-3.0.5.jar",
+                    "file_name": "ViaRewind-3.0.5.jar",
+                    "hash": "66d90e4786d814ca4a29fc5dccec8574",
+                    "size": "435573"
+                }
+            ]
+        },
+        {
+            "build_number": 75,
+            "version": "3.0.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/75/artifact/universal/build/libs/ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "hash": "f39d620925b2cf0858a71ba906cbaa32",
+                    "size": "434711"
+                }
+            ]
+        },
+        {
+            "build_number": 76,
+            "version": "3.0.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/76/artifact/universal/build/libs/ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "hash": "78b246aead124c620a049bf45891ca8c",
+                    "size": "432950"
+                }
+            ]
+        },
+        {
+            "build_number": 77,
+            "version": "3.0.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/77/artifact/universal/build/libs/ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "hash": "e45102c18292c73daa54edfce4596646",
+                    "size": "432983"
+                }
+            ]
+        },
+        {
+            "build_number": 78,
+            "version": "3.0.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/78/artifact/universal/build/libs/ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "hash": "ef583d3cd3fc73d5ebdbaee149cc2871",
+                    "size": "432983"
+                }
+            ]
+        },
+        {
+            "build_number": 79,
+            "version": "3.0.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/79/artifact/universal/build/libs/ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "hash": "aca3f82934c1521e8da6a0e4d05b527d",
+                    "size": "432982"
+                }
+            ]
+        },
+        {
+            "build_number": 80,
+            "version": "3.0.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/80/artifact/universal/build/libs/ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "hash": "78f5cc1904ec5a893823ac8beb302231",
+                    "size": "433178"
+                }
+            ]
+        },
+        {
+            "build_number": 81,
+            "version": "3.0.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/81/artifact/universal/build/libs/ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "hash": "5d9673fb82b2db74daabb9531aaec524",
+                    "size": "433153"
+                }
+            ]
+        },
+        {
+            "build_number": 82,
+            "version": "3.0.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/82/artifact/universal/build/libs/ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "hash": "cc357cd68de674b5f5016857b2f182f0",
+                    "size": "433202"
+                }
+            ]
+        },
+        {
+            "build_number": 83,
+            "version": "3.0.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/83/artifact/universal/build/libs/ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "hash": "f9f792e5df3a634dfd230aba82b7fccd",
+                    "size": "433328"
+                }
+            ]
+        },
+        {
+            "build_number": 84,
+            "version": "3.0.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/84/artifact/universal/build/libs/ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "hash": "00e8c680b3ebcdd648d0a513d3b5d478",
+                    "size": "433328"
+                }
+            ]
+        },
+        {
+            "build_number": 85,
+            "version": "3.0.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/85/artifact/universal/build/libs/ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "hash": "d434f6759d62bad8f126b2d0f1ad130e",
+                    "size": "433622"
+                }
+            ]
+        },
+        {
+            "build_number": 86,
+            "version": "3.0.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/86/artifact/universal/build/libs/ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "hash": "bbc9b2d19353cdebe459064e2f1b4283",
+                    "size": "433704"
+                }
+            ]
+        },
+        {
+            "build_number": 87,
+            "version": "3.0.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/87/artifact/universal/build/libs/ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "hash": "ad889e519b4993c1cf9065dceeef2e16",
+                    "size": "433817"
+                }
+            ]
+        },
+        {
+            "build_number": 88,
+            "version": "",
+            "artifacts": []
+        },
+        {
+            "build_number": 89,
+            "version": "3.0.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/89/artifact/universal/build/libs/ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.6-SNAPSHOT.jar",
+                    "hash": "67aa680c65d3c6bcbba20d1fa725f3e0",
+                    "size": "433578"
+                }
+            ]
+        },
+        {
+            "build_number": 90,
+            "version": "3.0.6",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/90/artifact/universal/build/libs/ViaRewind-3.0.6-24w07a-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.6-24w07a-SNAPSHOT.jar",
+                    "hash": "5a9a8e194a3ff4ae36dcb246d889a32d",
+                    "size": "433623"
+                }
+            ]
+        },
+        {
+            "build_number": 91,
+            "version": "97044db",
+            "artifacts": []
+        },
+        {
+            "build_number": 92,
+            "version": "3.0.7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/92/artifact/universal/build/libs/ViaRewind-3.0.7-24w09a-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.7-24w09a-SNAPSHOT.jar",
+                    "hash": "91aadb411c51ffa4c209e24cd4bf6aa4",
+                    "size": "433761"
+                }
+            ]
+        },
+        {
+            "build_number": 93,
+            "version": "",
+            "artifacts": []
+        },
+        {
+            "build_number": 94,
+            "version": "3.0.7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/94/artifact/universal/build/libs/ViaRewind-3.0.7-24w09a-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.7-24w09a-SNAPSHOT.jar",
+                    "hash": "5bb78ff50b979369c8f4a3acc41341f3",
+                    "size": "433835"
+                }
+            ]
+        },
+        {
+            "build_number": 95,
+            "version": "3.0.7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/95/artifact/universal/build/libs/ViaRewind-3.0.7-24w09a-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.7-24w09a-SNAPSHOT.jar",
+                    "hash": "b913022fe9b8be23866c2d18e15cfc38",
+                    "size": "433835"
+                }
+            ]
+        },
+        {
+            "build_number": 96,
+            "version": "3.0.7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/96/artifact/universal/build/libs/ViaRewind-3.0.7-24w09a-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.7-24w09a-SNAPSHOT.jar",
+                    "hash": "97dfa21f5127cf368d3563c00bd4dde4",
+                    "size": "433830"
+                }
+            ]
+        },
+        {
+            "build_number": 97,
+            "version": "",
+            "artifacts": []
+        },
+        {
+            "build_number": 98,
+            "version": "",
+            "artifacts": []
+        },
+        {
+            "build_number": 99,
+            "version": "3.0.7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/99/artifact/universal/build/libs/ViaRewind-3.0.7-24w09a-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.7-24w09a-SNAPSHOT.jar",
+                    "hash": "6dfe8be8bd6dd7927771df1c3015ad4c",
+                    "size": "433761"
+                }
+            ]
+        },
+        {
+            "build_number": 100,
+            "version": "3.0.7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/100/artifact/universal/build/libs/ViaRewind-3.0.7-24w09a-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.7-24w09a-SNAPSHOT.jar",
+                    "hash": "a2f6bf345982343ab2ee48caf136017c",
+                    "size": "434262"
+                }
+            ]
+        },
+        {
+            "build_number": 101,
+            "version": "3.0.7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/101/artifact/universal/build/libs/ViaRewind-3.0.7-24w09a-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.0.7-24w09a-SNAPSHOT.jar",
+                    "hash": "f91d4e803fa7d748bb39f5d2e1963d76",
+                    "size": "434466"
+                }
+            ]
+        },
+        {
+            "build_number": 102,
+            "version": "",
+            "artifacts": []
+        },
+        {
+            "build_number": 103,
+            "version": "3.1.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/103/artifact/universal/build/libs/ViaRewind-3.1.2-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-3.1.2-SNAPSHOT.jar",
+                    "hash": "18ef866a45bb3321113a589230b1932e",
+                    "size": "379707"
+                }
+            ]
+        },
+        {
+            "build_number": 104,
+            "version": "3.1.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/104/artifact/universal/build/libs/ViaRewind-3.1.2.jar",
+                    "file_name": "ViaRewind-3.1.2.jar",
+                    "hash": "d24b35f89ece42c434c013cbcde458eb",
+                    "size": "379655"
+                }
+            ]
+        },
+        {
+            "build_number": 105,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/105/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "hash": "629f9f65b332fd8379eebeeb899a5be8",
+                    "size": "376955"
+                }
+            ]
+        },
+        {
+            "build_number": 106,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/106/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "hash": "629f9f65b332fd8379eebeeb899a5be8",
+                    "size": "376955"
+                }
+            ]
+        },
+        {
+            "build_number": 107,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/107/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "hash": "4b9ff5829184e8b3bf5765cc29abc68d",
+                    "size": "385729"
+                }
+            ]
+        },
+        {
+            "build_number": 108,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/108/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "hash": "362b0e177ed84752c53dac0fb28e13c3",
+                    "size": "385724"
+                }
+            ]
+        },
+        {
+            "build_number": 109,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/109/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "hash": "38dbd11d5790125c1764ed7d3d66373c",
+                    "size": "385768"
+                }
+            ]
+        },
+        {
+            "build_number": 110,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/110/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "hash": "5e07aecab07bf4fa470d9f5e821bf4cd",
+                    "size": "362234"
+                }
+            ]
+        },
+        {
+            "build_number": 111,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/111/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "hash": "8a79779919274b6d80e1c94d74f003ad",
+                    "size": "361980"
+                }
+            ]
+        },
+        {
+            "build_number": 112,
+            "version": "",
+            "artifacts": []
+        },
+        {
+            "build_number": 113,
+            "version": "",
+            "artifacts": []
+        },
+        {
+            "build_number": 114,
+            "version": "",
+            "artifacts": []
+        },
+        {
+            "build_number": 115,
+            "version": "",
+            "artifacts": []
+        },
+        {
+            "build_number": 116,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/116/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "hash": "27f4c7bbfad30d7855423505a65cc20e",
+                    "size": "362000"
+                }
+            ]
+        },
+        {
+            "build_number": 117,
+            "version": "",
+            "artifacts": []
+        },
+        {
+            "build_number": 118,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/118/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "hash": "8fe1435dfb1ed5ec580a33441306d821",
+                    "size": "362000"
+                }
+            ]
+        },
+        {
+            "build_number": 119,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/119/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "hash": "5a1e5d91356e0430d04a2607ed410f9e",
+                    "size": "359021"
+                }
+            ]
+        },
+        {
+            "build_number": 120,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/120/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "hash": "bee1a89793e931dbaacd1e59443e36b6",
+                    "size": "359021"
+                }
+            ]
+        },
+        {
+            "build_number": 121,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/121/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "hash": "fb773ebea598e3c134d49850e4a0993f",
+                    "size": "359022"
+                }
+            ]
+        },
+        {
+            "build_number": 122,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/122/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "hash": "b38803b2ab76192c908caa940c9f5143",
+                    "size": "359023"
+                }
+            ]
+        },
+        {
+            "build_number": 123,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/123/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "hash": "bcd3d3519b5bfbbed5149bf99f2bebcb",
+                    "size": "359085"
+                }
+            ]
+        },
+        {
+            "build_number": 124,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/124/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "hash": "b4713eed2dedeeaeb0c92b413fa5b96d",
+                    "size": "359085"
+                }
+            ]
+        },
+        {
+            "build_number": 125,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/125/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "hash": "0d0d68cc05551b4d6a8dd8393a1fef8a",
+                    "size": "359085"
+                }
+            ]
+        },
+        {
+            "build_number": 126,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/126/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "hash": "c184cbdc26c5ad7ba8009b2f9f26b455",
+                    "size": "358473"
+                }
+            ]
+        },
+        {
+            "build_number": 127,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/127/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "hash": "05ee4b82ed99e4d399506d5a296cfb98",
+                    "size": "358370"
+                }
+            ]
+        },
+        {
+            "build_number": 128,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/128/artifact/universal/build/libs/ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.0-SNAPSHOT.jar",
+                    "hash": "8a2eec270daa42f54565eccfc74c8c9a",
+                    "size": "358370"
+                }
+            ]
+        },
+        {
+            "build_number": 129,
+            "version": "4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-DEV/129/artifact/universal/build/libs/ViaRewind-4.0.0.jar",
+                    "file_name": "ViaRewind-4.0.0.jar",
+                    "hash": "62fc7f780df8fee7a3ef08a0aa9df7af",
+                    "size": "358320"
+                }
+            ]
+        }
+    ],
+    "prev_build_number": 129
+}
