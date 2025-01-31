@@ -53,7 +53,7 @@ def get_job(job_url: str, name: str, buildNumber: int):
 		if artifacts_metadata:
 			filename = artifacts_metadata[0]["file_name"].removesuffix(".jar")
 			version = filename.split("-")[1]
-		elif "SNAPSHOT" in r.text:
+		if "SNAPSHOT" in r.text:
 			version = data["changeSet"]["items"][0]["commitId"][:7]
 	except Exception as e:
 		pass
