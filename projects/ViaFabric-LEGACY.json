@@ -8,13 +8,13 @@
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/1/artifact/build/libs/ViaFabric-0.4.14+1-legacy-sources.jar",
                     "file_name": "ViaFabric-0.4.14+1-legacy-sources.jar",
                     "hash": "5c9c10089500c87abe86d0a35c39ec35",
-                    "size": "100549"
+                    "size": 100549
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/1/artifact/build/libs/ViaFabric-0.4.14+1-legacy.jar",
                     "file_name": "ViaFabric-0.4.14+1-legacy.jar",
                     "hash": "69246369b68dc80efab137f45828525c",
-                    "size": "4511820"
+                    "size": 4511820
                 }
             ]
         },
@@ -26,13 +26,13 @@
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/2/artifact/build/libs/ViaFabric-0.4.15+2-legacy-sources.jar",
                     "file_name": "ViaFabric-0.4.15+2-legacy-sources.jar",
                     "hash": "afd92b2081b516887864d464cc414ef6",
-                    "size": "100549"
+                    "size": 100549
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/2/artifact/build/libs/ViaFabric-0.4.15+2-legacy.jar",
                     "file_name": "ViaFabric-0.4.15+2-legacy.jar",
                     "hash": "59f8601c99c3d1f2a7b8a2f513f14ada",
-                    "size": "4514042"
+                    "size": 4514042
                 }
             ]
         },
@@ -44,13 +44,13 @@
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/3/artifact/build/libs/ViaFabric-0.4.15+3-legacy-sources.jar",
                     "file_name": "ViaFabric-0.4.15+3-legacy-sources.jar",
                     "hash": "55a268d273dbda5730f5f3e9ece2c040",
-                    "size": "100516"
+                    "size": 100516
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/3/artifact/build/libs/ViaFabric-0.4.15+3-legacy.jar",
                     "file_name": "ViaFabric-0.4.15+3-legacy.jar",
                     "hash": "1cc8b5a1e74c07858b4c1c076f6a8ecf",
-                    "size": "4519677"
+                    "size": 4519677
                 }
             ]
         },
@@ -62,13 +62,13 @@
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/4/artifact/build/libs/ViaFabric-0.4.15+4-legacy-sources.jar",
                     "file_name": "ViaFabric-0.4.15+4-legacy-sources.jar",
                     "hash": "e67e510fe3bd39c10bcd8d4e356cc013",
-                    "size": "100516"
+                    "size": 100516
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/4/artifact/build/libs/ViaFabric-0.4.15+4-legacy.jar",
                     "file_name": "ViaFabric-0.4.15+4-legacy.jar",
                     "hash": "9fe0c3eb552761c66b91dee3e26811b2",
-                    "size": "5884980"
+                    "size": 5884980
                 }
             ]
         },
@@ -80,13 +80,13 @@
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/5/artifact/build/libs/ViaFabric-0.4.16+5-legacy-sources.jar",
                     "file_name": "ViaFabric-0.4.16+5-legacy-sources.jar",
                     "hash": "f668f6d1aed0cb296793f3770f9b019d",
-                    "size": "100516"
+                    "size": 100516
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/5/artifact/build/libs/ViaFabric-0.4.16+5-legacy.jar",
                     "file_name": "ViaFabric-0.4.16+5-legacy.jar",
                     "hash": "db4dec9d77b55c256d3f851fd024b35c",
-                    "size": "6106311"
+                    "size": 6106311
                 }
             ]
         },
@@ -98,13 +98,13 @@
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/6/artifact/build/libs/ViaFabric-0.4.16+6-legacy-sources.jar",
                     "file_name": "ViaFabric-0.4.16+6-legacy-sources.jar",
                     "hash": "ef3208189b65de65833213de9fdda6d2",
-                    "size": "100517"
+                    "size": 100517
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/6/artifact/build/libs/ViaFabric-0.4.16+6-legacy.jar",
                     "file_name": "ViaFabric-0.4.16+6-legacy.jar",
                     "hash": "3de49fbd0df094578a679fc1c4c64dac",
-                    "size": "6114224"
+                    "size": 6114224
                 }
             ]
         },
@@ -116,13 +116,13 @@
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/7/artifact/build/libs/ViaFabric-0.4.17+7-legacy-sources.jar",
                     "file_name": "ViaFabric-0.4.17+7-legacy-sources.jar",
                     "hash": "362e618cc06c84bc8264304b3fd7530b",
-                    "size": "100517"
+                    "size": 100517
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/7/artifact/build/libs/ViaFabric-0.4.17+7-legacy.jar",
                     "file_name": "ViaFabric-0.4.17+7-legacy.jar",
                     "hash": "57d35c0601aaf7243fa619eac7e11043",
-                    "size": "6253748"
+                    "size": 6253748
                 }
             ]
         },
@@ -134,13 +134,13 @@
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/8/artifact/build/libs/ViaFabric-0.4.17+8-legacy-sources.jar",
                     "file_name": "ViaFabric-0.4.17+8-legacy-sources.jar",
                     "hash": "25eb8d4f6c34d9f0c8678e2f3d39a629",
-                    "size": "100517"
+                    "size": 100517
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/8/artifact/build/libs/ViaFabric-0.4.17+8-legacy.jar",
                     "file_name": "ViaFabric-0.4.17+8-legacy.jar",
                     "hash": "b00e4a8e51bea0480be141f4bd758396",
-                    "size": "6253745"
+                    "size": 6253745
                 }
             ]
         },
@@ -152,13 +152,13 @@
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/9/artifact/build/libs/ViaFabric-0.4.17+9-legacy-sources.jar",
                     "file_name": "ViaFabric-0.4.17+9-legacy-sources.jar",
                     "hash": "b2d0d2222064442a83f58215d5dffcec",
-                    "size": "100517"
+                    "size": 100517
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/9/artifact/build/libs/ViaFabric-0.4.17+9-legacy.jar",
                     "file_name": "ViaFabric-0.4.17+9-legacy.jar",
                     "hash": "c5d8c8c7cd07c61eb26dd9849d0e2bbc",
-                    "size": "6235037"
+                    "size": 6235037
                 }
             ]
         },
@@ -170,13 +170,13 @@
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/10/artifact/build/libs/ViaFabric-0.4.17+10-legacy-sources.jar",
                     "file_name": "ViaFabric-0.4.17+10-legacy-sources.jar",
                     "hash": "872dfd2657f3a0ae09e20471ae95db5e",
-                    "size": "100501"
+                    "size": 100501
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/10/artifact/build/libs/ViaFabric-0.4.17+10-legacy.jar",
                     "file_name": "ViaFabric-0.4.17+10-legacy.jar",
                     "hash": "62266b4d1e8f186c96b1ab3e9ed32d2e",
-                    "size": "6245298"
+                    "size": 6245298
                 }
             ]
         },
@@ -188,13 +188,13 @@
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/11/artifact/build/libs/ViaFabric-0.4.17+11-legacy-sources.jar",
                     "file_name": "ViaFabric-0.4.17+11-legacy-sources.jar",
                     "hash": "0344d27faf8617a7c76a9cfa2455c675",
-                    "size": "100501"
+                    "size": 100501
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/11/artifact/build/libs/ViaFabric-0.4.17+11-legacy.jar",
                     "file_name": "ViaFabric-0.4.17+11-legacy.jar",
                     "hash": "6e022bf2582dd7710822a258f1ed9502",
-                    "size": "6245298"
+                    "size": 6245298
                 }
             ]
         },
@@ -206,13 +206,13 @@
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/12/artifact/build/libs/ViaFabric-0.4.17+12-legacy-sources.jar",
                     "file_name": "ViaFabric-0.4.17+12-legacy-sources.jar",
                     "hash": "7a5fad6eb483749a99ef3254e985c950",
-                    "size": "100501"
+                    "size": 100501
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/12/artifact/build/libs/ViaFabric-0.4.17+12-legacy.jar",
                     "file_name": "ViaFabric-0.4.17+12-legacy.jar",
                     "hash": "0fdddb3a88e573d0cced8e24142cac81",
-                    "size": "6245294"
+                    "size": 6245294
                 }
             ]
         }

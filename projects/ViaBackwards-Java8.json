@@ -8,7 +8,7 @@
                     "url": "https://ci.viaversion.com/job/ViaBackwards-Java8/5/artifact/build/libs/ViaBackwards-5.0.0-SNAPSHOT-downgraded.jar",
                     "file_name": "ViaBackwards-5.0.0-SNAPSHOT-downgraded.jar",
                     "hash": "259e1ad6f551b8911a8575430e78bf73",
-                    "size": "1133719"
+                    "size": 1133719
                 }
             ]
         },
@@ -20,7 +20,7 @@
                     "url": "https://ci.viaversion.com/job/ViaBackwards-Java8/6/artifact/build/libs/ViaBackwards-5.0.0-downgraded.jar",
                     "file_name": "ViaBackwards-5.0.0-downgraded.jar",
                     "hash": "9b64f4dd51272d7ad2e94b1c879b0859",
-                    "size": "1149344"
+                    "size": 1149344
                 }
             ]
         },
@@ -32,7 +32,7 @@
                     "url": "https://ci.viaversion.com/job/ViaBackwards-Java8/7/artifact/build/libs/ViaBackwards-5.0.1-downgraded.jar",
                     "file_name": "ViaBackwards-5.0.1-downgraded.jar",
                     "hash": "74b2682ae033a27c8df7d006f8c4e765",
-                    "size": "1155237"
+                    "size": 1155237
                 }
             ]
         },
@@ -44,7 +44,7 @@
                     "url": "https://ci.viaversion.com/job/ViaBackwards-Java8/8/artifact/build/libs/ViaBackwards-5.0.2-downgraded.jar",
                     "file_name": "ViaBackwards-5.0.2-downgraded.jar",
                     "hash": "40cc5344f5b441233896e7d5b80dc7da",
-                    "size": "1157229"
+                    "size": 1157229
                 }
             ]
         },
@@ -56,7 +56,7 @@
                     "url": "https://ci.viaversion.com/job/ViaBackwards-Java8/9/artifact/build/libs/ViaBackwards-5.0.3-downgraded.jar",
                     "file_name": "ViaBackwards-5.0.3-downgraded.jar",
                     "hash": "82b9e40479a02989706a27fa8d486d87",
-                    "size": "1160050"
+                    "size": 1160050
                 }
             ]
         },
@@ -68,7 +68,7 @@
                     "url": "https://ci.viaversion.com/job/ViaBackwards-Java8/10/artifact/build/libs/ViaBackwards-5.0.3-downgraded.jar",
                     "file_name": "ViaBackwards-5.0.3-downgraded.jar",
                     "hash": "82b9e40479a02989706a27fa8d486d87",
-                    "size": "1160050"
+                    "size": 1160050
                 }
             ]
         },
@@ -80,7 +80,7 @@
                     "url": "https://ci.viaversion.com/job/ViaBackwards-Java8/11/artifact/build/libs/ViaBackwards-5.0.3-downgraded.jar",
                     "file_name": "ViaBackwards-5.0.3-downgraded.jar",
                     "hash": "82b9e40479a02989706a27fa8d486d87",
-                    "size": "1160050"
+                    "size": 1160050
                 }
             ]
         },
@@ -92,7 +92,7 @@
                     "url": "https://ci.viaversion.com/job/ViaBackwards-Java8/12/artifact/build/libs/ViaBackwards-5.0.4-downgraded.jar",
                     "file_name": "ViaBackwards-5.0.4-downgraded.jar",
                     "hash": "1df099cfdaf224996291d328307cda04",
-                    "size": "1161055"
+                    "size": 1161055
                 }
             ]
         },
@@ -104,7 +104,7 @@
                     "url": "https://ci.viaversion.com/job/ViaBackwards-Java8/13/artifact/build/libs/ViaBackwards-5.1.0-downgraded.jar",
                     "file_name": "ViaBackwards-5.1.0-downgraded.jar",
                     "hash": "e0a42f0cb516867566a47d93ba116964",
-                    "size": "1212127"
+                    "size": 1212127
                 }
             ]
         },
@@ -116,7 +116,7 @@
                     "url": "https://ci.viaversion.com/job/ViaBackwards-Java8/14/artifact/build/libs/ViaBackwards-5.1.1-downgraded.jar",
                     "file_name": "ViaBackwards-5.1.1-downgraded.jar",
                     "hash": "e6cf013fadbb1801b6d353a143c9acf5",
-                    "size": "1213160"
+                    "size": 1213160
                 }
             ]
         },
@@ -128,7 +128,7 @@
                     "url": "https://ci.viaversion.com/job/ViaBackwards-Java8/15/artifact/build/libs/ViaBackwards-5.2.0-downgraded.jar",
                     "file_name": "ViaBackwards-5.2.0-downgraded.jar",
                     "hash": "03df797d22e21d9c872380d74bbdff75",
-                    "size": "1254347"
+                    "size": 1254347
                 }
             ]
         },
@@ -140,7 +140,7 @@
                     "url": "https://ci.viaversion.com/job/ViaBackwards-Java8/16/artifact/build/libs/ViaBackwards-5.2.0-downgraded.jar",
                     "file_name": "ViaBackwards-5.2.0-downgraded.jar",
                     "hash": "03df797d22e21d9c872380d74bbdff75",
-                    "size": "1254347"
+                    "size": 1254347
                 }
             ]
         },
@@ -152,7 +152,7 @@
                     "url": "https://ci.viaversion.com/job/ViaBackwards-Java8/17/artifact/build/libs/ViaBackwards-5.2.1-downgraded.jar",
                     "file_name": "ViaBackwards-5.2.1-downgraded.jar",
                     "hash": "a57824c71b4c2dd348303911f6b3fd11",
-                    "size": "1254526"
+                    "size": 1254526
                 }
             ]
         },
@@ -164,7 +164,7 @@
                     "url": "https://ci.viaversion.com/job/ViaBackwards-Java8/18/artifact/build/libs/ViaBackwards-5.2.1-downgraded.jar",
                     "file_name": "ViaBackwards-5.2.1-downgraded.jar",
                     "hash": "2f430e3abd909448a198bbdfc806af9d",
-                    "size": "1254526"
+                    "size": 1254526
                 }
             ]
         }

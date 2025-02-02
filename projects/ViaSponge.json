@@ -13,7 +13,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/2/artifact/build/libs/ViaSponge-1.0.0.jar",
                     "file_name": "ViaSponge-1.0.0.jar",
                     "hash": "00d7e5c32d62b98f950a486c91752f56",
-                    "size": "115704"
+                    "size": 115704
                 }
             ]
         },
@@ -25,7 +25,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/3/artifact/build/libs/ViaSponge-1.0.0.jar",
                     "file_name": "ViaSponge-1.0.0.jar",
                     "hash": "cacb1ca31c02e0bfad8015af0d6e8ec9",
-                    "size": "115704"
+                    "size": 115704
                 }
             ]
         },
@@ -37,7 +37,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/4/artifact/build/libs/ViaSponge-1.0.0.jar",
                     "file_name": "ViaSponge-1.0.0.jar",
                     "hash": "5af95ee929c41fb79d86dabe12f9fdee",
-                    "size": "115595"
+                    "size": 115595
                 }
             ]
         },
@@ -49,7 +49,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/5/artifact/build/libs/ViaSponge-1.0.0.jar",
                     "file_name": "ViaSponge-1.0.0.jar",
                     "hash": "f198b787d9e7b3557985de95202c78c8",
-                    "size": "116756"
+                    "size": 116756
                 }
             ]
         },
@@ -61,7 +61,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/6/artifact/build/libs/ViaSponge-1.0.0.jar",
                     "file_name": "ViaSponge-1.0.0.jar",
                     "hash": "91134f02d194b85517c306cd8f7ea2a5",
-                    "size": "116752"
+                    "size": 116752
                 }
             ]
         },
@@ -73,7 +73,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/7/artifact/build/libs/ViaSponge-1.0.1.jar",
                     "file_name": "ViaSponge-1.0.1.jar",
                     "hash": "89b2d61df66a2772fb9334aa679a68f4",
-                    "size": "131464"
+                    "size": 131464
                 }
             ]
         },
@@ -85,7 +85,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/8/artifact/build/libs/ViaSponge-1.0.1.jar",
                     "file_name": "ViaSponge-1.0.1.jar",
                     "hash": "6267ceef96e6b5343ffeee65c08bf128",
-                    "size": "131464"
+                    "size": 131464
                 }
             ]
         },
@@ -97,7 +97,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/9/artifact/build/libs/ViaSponge-1.0.1.jar",
                     "file_name": "ViaSponge-1.0.1.jar",
                     "hash": "04bda2400d8352539626eeb412d49419",
-                    "size": "131464"
+                    "size": 131464
                 }
             ]
         },
@@ -109,7 +109,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/10/artifact/build/libs/ViaSponge-1.0.1.jar",
                     "file_name": "ViaSponge-1.0.1.jar",
                     "hash": "5697f84033b297a2ffdc559de7d9fe6f",
-                    "size": "131464"
+                    "size": 131464
                 }
             ]
         },
@@ -121,7 +121,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/11/artifact/build/libs/ViaSponge-1.0.1.jar",
                     "file_name": "ViaSponge-1.0.1.jar",
                     "hash": "4adb67e20cd80195355c8b2668b06b1f",
-                    "size": "131464"
+                    "size": 131464
                 }
             ]
         },
@@ -133,7 +133,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/12/artifact/build/libs/ViaSponge-1.0.1.jar",
                     "file_name": "ViaSponge-1.0.1.jar",
                     "hash": "370f0c40fa67159462d99c538002bc27",
-                    "size": "131464"
+                    "size": 131464
                 }
             ]
         },
@@ -145,7 +145,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/13/artifact/build/libs/ViaSponge-1.0.1.jar",
                     "file_name": "ViaSponge-1.0.1.jar",
                     "hash": "3a761843b0c28941949126f5d8ef3349",
-                    "size": "131464"
+                    "size": 131464
                 }
             ]
         },
@@ -157,7 +157,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/14/artifact/build/libs/ViaSponge-1.0.1.jar",
                     "file_name": "ViaSponge-1.0.1.jar",
                     "hash": "51dafba3eed1827fa2a9602facc89865",
-                    "size": "131464"
+                    "size": 131464
                 }
             ]
         },
@@ -169,7 +169,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/15/artifact/build/libs/ViaSponge-1.1.0.jar",
                     "file_name": "ViaSponge-1.1.0.jar",
                     "hash": "12ed36ca223695bd238aeff909b0f6f3",
-                    "size": "46015"
+                    "size": 46015
                 }
             ]
         },
@@ -181,7 +181,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/16/artifact/build/libs/ViaSponge-1.1.0.jar",
                     "file_name": "ViaSponge-1.1.0.jar",
                     "hash": "84fdee7e51bedcda3968f71a6db5022f",
-                    "size": "46257"
+                    "size": 46257
                 }
             ]
         },
@@ -193,7 +193,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/17/artifact/build/libs/ViaSponge-1.1.0.jar",
                     "file_name": "ViaSponge-1.1.0.jar",
                     "hash": "3dcf5aac2eefaa9609d22982b2bad849",
-                    "size": "46269"
+                    "size": 46269
                 }
             ]
         },
@@ -205,7 +205,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/18/artifact/build/libs/ViaSponge-1.1.1.jar",
                     "file_name": "ViaSponge-1.1.1.jar",
                     "hash": "0e53fdb17e27a5e75a3e3d9881c76cc3",
-                    "size": "46270"
+                    "size": 46270
                 }
             ]
         },
@@ -217,7 +217,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/19/artifact/build/libs/ViaSponge-1.1.1.jar",
                     "file_name": "ViaSponge-1.1.1.jar",
                     "hash": "88330ecd6a7cedb9bcfce53d406d54a4",
-                    "size": "46270"
+                    "size": 46270
                 }
             ]
         },
@@ -229,7 +229,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/20/artifact/build/libs/ViaSponge-1.1.1.jar",
                     "file_name": "ViaSponge-1.1.1.jar",
                     "hash": "dd05ad3174ec7b01c96f0d93a2f738c2",
-                    "size": "46270"
+                    "size": 46270
                 }
             ]
         },
@@ -241,7 +241,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/21/artifact/build/libs/ViaSponge-1.1.1.jar",
                     "file_name": "ViaSponge-1.1.1.jar",
                     "hash": "6889116951d174601e8982351b8078e1",
-                    "size": "46270"
+                    "size": 46270
                 }
             ]
         },
@@ -253,7 +253,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/22/artifact/build/libs/ViaSponge-1.1.1.jar",
                     "file_name": "ViaSponge-1.1.1.jar",
                     "hash": "d01deaea0e34bc97c5b814aa8ed368ac",
-                    "size": "46270"
+                    "size": 46270
                 }
             ]
         },
@@ -265,7 +265,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/23/artifact/build/libs/ViaSponge-1.1.1.jar",
                     "file_name": "ViaSponge-1.1.1.jar",
                     "hash": "6f26c4b11d2c75d0f9537b8f15992471",
-                    "size": "46270"
+                    "size": 46270
                 }
             ]
         },
@@ -277,7 +277,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/24/artifact/build/libs/ViaSponge-1.1.1.jar",
                     "file_name": "ViaSponge-1.1.1.jar",
                     "hash": "e4f080ee64f2648e859f055120c87bf5",
-                    "size": "46270"
+                    "size": 46270
                 }
             ]
         },
@@ -289,7 +289,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/25/artifact/build/libs/ViaSponge-1.1.1.jar",
                     "file_name": "ViaSponge-1.1.1.jar",
                     "hash": "6ea4171a7fbf4af7f59e3b14a6fe4554",
-                    "size": "46270"
+                    "size": 46270
                 }
             ]
         },
@@ -301,7 +301,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/26/artifact/build/libs/ViaSponge-1.1.1.jar",
                     "file_name": "ViaSponge-1.1.1.jar",
                     "hash": "f9f2240943d7258104fef62d993cb9b6",
-                    "size": "46270"
+                    "size": 46270
                 }
             ]
         },
@@ -313,7 +313,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/27/artifact/build/libs/ViaSponge-1.1.1.jar",
                     "file_name": "ViaSponge-1.1.1.jar",
                     "hash": "287b2b9ef9526f43544a8e6efee7323a",
-                    "size": "46270"
+                    "size": 46270
                 }
             ]
         },
@@ -325,7 +325,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/28/artifact/build/libs/ViaSponge-1.2.0.jar",
                     "file_name": "ViaSponge-1.2.0.jar",
                     "hash": "145c6f97bfe4a8662ec4f702424d408b",
-                    "size": "46262"
+                    "size": 46262
                 }
             ]
         },
@@ -337,7 +337,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/29/artifact/build/libs/ViaSponge-1.2.0.jar",
                     "file_name": "ViaSponge-1.2.0.jar",
                     "hash": "b3e3f91fc9f1c0919de80fe447f1a072",
-                    "size": "46236"
+                    "size": 46236
                 }
             ]
         },
@@ -349,7 +349,7 @@
                     "url": "https://ci.viaversion.com/job/ViaSponge/30/artifact/build/libs/ViaSponge-1.2.0.jar",
                     "file_name": "ViaSponge-1.2.0.jar",
                     "hash": "a94e0c8b0e7d586a43644344fbaa62b1",
-                    "size": "46236"
+                    "size": 46236
                 }
             ]
         }

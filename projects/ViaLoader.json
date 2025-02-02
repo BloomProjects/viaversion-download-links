@@ -5,46 +5,46 @@
             "version": "2.2.5",
             "artifacts": [
                 {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/1/artifact/build/libs/ViaLoader-2.2.5-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.5-SNAPSHOT-javadoc.jar",
-                    "hash": "bbe9cce5fa5c5a6ee82891dd09a2567f",
-                    "size": "139449"
-                },
-                {
                     "url": "https://ci.viaversion.com/job/ViaLoader/1/artifact/build/libs/ViaLoader-2.2.5-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.5-SNAPSHOT-sources.jar",
                     "hash": "b99258836ffd4068c0b9d5cc282a23ea",
-                    "size": "35825"
+                    "size": 35825
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/1/artifact/build/libs/ViaLoader-2.2.5-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.5-SNAPSHOT.jar",
                     "hash": "db94ed5b6e739980e0b6f4d0b9c19334",
-                    "size": "56618"
+                    "size": 56618
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/1/artifact/build/libs/ViaLoader-2.2.5-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.5-SNAPSHOT-javadoc.jar",
+                    "hash": "bbe9cce5fa5c5a6ee82891dd09a2567f",
+                    "size": 139449
                 }
             ]
         },
         {
             "build_number": 2,
-            "version": "2.2.5",
+            "version": "0a2a0be",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/2/artifact/build/libs/ViaLoader-2.2.5-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.5-SNAPSHOT-javadoc.jar",
-                    "hash": "4e2142d6591cc20cdcd477a0ffd42838",
-                    "size": "139449"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/2/artifact/build/libs/ViaLoader-2.2.5-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.5-SNAPSHOT-sources.jar",
                     "hash": "064f37e9d42cde784c9b9a440d399a6b",
-                    "size": "35825"
+                    "size": 35825
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/2/artifact/build/libs/ViaLoader-2.2.5-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.5-SNAPSHOT.jar",
                     "hash": "8c61a247561db0b50da852a807b7e731",
-                    "size": "56618"
+                    "size": 56618
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/2/artifact/build/libs/ViaLoader-2.2.5-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.5-SNAPSHOT-javadoc.jar",
+                    "hash": "4e2142d6591cc20cdcd477a0ffd42838",
+                    "size": 139449
                 }
             ]
         },
@@ -53,70 +53,70 @@
             "version": "2.2.5",
             "artifacts": [
                 {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/3/artifact/build/libs/ViaLoader-2.2.5-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.5-javadoc.jar",
-                    "hash": "27a90bf1731cbb837dc7f499d86924b9",
-                    "size": "138893"
-                },
-                {
                     "url": "https://ci.viaversion.com/job/ViaLoader/3/artifact/build/libs/ViaLoader-2.2.5-sources.jar",
                     "file_name": "ViaLoader-2.2.5-sources.jar",
                     "hash": "7f822172fd4be4f7711cdc23de464b11",
-                    "size": "35825"
+                    "size": 35825
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/3/artifact/build/libs/ViaLoader-2.2.5.jar",
                     "file_name": "ViaLoader-2.2.5.jar",
                     "hash": "1ccdada188a7498e70189ea6c3f34778",
-                    "size": "56589"
+                    "size": 56589
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/3/artifact/build/libs/ViaLoader-2.2.5-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.5-javadoc.jar",
+                    "hash": "27a90bf1731cbb837dc7f499d86924b9",
+                    "size": 138893
                 }
             ]
         },
         {
             "build_number": 4,
-            "version": "2.2.6",
+            "version": "dd8860f",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/4/artifact/build/libs/ViaLoader-2.2.6-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.6-SNAPSHOT-javadoc.jar",
-                    "hash": "bcac73cd46428d968927e1390713d238",
-                    "size": "139473"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/4/artifact/build/libs/ViaLoader-2.2.6-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.6-SNAPSHOT-sources.jar",
                     "hash": "dc979f4569e2b108a729968bda36665f",
-                    "size": "35825"
+                    "size": 35825
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/4/artifact/build/libs/ViaLoader-2.2.6-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.6-SNAPSHOT.jar",
                     "hash": "cc4b1e32e8f5aa25332c5d1c37a3469d",
-                    "size": "56607"
+                    "size": 56607
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/4/artifact/build/libs/ViaLoader-2.2.6-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.6-SNAPSHOT-javadoc.jar",
+                    "hash": "bcac73cd46428d968927e1390713d238",
+                    "size": 139473
                 }
             ]
         },
         {
             "build_number": 5,
-            "version": "2.2.6",
+            "version": "dafa55e",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/5/artifact/build/libs/ViaLoader-2.2.6-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.6-SNAPSHOT-javadoc.jar",
-                    "hash": "e8284dc7c884f48132080531eadfe7ea",
-                    "size": "139473"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/5/artifact/build/libs/ViaLoader-2.2.6-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.6-SNAPSHOT-sources.jar",
                     "hash": "d19aa0ed616009d10b3010e16640d117",
-                    "size": "35824"
+                    "size": 35824
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/5/artifact/build/libs/ViaLoader-2.2.6-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.6-SNAPSHOT.jar",
                     "hash": "9786be805700b21b9c063176a0ba3cc9",
-                    "size": "56611"
+                    "size": 56611
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/5/artifact/build/libs/ViaLoader-2.2.6-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.6-SNAPSHOT-javadoc.jar",
+                    "hash": "e8284dc7c884f48132080531eadfe7ea",
+                    "size": 139473
                 }
             ]
         },
@@ -125,70 +125,70 @@
             "version": "2.2.6",
             "artifacts": [
                 {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/6/artifact/build/libs/ViaLoader-2.2.6-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.6-javadoc.jar",
-                    "hash": "53b34367a43594ed6d381572ef2b155d",
-                    "size": "138904"
-                },
-                {
                     "url": "https://ci.viaversion.com/job/ViaLoader/6/artifact/build/libs/ViaLoader-2.2.6-sources.jar",
                     "file_name": "ViaLoader-2.2.6-sources.jar",
                     "hash": "b6bfc788823c4540c063b87a9d792d56",
-                    "size": "35827"
+                    "size": 35827
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/6/artifact/build/libs/ViaLoader-2.2.6.jar",
                     "file_name": "ViaLoader-2.2.6.jar",
                     "hash": "4a569c8a76af9e2f7429454fbaa8c958",
-                    "size": "56596"
+                    "size": 56596
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/6/artifact/build/libs/ViaLoader-2.2.6-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.6-javadoc.jar",
+                    "hash": "53b34367a43594ed6d381572ef2b155d",
+                    "size": 138904
                 }
             ]
         },
         {
             "build_number": 7,
-            "version": "2.2.7",
+            "version": "ff65f86",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/7/artifact/build/libs/ViaLoader-2.2.7-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.7-SNAPSHOT-javadoc.jar",
-                    "hash": "ba7ced97988d60f614572ccbf5c8af7b",
-                    "size": "139493"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/7/artifact/build/libs/ViaLoader-2.2.7-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.7-SNAPSHOT-sources.jar",
                     "hash": "4b0161c9ba87ae119e8d14a098fb0f75",
-                    "size": "35827"
+                    "size": 35827
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/7/artifact/build/libs/ViaLoader-2.2.7-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.7-SNAPSHOT.jar",
                     "hash": "9795722ccd1994ea9d07932a56358de2",
-                    "size": "56613"
+                    "size": 56613
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/7/artifact/build/libs/ViaLoader-2.2.7-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.7-SNAPSHOT-javadoc.jar",
+                    "hash": "ba7ced97988d60f614572ccbf5c8af7b",
+                    "size": 139493
                 }
             ]
         },
         {
             "build_number": 8,
-            "version": "2.2.7",
+            "version": "8b4c119",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/8/artifact/build/libs/ViaLoader-2.2.7-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.7-SNAPSHOT-javadoc.jar",
-                    "hash": "147356d1224a547bfdfa721a8b9fc7d3",
-                    "size": "139503"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/8/artifact/build/libs/ViaLoader-2.2.7-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.7-SNAPSHOT-sources.jar",
                     "hash": "d2a71ba6c4a0e1262b683501c4f1c109",
-                    "size": "35832"
+                    "size": 35832
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/8/artifact/build/libs/ViaLoader-2.2.7-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.7-SNAPSHOT.jar",
                     "hash": "9932dec25e8806af376591e160b65f6d",
-                    "size": "56617"
+                    "size": 56617
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/8/artifact/build/libs/ViaLoader-2.2.7-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.7-SNAPSHOT-javadoc.jar",
+                    "hash": "147356d1224a547bfdfa721a8b9fc7d3",
+                    "size": 139503
                 }
             ]
         },
@@ -197,70 +197,70 @@
             "version": "2.2.7",
             "artifacts": [
                 {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/9/artifact/build/libs/ViaLoader-2.2.7-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.7-javadoc.jar",
-                    "hash": "1f4dea7ba8d181539a424e529e4bff51",
-                    "size": "138924"
-                },
-                {
                     "url": "https://ci.viaversion.com/job/ViaLoader/9/artifact/build/libs/ViaLoader-2.2.7-sources.jar",
                     "file_name": "ViaLoader-2.2.7-sources.jar",
                     "hash": "4225f9c04f0dced1b3328d6b7ba74d4c",
-                    "size": "35832"
+                    "size": 35832
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/9/artifact/build/libs/ViaLoader-2.2.7.jar",
                     "file_name": "ViaLoader-2.2.7.jar",
                     "hash": "e2a2b81bef6f84e56fe8ff5e1af61e3c",
-                    "size": "56600"
+                    "size": 56600
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/9/artifact/build/libs/ViaLoader-2.2.7-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.7-javadoc.jar",
+                    "hash": "1f4dea7ba8d181539a424e529e4bff51",
+                    "size": 138924
                 }
             ]
         },
         {
             "build_number": 10,
-            "version": "2.2.8",
+            "version": "8b628ca",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/10/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
-                    "hash": "4b32b311b05299e205f060bace785cab",
-                    "size": "132971"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/10/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.8-SNAPSHOT-sources.jar",
                     "hash": "59185d40b11765796768e9bda620c3be",
-                    "size": "34351"
+                    "size": 34351
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/10/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.8-SNAPSHOT.jar",
                     "hash": "d9acfb2b9f34befa7572751aa127f321",
-                    "size": "54742"
+                    "size": 54742
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/10/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
+                    "hash": "4b32b311b05299e205f060bace785cab",
+                    "size": 132971
                 }
             ]
         },
         {
             "build_number": 11,
-            "version": "2.2.8",
+            "version": "a63f0d1",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/11/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
-                    "hash": "663567f8d745709b3abe5beb203a54a5",
-                    "size": "132971"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/11/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.8-SNAPSHOT-sources.jar",
                     "hash": "d6aba675626faa006f7d9008b7fd8108",
-                    "size": "34351"
+                    "size": 34351
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/11/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.8-SNAPSHOT.jar",
                     "hash": "6a0198b4a0db5fa999786d436cd12ab6",
-                    "size": "54742"
+                    "size": 54742
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/11/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
+                    "hash": "663567f8d745709b3abe5beb203a54a5",
+                    "size": 132971
                 }
             ]
         },
@@ -271,97 +271,97 @@
         },
         {
             "build_number": 13,
-            "version": "2.2.8",
+            "version": "57178ef",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/13/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
-                    "hash": "18b2e7ed6f733058132470a382a03b51",
-                    "size": "133066"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/13/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.8-SNAPSHOT-sources.jar",
                     "hash": "55f8dfd65d3b51efaae78fe410fe67d2",
-                    "size": "34554"
+                    "size": 34554
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/13/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.8-SNAPSHOT.jar",
                     "hash": "8d84451319c5ea107d0ff9df176eb572",
-                    "size": "55537"
+                    "size": 55537
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/13/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
+                    "hash": "18b2e7ed6f733058132470a382a03b51",
+                    "size": 133066
                 }
             ]
         },
         {
             "build_number": 14,
-            "version": "2.2.8",
+            "version": "f1b7e9e",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/14/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
-                    "hash": "79c471afbd00602e33d9afdb41007cf3",
-                    "size": "133066"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/14/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.8-SNAPSHOT-sources.jar",
                     "hash": "82a9457e8bf34cdb4b1aa29f87bba30f",
-                    "size": "34554"
+                    "size": 34554
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/14/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.8-SNAPSHOT.jar",
                     "hash": "57dfa172ce287ac29a4a058f1fe0101e",
-                    "size": "55537"
+                    "size": 55537
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/14/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
+                    "hash": "79c471afbd00602e33d9afdb41007cf3",
+                    "size": 133066
                 }
             ]
         },
         {
             "build_number": 15,
-            "version": "2.2.8",
+            "version": "08b13e5",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/15/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
-                    "hash": "956ff2ff8c58f9c0ad2a1217dc33b3d6",
-                    "size": "133066"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/15/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.8-SNAPSHOT-sources.jar",
                     "hash": "772eb490a4cbce8e115c8a596d3840c0",
-                    "size": "34554"
+                    "size": 34554
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/15/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.8-SNAPSHOT.jar",
                     "hash": "4c029eb15b9770f54e63f1b5108543ad",
-                    "size": "55537"
+                    "size": 55537
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/15/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
+                    "hash": "956ff2ff8c58f9c0ad2a1217dc33b3d6",
+                    "size": 133066
                 }
             ]
         },
         {
             "build_number": 16,
-            "version": "2.2.8",
+            "version": "ee37b3a",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/16/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
-                    "hash": "5463548a1c7d4defabc376a639741332",
-                    "size": "133066"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/16/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.8-SNAPSHOT-sources.jar",
                     "hash": "0260a491fb2292c96523a75d93ef2391",
-                    "size": "34554"
+                    "size": 34554
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/16/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.8-SNAPSHOT.jar",
                     "hash": "98d4479b791c8f75aaeb4059bf87653f",
-                    "size": "55537"
+                    "size": 55537
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/16/artifact/build/libs/ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.8-SNAPSHOT-javadoc.jar",
+                    "hash": "5463548a1c7d4defabc376a639741332",
+                    "size": 133066
                 }
             ]
         },
@@ -370,190 +370,190 @@
             "version": "2.2.8",
             "artifacts": [
                 {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/17/artifact/build/libs/ViaLoader-2.2.8-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.8-javadoc.jar",
-                    "hash": "58b6369fdbb0a14896aca4c0e853a52d",
-                    "size": "132530"
-                },
-                {
                     "url": "https://ci.viaversion.com/job/ViaLoader/17/artifact/build/libs/ViaLoader-2.2.8-sources.jar",
                     "file_name": "ViaLoader-2.2.8-sources.jar",
                     "hash": "20cd99b1b65f97a190d5635078c2203c",
-                    "size": "34554"
+                    "size": 34554
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/17/artifact/build/libs/ViaLoader-2.2.8.jar",
                     "file_name": "ViaLoader-2.2.8.jar",
                     "hash": "34962727994676af1a15fc8eb83872e6",
-                    "size": "55519"
+                    "size": 55519
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/17/artifact/build/libs/ViaLoader-2.2.8-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.8-javadoc.jar",
+                    "hash": "58b6369fdbb0a14896aca4c0e853a52d",
+                    "size": 132530
                 }
             ]
         },
         {
             "build_number": 18,
-            "version": "2.2.9",
+            "version": "b7ae73a",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/18/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "hash": "f58baacb256641fa7e33833e27ed62ca",
-                    "size": "133065"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/18/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "hash": "7960261704eee5b8a2b312294a195b7c",
-                    "size": "34555"
+                    "size": 34555
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/18/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT.jar",
                     "hash": "1dafd70bd831c34e531a2e5c66f84ab6",
-                    "size": "55567"
+                    "size": 55567
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/18/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "hash": "f58baacb256641fa7e33833e27ed62ca",
+                    "size": 133065
                 }
             ]
         },
         {
             "build_number": 19,
-            "version": "2.2.9",
+            "version": "4ffa6e3",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/19/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "hash": "7d7ce92b13e485611661e403795a90d6",
-                    "size": "133120"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/19/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "hash": "d44def37746f803fc740d300590997a4",
-                    "size": "34555"
+                    "size": 34555
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/19/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT.jar",
                     "hash": "1fd8105c101c205b77cffe4d67ba2b26",
-                    "size": "55567"
+                    "size": 55567
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/19/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "hash": "7d7ce92b13e485611661e403795a90d6",
+                    "size": 133120
                 }
             ]
         },
         {
             "build_number": 20,
-            "version": "2.2.9",
+            "version": "ec9786c",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/20/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "hash": "eae0216c20305b1a7ccb940ffdaeb61c",
-                    "size": "133120"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/20/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "hash": "ef628c0e92b76400061c84566345ab66",
-                    "size": "34555"
+                    "size": 34555
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/20/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT.jar",
                     "hash": "c8fc14379efe43a36bc360729c07248e",
-                    "size": "55567"
+                    "size": 55567
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/20/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "hash": "eae0216c20305b1a7ccb940ffdaeb61c",
+                    "size": 133120
                 }
             ]
         },
         {
             "build_number": 21,
-            "version": "2.2.9",
+            "version": "8da024b",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/21/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "hash": "993ae3042452ea117b32406d3d4d4fbd",
-                    "size": "133120"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/21/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "hash": "98bddce24505b45c9c64dbc2011908cb",
-                    "size": "34555"
+                    "size": 34555
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/21/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT.jar",
                     "hash": "814fbe50df53e8f7aa3122e6b8b859e2",
-                    "size": "55567"
+                    "size": 55567
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/21/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "hash": "993ae3042452ea117b32406d3d4d4fbd",
+                    "size": 133120
                 }
             ]
         },
         {
             "build_number": 22,
-            "version": "2.2.9",
+            "version": "9bcf323",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/22/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "hash": "580a54d830c868642bf2ffe4f4a47ffb",
-                    "size": "133120"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/22/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "hash": "9445d3f9893cec00d774fa60d9e219f6",
-                    "size": "34555"
+                    "size": 34555
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/22/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT.jar",
                     "hash": "1bc96a2fb5ef63d63654a96956a4e813",
-                    "size": "55567"
+                    "size": 55567
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/22/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "hash": "580a54d830c868642bf2ffe4f4a47ffb",
+                    "size": 133120
                 }
             ]
         },
         {
             "build_number": 23,
-            "version": "2.2.9",
+            "version": "e30cd6f",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/23/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "hash": "0234786ff2755ca9fb1d6a29bacbb103",
-                    "size": "133120"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/23/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "hash": "1b3023b51e779de9be9b968e6fd0568b",
-                    "size": "34555"
+                    "size": 34555
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/23/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT.jar",
                     "hash": "6c7c4779ebf5430b3f8187b3de783e27",
-                    "size": "55567"
+                    "size": 55567
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/23/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "hash": "0234786ff2755ca9fb1d6a29bacbb103",
+                    "size": 133120
                 }
             ]
         },
         {
             "build_number": 24,
-            "version": "2.2.9",
+            "version": "389e545",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/24/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "hash": "8fe22cfcc578a53e67d267342613e71f",
-                    "size": "133120"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/24/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "hash": "1c7c16610c657e8e4fa490f72359263f",
-                    "size": "34555"
+                    "size": 34555
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/24/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT.jar",
                     "hash": "112d1688f4bc3382070d9840739b1594",
-                    "size": "55567"
+                    "size": 55567
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/24/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "hash": "8fe22cfcc578a53e67d267342613e71f",
+                    "size": 133120
                 }
             ]
         },
@@ -564,145 +564,145 @@
         },
         {
             "build_number": 26,
-            "version": "2.2.9",
+            "version": "87d80de",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/26/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "hash": "56716ae071519cfcc71d71422868196b",
-                    "size": "133094"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/26/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "hash": "70f9f5a00068042c8ee6f51a05460668",
-                    "size": "34548"
+                    "size": 34548
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/26/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT.jar",
                     "hash": "e65ae96eebc744576d0a9f38f80a5b22",
-                    "size": "55558"
+                    "size": 55558
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/26/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "hash": "56716ae071519cfcc71d71422868196b",
+                    "size": 133094
                 }
             ]
         },
         {
             "build_number": 27,
-            "version": "2.2.9",
+            "version": "a26929a",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/27/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "hash": "3c6636457fa153a483a82db4cf095102",
-                    "size": "133094"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/27/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "hash": "cc37e105c91e89d340451cdd2c0125db",
-                    "size": "34548"
+                    "size": 34548
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/27/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT.jar",
                     "hash": "f394fd10f83f176380921536d21debbc",
-                    "size": "55567"
+                    "size": 55567
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/27/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "hash": "3c6636457fa153a483a82db4cf095102",
+                    "size": 133094
                 }
             ]
         },
         {
             "build_number": 28,
-            "version": "2.2.9",
+            "version": "af77d74",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/28/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "hash": "5372b10a937278f67c3e6f81c5cafbcb",
-                    "size": "133094"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/28/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "hash": "c3686b0fa877227a3eae15dc5e8cf2c7",
-                    "size": "34548"
+                    "size": 34548
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/28/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT.jar",
                     "hash": "042d549ddc72ed47c3b965efe397d425",
-                    "size": "55567"
+                    "size": 55567
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/28/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "hash": "5372b10a937278f67c3e6f81c5cafbcb",
+                    "size": 133094
                 }
             ]
         },
         {
             "build_number": 29,
-            "version": "2.2.9",
+            "version": "d985f15",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/29/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "hash": "32da072c34f35201848bd8aa6af69969",
-                    "size": "133094"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/29/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "hash": "f81249372b9a1cc6eef66837fce05018",
-                    "size": "34548"
+                    "size": 34548
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/29/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT.jar",
                     "hash": "f7a537267fde1a6bee4d4005701116fb",
-                    "size": "55567"
+                    "size": 55567
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/29/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "hash": "32da072c34f35201848bd8aa6af69969",
+                    "size": 133094
                 }
             ]
         },
         {
             "build_number": 30,
-            "version": "2.2.9",
+            "version": "1728fc2",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/30/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "hash": "0db1432d236e491baed927fc2fa2c227",
-                    "size": "133094"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/30/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "hash": "4d62b5898dc137807a5ffd33095159fe",
-                    "size": "34546"
+                    "size": 34546
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/30/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT.jar",
                     "hash": "f0e13c7bbf3d660b8faf4c29e09af539",
-                    "size": "55570"
+                    "size": 55570
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/30/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "hash": "0db1432d236e491baed927fc2fa2c227",
+                    "size": 133094
                 }
             ]
         },
         {
             "build_number": 31,
-            "version": "2.2.9",
+            "version": "91cee66",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/31/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
-                    "hash": "62120a93365622853585ca5a5c0518b5",
-                    "size": "133095"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/31/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT-sources.jar",
                     "hash": "91b28520ce03b4f5eda3f6c86ef3109c",
-                    "size": "34548"
+                    "size": 34548
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/31/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.9-SNAPSHOT.jar",
                     "hash": "06f42302d37f7a5c25639b94ad6aff8c",
-                    "size": "55570"
+                    "size": 55570
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/31/artifact/build/libs/ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.9-SNAPSHOT-javadoc.jar",
+                    "hash": "62120a93365622853585ca5a5c0518b5",
+                    "size": 133095
                 }
             ]
         },
@@ -711,94 +711,94 @@
             "version": "2.2.9",
             "artifacts": [
                 {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/32/artifact/build/libs/ViaLoader-2.2.9-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.9-javadoc.jar",
-                    "hash": "2c1329f1d6ca2f292344065a52d5ece6",
-                    "size": "132563"
-                },
-                {
                     "url": "https://ci.viaversion.com/job/ViaLoader/32/artifact/build/libs/ViaLoader-2.2.9-sources.jar",
                     "file_name": "ViaLoader-2.2.9-sources.jar",
                     "hash": "6f2ae5364fb71b06be4321f4b4825e17",
-                    "size": "34548"
+                    "size": 34548
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/32/artifact/build/libs/ViaLoader-2.2.9.jar",
                     "file_name": "ViaLoader-2.2.9.jar",
                     "hash": "fc1ab43b6ea22e67c6d20868c1076710",
-                    "size": "55554"
+                    "size": 55554
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/32/artifact/build/libs/ViaLoader-2.2.9-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.9-javadoc.jar",
+                    "hash": "2c1329f1d6ca2f292344065a52d5ece6",
+                    "size": 132563
                 }
             ]
         },
         {
             "build_number": 33,
-            "version": "2.2.10",
+            "version": "8af1db5",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/33/artifact/build/libs/ViaLoader-2.2.10-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.10-SNAPSHOT-javadoc.jar",
-                    "hash": "46e9284407536a8cf3602fecf69e6a5d",
-                    "size": "133115"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/33/artifact/build/libs/ViaLoader-2.2.10-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.10-SNAPSHOT-sources.jar",
                     "hash": "91ee06a3a3d67be9d4abf0e83ab3c31a",
-                    "size": "34548"
+                    "size": 34548
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/33/artifact/build/libs/ViaLoader-2.2.10-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.10-SNAPSHOT.jar",
                     "hash": "678cf609320f045294eda368a9b7a71f",
-                    "size": "55575"
+                    "size": 55575
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/33/artifact/build/libs/ViaLoader-2.2.10-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.10-SNAPSHOT-javadoc.jar",
+                    "hash": "46e9284407536a8cf3602fecf69e6a5d",
+                    "size": 133115
                 }
             ]
         },
         {
             "build_number": 34,
-            "version": "2.2.10",
+            "version": "949d5e9",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/34/artifact/build/libs/ViaLoader-2.2.10-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.10-SNAPSHOT-javadoc.jar",
-                    "hash": "81c6104faedf3b03d3d1b525c8352f87",
-                    "size": "133115"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/34/artifact/build/libs/ViaLoader-2.2.10-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.10-SNAPSHOT-sources.jar",
                     "hash": "79453f3eab85d6e65fa8c8a425f7d58f",
-                    "size": "34548"
+                    "size": 34548
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/34/artifact/build/libs/ViaLoader-2.2.10-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.10-SNAPSHOT.jar",
                     "hash": "53fd8986e6f3544c262b41e0bd7871fd",
-                    "size": "55575"
+                    "size": 55575
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/34/artifact/build/libs/ViaLoader-2.2.10-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.10-SNAPSHOT-javadoc.jar",
+                    "hash": "81c6104faedf3b03d3d1b525c8352f87",
+                    "size": 133115
                 }
             ]
         },
         {
             "build_number": 35,
-            "version": "2.2.10",
+            "version": "26fb7de",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/35/artifact/build/libs/ViaLoader-2.2.10-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.10-SNAPSHOT-javadoc.jar",
-                    "hash": "d91007b3ae8b0e9d22f66db4e7950b41",
-                    "size": "133108"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/35/artifact/build/libs/ViaLoader-2.2.10-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.10-SNAPSHOT-sources.jar",
                     "hash": "4aae757b54860250d28f470fe18c90f3",
-                    "size": "34509"
+                    "size": 34509
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/35/artifact/build/libs/ViaLoader-2.2.10-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.10-SNAPSHOT.jar",
                     "hash": "af5a42a55a8726c0fa6cdc5ce2418c95",
-                    "size": "55527"
+                    "size": 55527
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/35/artifact/build/libs/ViaLoader-2.2.10-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.10-SNAPSHOT-javadoc.jar",
+                    "hash": "d91007b3ae8b0e9d22f66db4e7950b41",
+                    "size": 133108
                 }
             ]
         },
@@ -807,190 +807,190 @@
             "version": "2.2.10",
             "artifacts": [
                 {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/36/artifact/build/libs/ViaLoader-2.2.10-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.10-javadoc.jar",
-                    "hash": "b21634017393b854722da4f60b6b9bbf",
-                    "size": "132576"
-                },
-                {
                     "url": "https://ci.viaversion.com/job/ViaLoader/36/artifact/build/libs/ViaLoader-2.2.10-sources.jar",
                     "file_name": "ViaLoader-2.2.10-sources.jar",
                     "hash": "b31c3c2051353faecfd2940d3d72708d",
-                    "size": "34509"
+                    "size": 34509
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/36/artifact/build/libs/ViaLoader-2.2.10.jar",
                     "file_name": "ViaLoader-2.2.10.jar",
                     "hash": "c78fe5d3b332beccd6f6e5062927653a",
-                    "size": "55505"
+                    "size": 55505
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/36/artifact/build/libs/ViaLoader-2.2.10-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.10-javadoc.jar",
+                    "hash": "b21634017393b854722da4f60b6b9bbf",
+                    "size": 132576
                 }
             ]
         },
         {
             "build_number": 37,
-            "version": "2.2.11",
+            "version": "24f9712",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/37/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "hash": "7a58b5abdb5916d4f31d9abab816a9e9",
-                    "size": "133100"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/37/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "hash": "4b5c5ad30a5cbcad94a5853f0bb1ee4c",
-                    "size": "34509"
+                    "size": 34509
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/37/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT.jar",
                     "hash": "6f51a580436f971245e009affd6d0771",
-                    "size": "55527"
+                    "size": 55527
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/37/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "hash": "7a58b5abdb5916d4f31d9abab816a9e9",
+                    "size": 133100
                 }
             ]
         },
         {
             "build_number": 38,
-            "version": "2.2.11",
+            "version": "bd1801e",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/38/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "hash": "1dfb29b607807d9f35c0f5463b3ddfb9",
-                    "size": "133127"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/38/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "hash": "7a1ca8c9d733bf8ca60e07839c0c6068",
-                    "size": "34518"
+                    "size": 34518
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/38/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT.jar",
                     "hash": "0cacbb48d7438985740cfae7aa5929d9",
-                    "size": "55572"
+                    "size": 55572
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/38/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "hash": "1dfb29b607807d9f35c0f5463b3ddfb9",
+                    "size": 133127
                 }
             ]
         },
         {
             "build_number": 39,
-            "version": "2.2.11",
+            "version": "e46d9be",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/39/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "hash": "95d533797f1612ddf18339c0fed6d3ed",
-                    "size": "133049"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/39/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "hash": "e79983d1cc75c4398881f95ea00d94f1",
-                    "size": "34483"
+                    "size": 34483
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/39/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT.jar",
                     "hash": "fa5890b77b0abbeae0aee734dcbcba12",
-                    "size": "55504"
+                    "size": 55504
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/39/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "hash": "95d533797f1612ddf18339c0fed6d3ed",
+                    "size": 133049
                 }
             ]
         },
         {
             "build_number": 40,
-            "version": "2.2.11",
+            "version": "05c5cc1",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/40/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "hash": "e6bf60d62b8a0ad3a6e4c76179cf7445",
-                    "size": "132988"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/40/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "hash": "8b434c3c1fde13407242fb2e7656a8df",
-                    "size": "34464"
+                    "size": 34464
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/40/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT.jar",
                     "hash": "db29554027ab9d6c8c6dd372ee7a4d47",
-                    "size": "55482"
+                    "size": 55482
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/40/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "hash": "e6bf60d62b8a0ad3a6e4c76179cf7445",
+                    "size": 132988
                 }
             ]
         },
         {
             "build_number": 41,
-            "version": "2.2.11",
+            "version": "041b7a8",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/41/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "hash": "30cd5451b4e3444ae8352c2ac2bfcd6a",
-                    "size": "132988"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/41/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "hash": "6a620f39bc87048d272133fbe812ac63",
-                    "size": "34496"
+                    "size": 34496
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/41/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT.jar",
                     "hash": "2a4e86f8cee3d461678c74d7823e08b7",
-                    "size": "55591"
+                    "size": 55591
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/41/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "hash": "30cd5451b4e3444ae8352c2ac2bfcd6a",
+                    "size": 132988
                 }
             ]
         },
         {
             "build_number": 42,
-            "version": "2.2.11",
+            "version": "727a735",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/42/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "hash": "48991df16f6d8cdea94f88583912cb9c",
-                    "size": "132988"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/42/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "hash": "4560d5a2904d2dcd4ccdf603354a29ce",
-                    "size": "34496"
+                    "size": 34496
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/42/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT.jar",
                     "hash": "36454e0ff8a37966b048ae3a61a885e1",
-                    "size": "55591"
+                    "size": 55591
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/42/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "hash": "48991df16f6d8cdea94f88583912cb9c",
+                    "size": 132988
                 }
             ]
         },
         {
             "build_number": 43,
-            "version": "2.2.11",
+            "version": "6fd4382",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/43/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "hash": "cda12ef1d9aad8905f4973df93ca1ddc",
-                    "size": "132988"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/43/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "hash": "c5d2dc9cbd1b5a2e2bf974da9f41948f",
-                    "size": "34496"
+                    "size": 34496
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/43/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT.jar",
                     "hash": "b37d0feb35466761452028532147f980",
-                    "size": "55591"
+                    "size": 55591
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/43/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "hash": "cda12ef1d9aad8905f4973df93ca1ddc",
+                    "size": 132988
                 }
             ]
         },
@@ -1001,193 +1001,193 @@
         },
         {
             "build_number": 45,
-            "version": "2.2.11",
+            "version": "d9aaeb1",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/45/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "hash": "b256d0b05443359393ccb0e7831fa075",
-                    "size": "132977"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/45/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "hash": "0eae275bc8291750599cd5708b019947",
-                    "size": "34496"
+                    "size": 34496
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/45/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT.jar",
                     "hash": "c98f4d3c10867d3e0c7aa4396e2f630d",
-                    "size": "55591"
+                    "size": 55591
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/45/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "hash": "b256d0b05443359393ccb0e7831fa075",
+                    "size": 132977
                 }
             ]
         },
         {
             "build_number": 46,
-            "version": "2.2.11",
+            "version": "f4bcebe",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/46/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "hash": "18ccbb46b79a6882ebf7add245475f7b",
-                    "size": "132977"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/46/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "hash": "15bc48d948803f05f35e7961cb8d69c7",
-                    "size": "34496"
+                    "size": 34496
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/46/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT.jar",
                     "hash": "04d3541f3b6ecb0bae7c23dd5eb8ad6f",
-                    "size": "55591"
+                    "size": 55591
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/46/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "hash": "18ccbb46b79a6882ebf7add245475f7b",
+                    "size": 132977
                 }
             ]
         },
         {
             "build_number": 47,
-            "version": "2.2.11",
+            "version": "0e09507",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/47/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "hash": "628fc9f1842beadb2b39d7307fe4ca6e",
-                    "size": "132977"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/47/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "hash": "ee31c6655e28591d3029cd3bca84d6d6",
-                    "size": "34500"
+                    "size": 34500
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/47/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT.jar",
                     "hash": "013d690e9817a1aecb3477345ee7cd81",
-                    "size": "55595"
+                    "size": 55595
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/47/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "hash": "628fc9f1842beadb2b39d7307fe4ca6e",
+                    "size": 132977
                 }
             ]
         },
         {
             "build_number": 48,
-            "version": "2.2.11",
+            "version": "e0dfc65",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/48/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "hash": "48b5ac0d4e24fbb7177f96f8a85e5234",
-                    "size": "132977"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/48/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "hash": "ab64460d78bb195f3e9d9c65eb437930",
-                    "size": "34500"
+                    "size": 34500
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/48/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT.jar",
                     "hash": "e36e88bcc3fae4973ba7d03d0f3767b5",
-                    "size": "55595"
+                    "size": 55595
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/48/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "hash": "48b5ac0d4e24fbb7177f96f8a85e5234",
+                    "size": 132977
                 }
             ]
         },
         {
             "build_number": 49,
-            "version": "2.2.11",
+            "version": "50c7f62",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/49/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "hash": "04edf2ba0facb633ae98944a08bf4cf5",
-                    "size": "132977"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/49/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "hash": "ea90de03d69483ce164c6aae34f7923a",
-                    "size": "34500"
+                    "size": 34500
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/49/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT.jar",
                     "hash": "e4465ceae9acc8e1f210d6bf40dfc1ef",
-                    "size": "55595"
+                    "size": 55595
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/49/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "hash": "04edf2ba0facb633ae98944a08bf4cf5",
+                    "size": 132977
                 }
             ]
         },
         {
             "build_number": 50,
-            "version": "2.2.11",
+            "version": "9e90d1f",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/50/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "hash": "77b6a08e35f17726dd2336cb08def978",
-                    "size": "133114"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/50/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "hash": "5db1fbf58981e54beb71a2398fe686e6",
-                    "size": "34807"
+                    "size": 34807
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/50/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT.jar",
                     "hash": "dc89bfc10b0561aef2ddaa2419b581e7",
-                    "size": "56222"
+                    "size": 56222
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/50/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "hash": "77b6a08e35f17726dd2336cb08def978",
+                    "size": 133114
                 }
             ]
         },
         {
             "build_number": 51,
-            "version": "2.2.11",
+            "version": "1a1e1de",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/51/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "hash": "ac98a682c6b03e6ae52d3aeea9e5943a",
-                    "size": "133248"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/51/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "hash": "c22e1f5a6b4fbc73570745c649ecd1f3",
-                    "size": "34919"
+                    "size": 34919
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/51/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT.jar",
                     "hash": "f33123bd70e94f649266e9464222fc0c",
-                    "size": "56417"
+                    "size": 56417
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/51/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "hash": "ac98a682c6b03e6ae52d3aeea9e5943a",
+                    "size": 133248
                 }
             ]
         },
         {
             "build_number": 52,
-            "version": "2.2.11",
+            "version": "03fd247",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/52/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
-                    "hash": "6d44790234f59296f134e253ebfd4ab3",
-                    "size": "133248"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/52/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT-sources.jar",
                     "hash": "f6f5d06d5053449cf1a8dc6d82571504",
-                    "size": "34973"
+                    "size": 34973
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/52/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.11-SNAPSHOT.jar",
                     "hash": "ecda7ef37e0e1694f43c21f8059a4887",
-                    "size": "56521"
+                    "size": 56521
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/52/artifact/build/libs/ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.11-SNAPSHOT-javadoc.jar",
+                    "hash": "6d44790234f59296f134e253ebfd4ab3",
+                    "size": 133248
                 }
             ]
         },
@@ -1196,46 +1196,46 @@
             "version": "2.2.11",
             "artifacts": [
                 {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/53/artifact/build/libs/ViaLoader-2.2.11-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.11-javadoc.jar",
-                    "hash": "f28ac8263de2ab0e3115131033ff162e",
-                    "size": "132716"
-                },
-                {
                     "url": "https://ci.viaversion.com/job/ViaLoader/53/artifact/build/libs/ViaLoader-2.2.11-sources.jar",
                     "file_name": "ViaLoader-2.2.11-sources.jar",
                     "hash": "d055111ff9a505b10463b3225f459479",
-                    "size": "34972"
+                    "size": 34972
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/53/artifact/build/libs/ViaLoader-2.2.11.jar",
                     "file_name": "ViaLoader-2.2.11.jar",
                     "hash": "14814c2e983cdfe19bf0a9dbae284e1f",
-                    "size": "56504"
+                    "size": 56504
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/53/artifact/build/libs/ViaLoader-2.2.11-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.11-javadoc.jar",
+                    "hash": "f28ac8263de2ab0e3115131033ff162e",
+                    "size": 132716
                 }
             ]
         },
         {
             "build_number": 54,
-            "version": "2.2.12",
+            "version": "001b540",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/54/artifact/build/libs/ViaLoader-2.2.12-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.12-SNAPSHOT-javadoc.jar",
-                    "hash": "693f14aeb62ed10f778b849a0c2e3f7e",
-                    "size": "133256"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/54/artifact/build/libs/ViaLoader-2.2.12-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.12-SNAPSHOT-sources.jar",
                     "hash": "b7a5147a7333d33649372b9a85d4ced7",
-                    "size": "34972"
+                    "size": 34972
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/54/artifact/build/libs/ViaLoader-2.2.12-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.12-SNAPSHOT.jar",
                     "hash": "f8779a24101f78ff9359a263076e9559",
-                    "size": "56522"
+                    "size": 56522
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/54/artifact/build/libs/ViaLoader-2.2.12-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.12-SNAPSHOT-javadoc.jar",
+                    "hash": "693f14aeb62ed10f778b849a0c2e3f7e",
+                    "size": 133256
                 }
             ]
         },
@@ -1244,214 +1244,214 @@
             "version": "2.2.12",
             "artifacts": [
                 {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/55/artifact/build/libs/ViaLoader-2.2.12-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.12-javadoc.jar",
-                    "hash": "83c13b77db644dc5fb8eecfd8b1ecd65",
-                    "size": "132728"
-                },
-                {
                     "url": "https://ci.viaversion.com/job/ViaLoader/55/artifact/build/libs/ViaLoader-2.2.12-sources.jar",
                     "file_name": "ViaLoader-2.2.12-sources.jar",
                     "hash": "8ebdaf156754f38e17c6030c36fe8805",
-                    "size": "34973"
+                    "size": 34973
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/55/artifact/build/libs/ViaLoader-2.2.12.jar",
                     "file_name": "ViaLoader-2.2.12.jar",
                     "hash": "3d8f6fa03f1c2374a899ed414b4fef19",
-                    "size": "56509"
+                    "size": 56509
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/55/artifact/build/libs/ViaLoader-2.2.12-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.12-javadoc.jar",
+                    "hash": "83c13b77db644dc5fb8eecfd8b1ecd65",
+                    "size": 132728
                 }
             ]
         },
         {
             "build_number": 56,
-            "version": "2.2.13",
+            "version": "cbfa134",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/56/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "5d77c67c76f3fd0176e6b99f0ffdffc4",
-                    "size": "133261"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/56/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "d1c514f6b9da0e835aad2df027153469",
-                    "size": "34973"
+                    "size": 34973
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/56/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "8eb7b4a94be323a18510e6128951d382",
-                    "size": "56526"
+                    "size": 56526
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/56/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "5d77c67c76f3fd0176e6b99f0ffdffc4",
+                    "size": 133261
                 }
             ]
         },
         {
             "build_number": 57,
-            "version": "2.2.13",
+            "version": "c11aaba",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/57/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "0bed9355e46199a37677ecc2d3667252",
-                    "size": "133261"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/57/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "0b631142971655d95e5ab51c72a373e6",
-                    "size": "34973"
+                    "size": 34973
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/57/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "703c2a5f88375ee9a97975676e9f2b4f",
-                    "size": "56526"
+                    "size": 56526
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/57/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "0bed9355e46199a37677ecc2d3667252",
+                    "size": 133261
                 }
             ]
         },
         {
             "build_number": 58,
-            "version": "2.2.13",
+            "version": "fa96c19",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/58/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "0b22e7fe65ac362361f5ad074fec98cb",
-                    "size": "133261"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/58/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "dae3d6fda6e864141a3b902ca26770b9",
-                    "size": "34979"
+                    "size": 34979
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/58/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "a50a7c489705388fc7e6e1e2cff6e1fc",
-                    "size": "56551"
+                    "size": 56551
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/58/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "0b22e7fe65ac362361f5ad074fec98cb",
+                    "size": 133261
                 }
             ]
         },
         {
             "build_number": 59,
-            "version": "2.2.13",
+            "version": "ff5da9e",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/59/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "b144f66b414ac78b2ee54025abd6503f",
-                    "size": "133261"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/59/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "ea9a86e79a094ebeabe72903b320b21f",
-                    "size": "34979"
+                    "size": 34979
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/59/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "48fcb00a487231a6eb6b7b71dafef0f8",
-                    "size": "56551"
+                    "size": 56551
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/59/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "b144f66b414ac78b2ee54025abd6503f",
+                    "size": 133261
                 }
             ]
         },
         {
             "build_number": 60,
-            "version": "2.2.13",
+            "version": "a83a50d",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/60/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "65bfa45cc9e502e91fefb8ff0c3befb1",
-                    "size": "133275"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/60/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "a1ad7f25ace1f77949fb9191273bfb58",
-                    "size": "34986"
+                    "size": 34986
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/60/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "c3991224b79cc08e9e8a88eb8f50d2e3",
-                    "size": "56582"
+                    "size": 56582
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/60/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "65bfa45cc9e502e91fefb8ff0c3befb1",
+                    "size": 133275
                 }
             ]
         },
         {
             "build_number": 61,
-            "version": "2.2.13",
+            "version": "492f973",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/61/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "c26fdea1ecd92acd1ef2966d5d457b67",
-                    "size": "133275"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/61/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "f4a8a9e0958ff97209e3369e64e950d1",
-                    "size": "34990"
+                    "size": 34990
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/61/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "c6df39286f4000b1035e5224d130c2c5",
-                    "size": "56589"
+                    "size": 56589
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/61/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "c26fdea1ecd92acd1ef2966d5d457b67",
+                    "size": 133275
                 }
             ]
         },
         {
             "build_number": 62,
-            "version": "2.2.13",
+            "version": "6e806dd",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/62/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "9b52f9498be774e58f4971a79094a196",
-                    "size": "133275"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/62/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "5f4f4c87d270b5178ef58543cf6ebab3",
-                    "size": "34990"
+                    "size": 34990
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/62/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "aa8641594b4bb7195cc6cb1581fb4323",
-                    "size": "56589"
+                    "size": 56589
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/62/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "9b52f9498be774e58f4971a79094a196",
+                    "size": 133275
                 }
             ]
         },
         {
             "build_number": 63,
-            "version": "2.2.13",
+            "version": "3c2b445",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/63/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "401fb62d3ebcb01ac1f0b48777882b35",
-                    "size": "133282"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/63/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "b8f3ec36a7cfeaaac8f429cea5fa4925",
-                    "size": "34990"
+                    "size": 34990
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/63/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "0f61cde67e87dad6a1eee66578b26cf4",
-                    "size": "56589"
+                    "size": 56589
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/63/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "401fb62d3ebcb01ac1f0b48777882b35",
+                    "size": 133282
                 }
             ]
         },
@@ -1462,97 +1462,97 @@
         },
         {
             "build_number": 65,
-            "version": "2.2.13",
+            "version": "26e981a",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/65/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "376a6354fab3251d9914344e85e9e631",
-                    "size": "133282"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/65/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "8b6baced023629f52674d1c010fb3110",
-                    "size": "35118"
+                    "size": 35118
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/65/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "af632e1e493a11c1bd86cdc14f444f01",
-                    "size": "56589"
+                    "size": 56589
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/65/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "376a6354fab3251d9914344e85e9e631",
+                    "size": 133282
                 }
             ]
         },
         {
             "build_number": 66,
-            "version": "2.2.13",
+            "version": "18d8ef9",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/66/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "6a2d22555e0123d0858507175975e1bf",
-                    "size": "133282"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/66/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "232c913c60c79df8e55631d2ee93eb09",
-                    "size": "35108"
+                    "size": 35108
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/66/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "0c3c3509f1ce4fb19f439be17bcfc2cc",
-                    "size": "56492"
+                    "size": 56492
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/66/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "6a2d22555e0123d0858507175975e1bf",
+                    "size": 133282
                 }
             ]
         },
         {
             "build_number": 67,
-            "version": "2.2.13",
+            "version": "70adf63",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/67/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "5e4fde4eeb0af921249f1a48918e45ac",
-                    "size": "133282"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/67/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "8e9846e37f540eea43066713521845a6",
-                    "size": "35108"
+                    "size": 35108
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/67/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "0c11842b3b538532f46d9e88cabbe867",
-                    "size": "56492"
+                    "size": 56492
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/67/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "5e4fde4eeb0af921249f1a48918e45ac",
+                    "size": 133282
                 }
             ]
         },
         {
             "build_number": 68,
-            "version": "2.2.13",
+            "version": "57bb44d",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/68/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "7226a16006a7da1356528ddfbb9c9aba",
-                    "size": "133282"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/68/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "100325d1548452f8de23e21e95683e20",
-                    "size": "35108"
+                    "size": 35108
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/68/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "9d4055b7a42d202b7fceefd0d96fb31d",
-                    "size": "56492"
+                    "size": 56492
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/68/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "7226a16006a7da1356528ddfbb9c9aba",
+                    "size": 133282
                 }
             ]
         },
@@ -1563,97 +1563,97 @@
         },
         {
             "build_number": 70,
-            "version": "2.2.13",
+            "version": "2b44f2b",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/70/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "f32c1eabc89c57b5349e4ec451688d24",
-                    "size": "133329"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/70/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "83ebbf69d55e2988c601bd66ec3391e4",
-                    "size": "35044"
+                    "size": 35044
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/70/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "312052cdd8560d07eea88c4ecbfb960c",
-                    "size": "56349"
+                    "size": 56349
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/70/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "f32c1eabc89c57b5349e4ec451688d24",
+                    "size": 133329
                 }
             ]
         },
         {
             "build_number": 71,
-            "version": "2.2.13",
+            "version": "65b9a0b",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/71/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "6bc5aa8aa024a140bce70559f55390dc",
-                    "size": "126098"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/71/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "f282de59f72554752cc2552195e445fd",
-                    "size": "32437"
+                    "size": 32437
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/71/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "3806be8a65bdc1f8f7713aba401b1792",
-                    "size": "49992"
+                    "size": 49992
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/71/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "6bc5aa8aa024a140bce70559f55390dc",
+                    "size": 126098
                 }
             ]
         },
         {
             "build_number": 72,
-            "version": "2.2.13",
+            "version": "e513814",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/72/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "5f94feb473931621f243f6dbaf6122f3",
-                    "size": "126098"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/72/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "4a1bb145bdf37c4090ea93002b2e864e",
-                    "size": "32442"
+                    "size": 32442
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/72/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "0c9ffb390f6b72ba2b686899aa280a77",
-                    "size": "50005"
+                    "size": 50005
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/72/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "5f94feb473931621f243f6dbaf6122f3",
+                    "size": 126098
                 }
             ]
         },
         {
             "build_number": 73,
-            "version": "2.2.13",
+            "version": "164f229",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/73/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "6da31987e2b0444dae733d55bd5a3755",
-                    "size": "126098"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/73/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "b0357ec253e77cb629c2686a4d38e853",
-                    "size": "32435"
+                    "size": 32435
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/73/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "770b201ae92aeedcb58d756440d0094d",
-                    "size": "49989"
+                    "size": 49989
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/73/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "6da31987e2b0444dae733d55bd5a3755",
+                    "size": 126098
                 }
             ]
         },
@@ -1664,241 +1664,241 @@
         },
         {
             "build_number": 75,
-            "version": "2.2.13",
+            "version": "5754b07",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/75/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "db20b335d12c0fbd833ea651a4750d08",
-                    "size": "126606"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/75/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "da8a2fd6c9b6095d22196d0ca7083dc3",
-                    "size": "32593"
+                    "size": 32593
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/75/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "7240e268ca47a3216ee87bcdef206aad",
-                    "size": "50161"
+                    "size": 50161
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/75/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "db20b335d12c0fbd833ea651a4750d08",
+                    "size": 126606
                 }
             ]
         },
         {
             "build_number": 76,
-            "version": "2.2.13",
+            "version": "b565635",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/76/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "f77973aa54f98f8c34a8e209da4974ea",
-                    "size": "129030"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/76/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "9b622d22007bb043fa00c6b94faac828",
-                    "size": "33427"
+                    "size": 33427
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/76/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "38993599a434f14a48af1248a62b2700",
-                    "size": "50825"
+                    "size": 50825
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/76/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "f77973aa54f98f8c34a8e209da4974ea",
+                    "size": 129030
                 }
             ]
         },
         {
             "build_number": 77,
-            "version": "2.2.13",
+            "version": "2c4770a",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/77/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "757cbb7edb917b32176631dba0863145",
-                    "size": "129030"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/77/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "879543251f01802bda12d00b87908f2f",
-                    "size": "33512"
+                    "size": 33512
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/77/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "1bd93e7b4eea7eb86cf017609fc4a03d",
-                    "size": "51046"
+                    "size": 51046
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/77/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "757cbb7edb917b32176631dba0863145",
+                    "size": 129030
                 }
             ]
         },
         {
             "build_number": 78,
-            "version": "2.2.13",
+            "version": "f976ac3",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/78/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "fec40538085e3844832ad2bc232602e9",
-                    "size": "129115"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/78/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "d4bbdfde1c74bf161bedd070c29cd5cf",
-                    "size": "33525"
+                    "size": 33525
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/78/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "fdaa033db0d3745e02a89dd9a3654f68",
-                    "size": "51064"
+                    "size": 51064
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/78/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "fec40538085e3844832ad2bc232602e9",
+                    "size": 129115
                 }
             ]
         },
         {
             "build_number": 79,
-            "version": "2.2.13",
+            "version": "2af017b",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/79/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "40c7d8e8d6f0b9d890477a680b6d70af",
-                    "size": "129115"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/79/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "5c897816c057ffb0c4bf8a1ba8d4896c",
-                    "size": "33525"
+                    "size": 33525
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/79/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "cef45358a84df87307a3db6bca8b1cb5",
-                    "size": "51064"
+                    "size": 51064
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/79/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "40c7d8e8d6f0b9d890477a680b6d70af",
+                    "size": 129115
                 }
             ]
         },
         {
             "build_number": 80,
-            "version": "2.2.13",
+            "version": "a73f6c9",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/80/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "b2b2c8b24393e76ba9d319f60e11d43d",
-                    "size": "129115"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/80/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "53508a5106346e03d9b68a53deee987e",
-                    "size": "33525"
+                    "size": 33525
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/80/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "d6ef07fb6d062c8654ea699ee1e5adbb",
-                    "size": "51064"
+                    "size": 51064
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/80/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "b2b2c8b24393e76ba9d319f60e11d43d",
+                    "size": 129115
                 }
             ]
         },
         {
             "build_number": 81,
-            "version": "2.2.13",
+            "version": "e60ec0c",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/81/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "7025b5bedf38bdefd1f951fbd2645ec7",
-                    "size": "129115"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/81/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "bfd0b7f9c309bff629dc86b670f62431",
-                    "size": "33525"
+                    "size": 33525
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/81/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "3cd2589cb002b8f6fdd1d4118b2089db",
-                    "size": "51064"
+                    "size": 51064
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/81/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "7025b5bedf38bdefd1f951fbd2645ec7",
+                    "size": 129115
                 }
             ]
         },
         {
             "build_number": 82,
-            "version": "2.2.13",
+            "version": "a4b35ac",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/82/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "bac000305fdf1e503f67c3716ae9d8c0",
-                    "size": "129115"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/82/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "43772a29d20ca4ceb3bd330283512ef3",
-                    "size": "33525"
+                    "size": 33525
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/82/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "e309807ae5e58aef4c1856982c7770a9",
-                    "size": "51064"
+                    "size": 51064
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/82/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "bac000305fdf1e503f67c3716ae9d8c0",
+                    "size": 129115
                 }
             ]
         },
         {
             "build_number": 83,
-            "version": "2.2.13",
+            "version": "6b87889",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/83/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "9d8d8f36b3748e8f119f57ae86d1ac8c",
-                    "size": "129115"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/83/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "f451585f7271074f61a5af2160e82644",
-                    "size": "33525"
+                    "size": 33525
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/83/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "2575c4b5367e75f97c07bb33e060ffd4",
-                    "size": "51064"
+                    "size": 51064
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/83/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "9d8d8f36b3748e8f119f57ae86d1ac8c",
+                    "size": 129115
                 }
             ]
         },
         {
             "build_number": 84,
-            "version": "2.2.13",
+            "version": "e65e30a",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/84/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
-                    "hash": "e6749319716f68d9d30bb12a81f4c5f1",
-                    "size": "129115"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/84/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT-sources.jar",
                     "hash": "7f9a985d0c264832039d946cd5a7e922",
-                    "size": "33525"
+                    "size": 33525
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/84/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.13-SNAPSHOT.jar",
                     "hash": "9cc4ee86db0533ac307231fbd8c8b975",
-                    "size": "51064"
+                    "size": 51064
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/84/artifact/build/libs/ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-SNAPSHOT-javadoc.jar",
+                    "hash": "e6749319716f68d9d30bb12a81f4c5f1",
+                    "size": 129115
                 }
             ]
         },
@@ -1907,268 +1907,268 @@
             "version": "2.2.13",
             "artifacts": [
                 {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/85/artifact/build/libs/ViaLoader-2.2.13-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.13-javadoc.jar",
-                    "hash": "b8e7aec6669cdb4406da2a11b8baf507",
-                    "size": "128605"
-                },
-                {
                     "url": "https://ci.viaversion.com/job/ViaLoader/85/artifact/build/libs/ViaLoader-2.2.13-sources.jar",
                     "file_name": "ViaLoader-2.2.13-sources.jar",
                     "hash": "7a88bacf2ee7ae9a5522f1057e27b56d",
-                    "size": "33525"
+                    "size": 33525
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/85/artifact/build/libs/ViaLoader-2.2.13.jar",
                     "file_name": "ViaLoader-2.2.13.jar",
                     "hash": "ac843ee701d74b7b4bf2299088a9fc94",
-                    "size": "51045"
+                    "size": 51045
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/85/artifact/build/libs/ViaLoader-2.2.13-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.13-javadoc.jar",
+                    "hash": "b8e7aec6669cdb4406da2a11b8baf507",
+                    "size": 128605
                 }
             ]
         },
         {
             "build_number": 86,
-            "version": "2.2.14",
+            "version": "72dcde0",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/86/artifact/build/libs/ViaLoader-2.2.14-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.14-SNAPSHOT-javadoc.jar",
-                    "hash": "5b18819e197aa112eeb30370c815d76c",
-                    "size": "129126"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/86/artifact/build/libs/ViaLoader-2.2.14-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.14-SNAPSHOT-sources.jar",
                     "hash": "8a09b0f61a46225c8a7243ea05039e36",
-                    "size": "33525"
+                    "size": 33525
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/86/artifact/build/libs/ViaLoader-2.2.14-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.14-SNAPSHOT.jar",
                     "hash": "3f875403c2b1d90ea0fcfd7e5162dd5f",
-                    "size": "51063"
+                    "size": 51063
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/86/artifact/build/libs/ViaLoader-2.2.14-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.14-SNAPSHOT-javadoc.jar",
+                    "hash": "5b18819e197aa112eeb30370c815d76c",
+                    "size": 129126
                 }
             ]
         },
         {
             "build_number": 87,
-            "version": "2.2.14",
+            "version": "bea9562",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/87/artifact/build/libs/ViaLoader-2.2.14-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.14-SNAPSHOT-javadoc.jar",
-                    "hash": "2bb8d90518a6d9961ee68ea2aeb8e082",
-                    "size": "129126"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/87/artifact/build/libs/ViaLoader-2.2.14-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.14-SNAPSHOT-sources.jar",
                     "hash": "871e0a306150e692b58f45e668200516",
-                    "size": "33525"
+                    "size": 33525
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/87/artifact/build/libs/ViaLoader-2.2.14-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.14-SNAPSHOT.jar",
                     "hash": "4643def9e34174fcfc59ed0fd21de44f",
-                    "size": "51063"
+                    "size": 51063
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/87/artifact/build/libs/ViaLoader-2.2.14-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.14-SNAPSHOT-javadoc.jar",
+                    "hash": "2bb8d90518a6d9961ee68ea2aeb8e082",
+                    "size": 129126
                 }
             ]
         },
         {
             "build_number": 88,
-            "version": "2.2.14",
+            "version": "e58f763",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/88/artifact/build/libs/ViaLoader-2.2.14-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.14-SNAPSHOT-javadoc.jar",
-                    "hash": "89add5857efbc53cd1dd58611b440a79",
-                    "size": "129126"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/88/artifact/build/libs/ViaLoader-2.2.14-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.14-SNAPSHOT-sources.jar",
                     "hash": "504c19a59a6bf39f4b4c924982126009",
-                    "size": "33525"
+                    "size": 33525
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/88/artifact/build/libs/ViaLoader-2.2.14-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.14-SNAPSHOT.jar",
                     "hash": "ca76540f8c109f93e35607226140ae9f",
-                    "size": "51063"
+                    "size": 51063
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/88/artifact/build/libs/ViaLoader-2.2.14-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.14-SNAPSHOT-javadoc.jar",
+                    "hash": "89add5857efbc53cd1dd58611b440a79",
+                    "size": 129126
                 }
             ]
         },
         {
             "build_number": 89,
-            "version": "2.2.14",
+            "version": "d6a1f08",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/89/artifact/build/libs/ViaLoader-2.2.14-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.14-SNAPSHOT-javadoc.jar",
-                    "hash": "00817e4386f73df6f15a424d64df8eff",
-                    "size": "129126"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/89/artifact/build/libs/ViaLoader-2.2.14-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.14-SNAPSHOT-sources.jar",
                     "hash": "c8faadf43fdb6825660de9b854e2a5c1",
-                    "size": "33525"
+                    "size": 33525
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/89/artifact/build/libs/ViaLoader-2.2.14-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.14-SNAPSHOT.jar",
                     "hash": "0641644cd9de8e404163f7a7366a873d",
-                    "size": "51063"
+                    "size": 51063
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/89/artifact/build/libs/ViaLoader-2.2.14-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.14-SNAPSHOT-javadoc.jar",
+                    "hash": "00817e4386f73df6f15a424d64df8eff",
+                    "size": 129126
                 }
             ]
         },
         {
             "build_number": 90,
-            "version": "2.2.14",
+            "version": "64d0ad1",
             "artifacts": [
-                {
-                    "url": "https://ci.viaversion.com/job/ViaLoader/90/artifact/build/libs/ViaLoader-2.2.14-SNAPSHOT-javadoc.jar",
-                    "file_name": "ViaLoader-2.2.14-SNAPSHOT-javadoc.jar",
-                    "hash": "4ccaaf3265c1ba163142c53c2504a70d",
-                    "size": "129126"
-                },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/90/artifact/build/libs/ViaLoader-2.2.14-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-2.2.14-SNAPSHOT-sources.jar",
                     "hash": "b4f93b5fa10dec7ebdfd1491e25bd496",
-                    "size": "33525"
+                    "size": 33525
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/90/artifact/build/libs/ViaLoader-2.2.14-SNAPSHOT.jar",
                     "file_name": "ViaLoader-2.2.14-SNAPSHOT.jar",
                     "hash": "24b57f1a46a36300ef512eca49f4f1d3",
-                    "size": "51063"
+                    "size": 51063
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/90/artifact/build/libs/ViaLoader-2.2.14-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaLoader-2.2.14-SNAPSHOT-javadoc.jar",
+                    "hash": "4ccaaf3265c1ba163142c53c2504a70d",
+                    "size": 129126
                 }
             ]
         },
         {
             "build_number": 91,
-            "version": "3.0.0",
+            "version": "d2b45fd",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/91/artifact/build/libs/ViaLoader-3.0.0-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.0-SNAPSHOT-sources.jar",
                     "hash": "45a24953064cc97dece40ecbc5667112",
-                    "size": "33542"
+                    "size": 33542
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/91/artifact/build/libs/ViaLoader-3.0.0-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.0-SNAPSHOT.jar",
                     "hash": "5730a407bd0310465469b3d574cae272",
-                    "size": "51680"
+                    "size": 51680
                 }
             ]
         },
         {
             "build_number": 92,
-            "version": "3.0.0",
+            "version": "280179a",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/92/artifact/build/libs/ViaLoader-3.0.0-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.0-SNAPSHOT-sources.jar",
                     "hash": "ab5137bda353d96f3d91fed6ff53b788",
-                    "size": "33542"
+                    "size": 33542
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/92/artifact/build/libs/ViaLoader-3.0.0-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.0-SNAPSHOT.jar",
                     "hash": "8268164d92374df59be71f77fedd77d5",
-                    "size": "51680"
+                    "size": 51680
                 }
             ]
         },
         {
             "build_number": 93,
-            "version": "3.0.0",
+            "version": "f31433e",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/93/artifact/build/libs/ViaLoader-3.0.0-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.0-SNAPSHOT-sources.jar",
                     "hash": "f74454bdadb981ba80aa661a7b37e8a6",
-                    "size": "33542"
+                    "size": 33542
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/93/artifact/build/libs/ViaLoader-3.0.0-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.0-SNAPSHOT.jar",
                     "hash": "d64c6cb8a77e08dd728b98e8c6665538",
-                    "size": "51680"
+                    "size": 51680
                 }
             ]
         },
         {
             "build_number": 94,
-            "version": "3.0.0",
+            "version": "1608ced",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/94/artifact/build/libs/ViaLoader-3.0.0-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.0-SNAPSHOT-sources.jar",
                     "hash": "0d426a5a5fc227aef90ca1ef86f942e9",
-                    "size": "33529"
+                    "size": 33529
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/94/artifact/build/libs/ViaLoader-3.0.0-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.0-SNAPSHOT.jar",
                     "hash": "1460b9495a737a3adc9394c00ca6aad8",
-                    "size": "51646"
+                    "size": 51646
                 }
             ]
         },
         {
             "build_number": 95,
-            "version": "3.0.0",
+            "version": "1cfd131",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/95/artifact/build/libs/ViaLoader-3.0.0-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.0-SNAPSHOT-sources.jar",
                     "hash": "06c780b4ef99793d5b2f3d5afb692703",
-                    "size": "33529"
+                    "size": 33529
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/95/artifact/build/libs/ViaLoader-3.0.0-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.0-SNAPSHOT.jar",
                     "hash": "f2581c6f5619d421f1563c3dc3a2daef",
-                    "size": "51646"
+                    "size": 51646
                 }
             ]
         },
         {
             "build_number": 96,
-            "version": "3.0.0",
+            "version": "273abf8",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/96/artifact/build/libs/ViaLoader-3.0.0-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.0-SNAPSHOT-sources.jar",
                     "hash": "f45c53fcdfc6bee9dee5b03b58066d4e",
-                    "size": "31051"
+                    "size": 31051
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/96/artifact/build/libs/ViaLoader-3.0.0-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.0-SNAPSHOT.jar",
                     "hash": "2974cb1fba7670caae183bdfe8eb0129",
-                    "size": "48172"
+                    "size": 48172
                 }
             ]
         },
         {
             "build_number": 97,
-            "version": "3.0.0",
+            "version": "daddc6d",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/97/artifact/build/libs/ViaLoader-3.0.0-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.0-SNAPSHOT-sources.jar",
                     "hash": "53d5983fb28093f4148eead59aa2dd09",
-                    "size": "31091"
+                    "size": 31091
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/97/artifact/build/libs/ViaLoader-3.0.0-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.0-SNAPSHOT.jar",
                     "hash": "d412480d8eeb73e6a9c946a4bd40ba25",
-                    "size": "48231"
+                    "size": 48231
                 }
             ]
         },
@@ -2180,85 +2180,85 @@
                     "url": "https://ci.viaversion.com/job/ViaLoader/98/artifact/build/libs/ViaLoader-3.0.0-sources.jar",
                     "file_name": "ViaLoader-3.0.0-sources.jar",
                     "hash": "87da5d35fa152fb327f05adeb3c72080",
-                    "size": "31091"
+                    "size": 31091
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/98/artifact/build/libs/ViaLoader-3.0.0.jar",
                     "file_name": "ViaLoader-3.0.0.jar",
                     "hash": "d4af9e700b7ed03554ba7bcf41c7220b",
-                    "size": "48216"
+                    "size": 48216
                 }
             ]
         },
         {
             "build_number": 99,
-            "version": "3.0.1",
+            "version": "5c85437",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/99/artifact/build/libs/ViaLoader-3.0.1-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.1-SNAPSHOT-sources.jar",
                     "hash": "f9d9237900e69831f2c851e0ef416ed1",
-                    "size": "31091"
+                    "size": 31091
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/99/artifact/build/libs/ViaLoader-3.0.1-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.1-SNAPSHOT.jar",
                     "hash": "52f193d3205a2219b1950ff6209a540d",
-                    "size": "48231"
+                    "size": 48231
                 }
             ]
         },
         {
             "build_number": 100,
-            "version": "3.0.1",
+            "version": "cf72f8d",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/100/artifact/build/libs/ViaLoader-3.0.1-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.1-SNAPSHOT-sources.jar",
                     "hash": "befbdfad3054ffa4f3f95dbbeaf2c70d",
-                    "size": "31091"
+                    "size": 31091
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/100/artifact/build/libs/ViaLoader-3.0.1-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.1-SNAPSHOT.jar",
                     "hash": "eb39a10c5816e6e96fc7ffe2d5a2bf07",
-                    "size": "48231"
+                    "size": 48231
                 }
             ]
         },
         {
             "build_number": 101,
-            "version": "3.0.1",
+            "version": "d71ea30",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/101/artifact/build/libs/ViaLoader-3.0.1-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.1-SNAPSHOT-sources.jar",
                     "hash": "8c0cd26af8900472733d6cfbcc065640",
-                    "size": "31091"
+                    "size": 31091
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/101/artifact/build/libs/ViaLoader-3.0.1-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.1-SNAPSHOT.jar",
                     "hash": "6ff1df91a252b3bede419498a3991ccc",
-                    "size": "48231"
+                    "size": 48231
                 }
             ]
         },
         {
             "build_number": 102,
-            "version": "3.0.1",
+            "version": "02044a0",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/102/artifact/build/libs/ViaLoader-3.0.1-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.1-SNAPSHOT-sources.jar",
                     "hash": "b6b6e32692dd5bd264ac2444fb827f68",
-                    "size": "31074"
+                    "size": 31074
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/102/artifact/build/libs/ViaLoader-3.0.1-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.1-SNAPSHOT.jar",
                     "hash": "4ade3ccd566c79440a3f1a879f462828",
-                    "size": "48039"
+                    "size": 48039
                 }
             ]
         },
@@ -2270,211 +2270,211 @@
                     "url": "https://ci.viaversion.com/job/ViaLoader/103/artifact/build/libs/ViaLoader-3.0.1-sources.jar",
                     "file_name": "ViaLoader-3.0.1-sources.jar",
                     "hash": "89d04babc60c5611fbb568143e7f5517",
-                    "size": "31074"
+                    "size": 31074
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/103/artifact/build/libs/ViaLoader-3.0.1.jar",
                     "file_name": "ViaLoader-3.0.1.jar",
                     "hash": "b21e90e921fda635a38f2385ee0e3282",
-                    "size": "48022"
+                    "size": 48022
                 }
             ]
         },
         {
             "build_number": 104,
-            "version": "3.0.2",
+            "version": "1125600",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/104/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "hash": "dc02f28968bd143bdfa2427f4e3a2c65",
-                    "size": "31074"
+                    "size": 31074
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/104/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT.jar",
                     "hash": "ed9259f6cccb91190a3c3c9a5142f6fb",
-                    "size": "48039"
+                    "size": 48039
                 }
             ]
         },
         {
             "build_number": 105,
-            "version": "3.0.2",
+            "version": "22737ef",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/105/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "hash": "7a114b87e9a77f37076be09e035da2be",
-                    "size": "30803"
+                    "size": 30803
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/105/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT.jar",
                     "hash": "3191e5c275f66ad3e8d65758975ac487",
-                    "size": "47632"
+                    "size": 47632
                 }
             ]
         },
         {
             "build_number": 106,
-            "version": "3.0.2",
+            "version": "5bb3782",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/106/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "hash": "07c83e14b5bc667d244ab4f663154f33",
-                    "size": "30803"
+                    "size": 30803
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/106/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT.jar",
                     "hash": "cb4ad497b47c066842564d4fe93874e2",
-                    "size": "47632"
+                    "size": 47632
                 }
             ]
         },
         {
             "build_number": 107,
-            "version": "3.0.2",
+            "version": "ca7e9c8",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/107/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "hash": "75db099bb584cc307d0645a61325590c",
-                    "size": "30803"
+                    "size": 30803
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/107/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT.jar",
                     "hash": "c832e869d7841be4ad968dced5d9338e",
-                    "size": "47632"
+                    "size": 47632
                 }
             ]
         },
         {
             "build_number": 108,
-            "version": "3.0.2",
+            "version": "f41ccdd",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/108/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "hash": "b686750f6f563d45ae2970670a0f5b8c",
-                    "size": "30803"
+                    "size": 30803
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/108/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT.jar",
                     "hash": "6174eb58bd3d0b34c0f24017a8dab9d8",
-                    "size": "47632"
+                    "size": 47632
                 }
             ]
         },
         {
             "build_number": 109,
-            "version": "3.0.2",
+            "version": "0f877cf",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/109/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "hash": "576572fadea39087ed01ce5ca1782fca",
-                    "size": "30803"
+                    "size": 30803
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/109/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT.jar",
                     "hash": "58aaf98c383a6432479239147ff4532f",
-                    "size": "47632"
+                    "size": 47632
                 }
             ]
         },
         {
             "build_number": 110,
-            "version": "3.0.2",
+            "version": "3accd38",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/110/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "hash": "9c7b51566add21e73e41fee7c439f50a",
-                    "size": "31024"
+                    "size": 31024
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/110/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT.jar",
                     "hash": "adca7913909d702ee576648c916815eb",
-                    "size": "47903"
+                    "size": 47903
                 }
             ]
         },
         {
             "build_number": 111,
-            "version": "3.0.2",
+            "version": "b486165",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/111/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "hash": "c408c94c887492e5ae22aec1ed9580a3",
-                    "size": "31024"
+                    "size": 31024
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/111/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT.jar",
                     "hash": "bff7ffea4aa11f841043179711b99db5",
-                    "size": "47903"
+                    "size": 47903
                 }
             ]
         },
         {
             "build_number": 112,
-            "version": "3.0.2",
+            "version": "7caa8be",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/112/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "hash": "73a108b1150fab0f99958875a8c7ae9c",
-                    "size": "31024"
+                    "size": 31024
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/112/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT.jar",
                     "hash": "358085364a9689d0123637fe0d06924e",
-                    "size": "47903"
+                    "size": 47903
                 }
             ]
         },
         {
             "build_number": 113,
-            "version": "3.0.2",
+            "version": "4961bcf",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/113/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "hash": "fd41766eafa77bab9e882a5e71a0fe78",
-                    "size": "30751"
+                    "size": 30751
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/113/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT.jar",
                     "hash": "de114a65bee07b3626670fcf5a7d31a6",
-                    "size": "47938"
+                    "size": 47938
                 }
             ]
         },
         {
             "build_number": 114,
-            "version": "3.0.2",
+            "version": "a13a5de",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/114/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT-sources.jar",
                     "hash": "490cba5be062efaf6475d2d40ee81466",
-                    "size": "30883"
+                    "size": 30883
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/114/artifact/build/libs/ViaLoader-3.0.2-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.2-SNAPSHOT.jar",
                     "hash": "e340e519df8427536317d02404852880",
-                    "size": "48453"
+                    "size": 48453
                 }
             ]
         },
@@ -2486,391 +2486,391 @@
                     "url": "https://ci.viaversion.com/job/ViaLoader/115/artifact/build/libs/ViaLoader-3.0.2-sources.jar",
                     "file_name": "ViaLoader-3.0.2-sources.jar",
                     "hash": "eb385e5be2e13d9606a98159d1b60809",
-                    "size": "30883"
+                    "size": 30883
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/115/artifact/build/libs/ViaLoader-3.0.2.jar",
                     "file_name": "ViaLoader-3.0.2.jar",
                     "hash": "62d631c6c6c62c3906735b9be933a723",
-                    "size": "48440"
+                    "size": 48440
                 }
             ]
         },
         {
             "build_number": 116,
-            "version": "3.0.3",
+            "version": "60a387e",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/116/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "e2819d94bca196171f2b8d2b5407eece",
-                    "size": "30883"
+                    "size": 30883
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/116/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "d0c910aa2360d318e147ee79fdae9b0a",
-                    "size": "48453"
+                    "size": 48453
                 }
             ]
         },
         {
             "build_number": 117,
-            "version": "3.0.3",
+            "version": "48e384f",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/117/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "cffbf9927ae580c608456c0a38a36678",
-                    "size": "30896"
+                    "size": 30896
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/117/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "b2de6fdddfa30903ed24778446e67371",
-                    "size": "48473"
+                    "size": 48473
                 }
             ]
         },
         {
             "build_number": 118,
-            "version": "3.0.3",
+            "version": "8fd51bb",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/118/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "1332e5b8062cb7ce4afd903fd3d13a8e",
-                    "size": "30896"
+                    "size": 30896
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/118/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "eee533b8ce67f976f9c58e276d85774f",
-                    "size": "48473"
+                    "size": 48473
                 }
             ]
         },
         {
             "build_number": 119,
-            "version": "3.0.3",
+            "version": "cc28ced",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/119/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "d8648fc522c1f11913352f8b152ac765",
-                    "size": "30896"
+                    "size": 30896
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/119/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "a9fffc21da1e01199f4f33bd866e0b3e",
-                    "size": "48473"
+                    "size": 48473
                 }
             ]
         },
         {
             "build_number": 120,
-            "version": "3.0.3",
+            "version": "eca9c3c",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/120/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "b4ac2ed7679660f56dd14079eeed46fd",
-                    "size": "30896"
+                    "size": 30896
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/120/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "43ca25be694ed5fc90de9edfe4dd3532",
-                    "size": "48473"
+                    "size": 48473
                 }
             ]
         },
         {
             "build_number": 121,
-            "version": "3.0.3",
+            "version": "acb7028",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/121/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "89268cab7b578aa145031f61f54b0588",
-                    "size": "30896"
+                    "size": 30896
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/121/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "318064dddcfeccaaf86fa50608c8e354",
-                    "size": "48473"
+                    "size": 48473
                 }
             ]
         },
         {
             "build_number": 122,
-            "version": "3.0.3",
+            "version": "0f4b188",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/122/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "dc02d16bd6325a72f2514a4e063bdf9a",
-                    "size": "30896"
+                    "size": 30896
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/122/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "a06834b792f2db2148194277fa737940",
-                    "size": "48473"
+                    "size": 48473
                 }
             ]
         },
         {
             "build_number": 123,
-            "version": "3.0.3",
+            "version": "8f00ca5",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/123/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "1707576465664436eaa1f1b7a80e3f44",
-                    "size": "30896"
+                    "size": 30896
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/123/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "f385099ef7d6f62904868e2c580aa24b",
-                    "size": "48473"
+                    "size": 48473
                 }
             ]
         },
         {
             "build_number": 124,
-            "version": "3.0.3",
+            "version": "bc19b52",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/124/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "9ad219a68c8791a8a14bf2eab70afe3f",
-                    "size": "30896"
+                    "size": 30896
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/124/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "3d78b60dd8cfb4dd806677890e17a700",
-                    "size": "48473"
+                    "size": 48473
                 }
             ]
         },
         {
             "build_number": 125,
-            "version": "3.0.3",
+            "version": "90e43b9",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/125/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "b4cde0f2cc15006b46ce57a3945a1e16",
-                    "size": "30896"
+                    "size": 30896
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/125/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "c878a1fefc8aadb30413fa4d13d1bde0",
-                    "size": "48473"
+                    "size": 48473
                 }
             ]
         },
         {
             "build_number": 126,
-            "version": "3.0.3",
+            "version": "e7e5837",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/126/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "c34cd0090a43e02e0158356388945dea",
-                    "size": "30896"
+                    "size": 30896
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/126/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "dbb1722bf5c5d167ecb7594132be3525",
-                    "size": "48473"
+                    "size": 48473
                 }
             ]
         },
         {
             "build_number": 127,
-            "version": "3.0.3",
+            "version": "e0b65fa",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/127/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "4322a9cb66802b74bcba84ee4c9dd3bf",
-                    "size": "30896"
+                    "size": 30896
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/127/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "15f74743de58e940061ebc85f5c4202d",
-                    "size": "48473"
+                    "size": 48473
                 }
             ]
         },
         {
             "build_number": 128,
-            "version": "3.0.3",
+            "version": "02d1aba",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/128/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "81ebb1d8a7f8ed61eae5a6190c2a7289",
-                    "size": "30896"
+                    "size": 30896
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/128/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "62d07f6ff0636830edac148d076ad483",
-                    "size": "48473"
+                    "size": 48473
                 }
             ]
         },
         {
             "build_number": 129,
-            "version": "3.0.3",
+            "version": "33a63f5",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/129/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "1bd198491820cf33521fe6dec3e6131f",
-                    "size": "30799"
+                    "size": 30799
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/129/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "a99ee4b881cbddb12bd324485df77c65",
-                    "size": "48110"
+                    "size": 48110
                 }
             ]
         },
         {
             "build_number": 130,
-            "version": "3.0.3",
+            "version": "0826d40",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/130/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "004398152db49e764ae81efa7f938a48",
-                    "size": "30799"
+                    "size": 30799
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/130/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "68e72646d74931ce2544b212ce819495",
-                    "size": "48110"
+                    "size": 48110
                 }
             ]
         },
         {
             "build_number": 131,
-            "version": "3.0.3",
+            "version": "333310a",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/131/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "32cf4f770a78ed1c25eae565a8a84262",
-                    "size": "30799"
+                    "size": 30799
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/131/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "67f333084dee4d7a4bfb18546936375b",
-                    "size": "48110"
+                    "size": 48110
                 }
             ]
         },
         {
             "build_number": 132,
-            "version": "3.0.3",
+            "version": "177766a",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/132/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "2913c3cad1ae6bfdaba79fb75035b080",
-                    "size": "30799"
+                    "size": 30799
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/132/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "39beb33763491e01cd0f0848f2b724f5",
-                    "size": "48110"
+                    "size": 48110
                 }
             ]
         },
         {
             "build_number": 133,
-            "version": "3.0.3",
+            "version": "65fd9ee",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/133/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "20318755fe7996e9b3d1a585b402e2fc",
-                    "size": "30799"
+                    "size": 30799
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/133/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "8e0a75d8c1a2c7b14a579f3ee1d9be6b",
-                    "size": "48110"
+                    "size": 48110
                 }
             ]
         },
         {
             "build_number": 134,
-            "version": "3.0.3",
+            "version": "01bcca0",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/134/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "2afe76b653d9023516465cc17272c203",
-                    "size": "30799"
+                    "size": 30799
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/134/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "3e0525fb33615068131aee34a3967ff3",
-                    "size": "48110"
+                    "size": 48110
                 }
             ]
         },
         {
             "build_number": 135,
-            "version": "3.0.3",
+            "version": "0a16f48",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/135/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "5fdb475dd7cf18de3905cd41bb0bcb7b",
-                    "size": "30799"
+                    "size": 30799
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/135/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "1b1ce98be9928031e2709359efe34552",
-                    "size": "48110"
+                    "size": 48110
                 }
             ]
         },
         {
             "build_number": 136,
-            "version": "3.0.3",
+            "version": "b8391d9",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/136/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT-sources.jar",
                     "hash": "2d41ac63743eb91fd4f39646e81240f8",
-                    "size": "30799"
+                    "size": 30799
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/136/artifact/build/libs/ViaLoader-3.0.3-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.3-SNAPSHOT.jar",
                     "hash": "3cd48354596401e9768caac0362b3d39",
-                    "size": "48110"
+                    "size": 48110
                 }
             ]
         },
@@ -2882,85 +2882,85 @@
                     "url": "https://ci.viaversion.com/job/ViaLoader/137/artifact/build/libs/ViaLoader-3.0.3-sources.jar",
                     "file_name": "ViaLoader-3.0.3-sources.jar",
                     "hash": "c3cdfb8bded202e20cf325886a12497e",
-                    "size": "30799"
+                    "size": 30799
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/137/artifact/build/libs/ViaLoader-3.0.3.jar",
                     "file_name": "ViaLoader-3.0.3.jar",
                     "hash": "aa26d37b50485b276d1f1b04df6e3b0f",
-                    "size": "48095"
+                    "size": 48095
                 }
             ]
         },
         {
             "build_number": 138,
-            "version": "3.0.4",
+            "version": "83462d8",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/138/artifact/build/libs/ViaLoader-3.0.4-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.4-SNAPSHOT-sources.jar",
                     "hash": "57f85a808d9457484b566ada7b2e2c54",
-                    "size": "30799"
+                    "size": 30799
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/138/artifact/build/libs/ViaLoader-3.0.4-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.4-SNAPSHOT.jar",
                     "hash": "972a607e81e4dfb673d578cfe8632c48",
-                    "size": "48109"
+                    "size": 48109
                 }
             ]
         },
         {
             "build_number": 139,
-            "version": "3.0.4",
+            "version": "b0de353",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/139/artifact/build/libs/ViaLoader-3.0.4-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.4-SNAPSHOT-sources.jar",
                     "hash": "3ef555e107c1a21204d7e63fbceaa6f0",
-                    "size": "30813"
+                    "size": 30813
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/139/artifact/build/libs/ViaLoader-3.0.4-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.4-SNAPSHOT.jar",
                     "hash": "ea881c7a152aa8ce73a8815589d75545",
-                    "size": "48097"
+                    "size": 48097
                 }
             ]
         },
         {
             "build_number": 140,
-            "version": "3.0.4",
+            "version": "06f8dc0",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/140/artifact/build/libs/ViaLoader-3.0.4-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.4-SNAPSHOT-sources.jar",
                     "hash": "6ca58bcd0716a4141853f6999a9528c8",
-                    "size": "30857"
+                    "size": 30857
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/140/artifact/build/libs/ViaLoader-3.0.4-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.4-SNAPSHOT.jar",
                     "hash": "9277ddbb93f99bdc1700d3106e34bd3a",
-                    "size": "48208"
+                    "size": 48208
                 }
             ]
         },
         {
             "build_number": 141,
-            "version": "3.0.4",
+            "version": "72794a5",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/141/artifact/build/libs/ViaLoader-3.0.4-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.4-SNAPSHOT-sources.jar",
                     "hash": "395ee1e803cd5b9ec75d947d95f8c75a",
-                    "size": "30862"
+                    "size": 30862
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/141/artifact/build/libs/ViaLoader-3.0.4-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.4-SNAPSHOT.jar",
                     "hash": "6da079c07ddced39c6c59ed96ddb8111",
-                    "size": "48222"
+                    "size": 48222
                 }
             ]
         },
@@ -2972,175 +2972,175 @@
                     "url": "https://ci.viaversion.com/job/ViaLoader/142/artifact/build/libs/ViaLoader-3.0.4-sources.jar",
                     "file_name": "ViaLoader-3.0.4-sources.jar",
                     "hash": "d710417cac86345227763af925e26d3a",
-                    "size": "30862"
+                    "size": 30862
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/142/artifact/build/libs/ViaLoader-3.0.4.jar",
                     "file_name": "ViaLoader-3.0.4.jar",
                     "hash": "9860207018f4bb9d38f4f28b8eea77f2",
-                    "size": "48207"
+                    "size": 48207
                 }
             ]
         },
         {
             "build_number": 143,
-            "version": "3.0.5",
+            "version": "7c9a446",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/143/artifact/build/libs/ViaLoader-3.0.5-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.5-SNAPSHOT-sources.jar",
                     "hash": "3a75a86ec1a22d00bdb262d52eb0b2b6",
-                    "size": "30862"
+                    "size": 30862
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/143/artifact/build/libs/ViaLoader-3.0.5-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.5-SNAPSHOT.jar",
                     "hash": "281ba5aa893ff9fdb1c1b74eebedc260",
-                    "size": "48223"
+                    "size": 48223
                 }
             ]
         },
         {
             "build_number": 144,
-            "version": "3.0.5",
+            "version": "a5ab392",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/144/artifact/build/libs/ViaLoader-3.0.5-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.5-SNAPSHOT-sources.jar",
                     "hash": "33c005629ba1d02ef4c0083a41f3eeb8",
-                    "size": "30862"
+                    "size": 30862
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/144/artifact/build/libs/ViaLoader-3.0.5-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.5-SNAPSHOT.jar",
                     "hash": "c03985add3e98ae3e0ce3607ca4c6e5e",
-                    "size": "48223"
+                    "size": 48223
                 }
             ]
         },
         {
             "build_number": 145,
-            "version": "3.0.5",
+            "version": "3c721a0",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/145/artifact/build/libs/ViaLoader-3.0.5-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.5-SNAPSHOT-sources.jar",
                     "hash": "092bd4fc3ddeb2c805ab03dcf52ad6a8",
-                    "size": "30862"
+                    "size": 30862
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/145/artifact/build/libs/ViaLoader-3.0.5-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.5-SNAPSHOT.jar",
                     "hash": "42a315dfaeeb63737ec414ea219db090",
-                    "size": "48223"
+                    "size": 48223
                 }
             ]
         },
         {
             "build_number": 146,
-            "version": "3.0.5",
+            "version": "f209bf4",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/146/artifact/build/libs/ViaLoader-3.0.5-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.5-SNAPSHOT-sources.jar",
                     "hash": "80b46f96bca717e7c87f4ec842c17f53",
-                    "size": "30862"
+                    "size": 30862
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/146/artifact/build/libs/ViaLoader-3.0.5-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.5-SNAPSHOT.jar",
                     "hash": "de93bd103fd94744711cb78bf5f9b981",
-                    "size": "48223"
+                    "size": 48223
                 }
             ]
         },
         {
             "build_number": 147,
-            "version": "3.0.5",
+            "version": "783680e",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/147/artifact/build/libs/ViaLoader-3.0.5-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.5-SNAPSHOT-sources.jar",
                     "hash": "59e5a8e87b04ffddff470afa6efd88f8",
-                    "size": "30862"
+                    "size": 30862
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/147/artifact/build/libs/ViaLoader-3.0.5-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.5-SNAPSHOT.jar",
                     "hash": "b7587331ca97992e0f60b92c979e1b6d",
-                    "size": "48223"
+                    "size": 48223
                 }
             ]
         },
         {
             "build_number": 148,
-            "version": "3.0.5",
+            "version": "ab4d41f",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/148/artifact/build/libs/ViaLoader-3.0.5-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.5-SNAPSHOT-sources.jar",
                     "hash": "905c659177f060a8b47ffe8c8f595d7f",
-                    "size": "30862"
+                    "size": 30862
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/148/artifact/build/libs/ViaLoader-3.0.5-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.5-SNAPSHOT.jar",
                     "hash": "110e2a32e0f45e29089182e9905bcefa",
-                    "size": "48223"
+                    "size": 48223
                 }
             ]
         },
         {
             "build_number": 149,
-            "version": "3.0.5",
+            "version": "4ae239d",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/149/artifact/build/libs/ViaLoader-3.0.5-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.5-SNAPSHOT-sources.jar",
                     "hash": "0e17fe0a26008bc1cf46b996cef3bbae",
-                    "size": "30862"
+                    "size": 30862
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/149/artifact/build/libs/ViaLoader-3.0.5-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.5-SNAPSHOT.jar",
                     "hash": "dd25f49de0ced92229a8524d71acef42",
-                    "size": "48223"
+                    "size": 48223
                 }
             ]
         },
         {
             "build_number": 150,
-            "version": "3.0.5",
+            "version": "dd4ca11",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/150/artifact/build/libs/ViaLoader-3.0.5-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.5-SNAPSHOT-sources.jar",
                     "hash": "d34c7110ffee6c72b82b5d96c0cbf3d3",
-                    "size": "30862"
+                    "size": 30862
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/150/artifact/build/libs/ViaLoader-3.0.5-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.5-SNAPSHOT.jar",
                     "hash": "9dccbae0fc7980518c1f7d3a737958c8",
-                    "size": "48223"
+                    "size": 48223
                 }
             ]
         },
         {
             "build_number": 151,
-            "version": "3.0.5",
+            "version": "fc5335c",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/151/artifact/build/libs/ViaLoader-3.0.5-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-3.0.5-SNAPSHOT-sources.jar",
                     "hash": "175bd51dd04a20548b102378412c2f62",
-                    "size": "30862"
+                    "size": 30862
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/151/artifact/build/libs/ViaLoader-3.0.5-SNAPSHOT.jar",
                     "file_name": "ViaLoader-3.0.5-SNAPSHOT.jar",
                     "hash": "2374a192673086e60792471cb690a2ac",
-                    "size": "48223"
+                    "size": 48223
                 }
             ]
         },
@@ -3152,67 +3152,67 @@
                     "url": "https://ci.viaversion.com/job/ViaLoader/152/artifact/build/libs/ViaLoader-4.0.0-sources.jar",
                     "file_name": "ViaLoader-4.0.0-sources.jar",
                     "hash": "df7764e2ec410b9fd32d0e051151b986",
-                    "size": "32676"
+                    "size": 32676
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/152/artifact/build/libs/ViaLoader-4.0.0.jar",
                     "file_name": "ViaLoader-4.0.0.jar",
                     "hash": "9488fe2a7b45a94d9912e7a93ff4dbe2",
-                    "size": "48313"
+                    "size": 48313
                 }
             ]
         },
         {
             "build_number": 153,
-            "version": "4.0.1",
+            "version": "690a586",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/153/artifact/build/libs/ViaLoader-4.0.1-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-4.0.1-SNAPSHOT-sources.jar",
                     "hash": "9526216a33ad0749f9ac59382f6abe81",
-                    "size": "32676"
+                    "size": 32676
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/153/artifact/build/libs/ViaLoader-4.0.1-SNAPSHOT.jar",
                     "file_name": "ViaLoader-4.0.1-SNAPSHOT.jar",
                     "hash": "37c1f2288c625366d727166b381ba23c",
-                    "size": "48332"
+                    "size": 48332
                 }
             ]
         },
         {
             "build_number": 154,
-            "version": "4.0.1",
+            "version": "c7bc479",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/154/artifact/build/libs/ViaLoader-4.0.1-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-4.0.1-SNAPSHOT-sources.jar",
                     "hash": "96e97de6af79fb82d4159fa2612c09d0",
-                    "size": "32676"
+                    "size": 32676
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/154/artifact/build/libs/ViaLoader-4.0.1-SNAPSHOT.jar",
                     "file_name": "ViaLoader-4.0.1-SNAPSHOT.jar",
                     "hash": "dc598ba45f2244b95d7e3a9d78ff3d5b",
-                    "size": "48332"
+                    "size": 48332
                 }
             ]
         },
         {
             "build_number": 155,
-            "version": "4.0.1",
+            "version": "d13db8d",
             "artifacts": [
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/155/artifact/build/libs/ViaLoader-4.0.1-SNAPSHOT-sources.jar",
                     "file_name": "ViaLoader-4.0.1-SNAPSHOT-sources.jar",
                     "hash": "a22139a38229f1509dfe873d23f506d1",
-                    "size": "32681"
+                    "size": 32681
                 },
                 {
                     "url": "https://ci.viaversion.com/job/ViaLoader/155/artifact/build/libs/ViaLoader-4.0.1-SNAPSHOT.jar",
                     "file_name": "ViaLoader-4.0.1-SNAPSHOT.jar",
                     "hash": "fda1e9065e1b88ace0ccef4d7b670a90",
-                    "size": "48352"
+                    "size": 48352
                 }
             ]
         }

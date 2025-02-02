@@ -8,7 +8,7 @@
                     "url": "https://ci.viaversion.com/job/PAaaS/95/artifact/target/PAaaS-0.1-ALPHA.jar",
                     "file_name": "PAaaS-0.1-ALPHA.jar",
                     "hash": "8b8cb685a173ba5ec83b40302175200e",
-                    "size": "105771"
+                    "size": 105771
                 }
             ]
         },
@@ -20,7 +20,7 @@
                     "url": "https://ci.viaversion.com/job/PAaaS/96/artifact/target/PAaaS-0.1-ALPHA.jar",
                     "file_name": "PAaaS-0.1-ALPHA.jar",
                     "hash": "ff04a0349bdfd76ad834fdd2a7ff509a",
-                    "size": "105913"
+                    "size": 105913
                 }
             ]
         },
@@ -32,7 +32,7 @@
                     "url": "https://ci.viaversion.com/job/PAaaS/97/artifact/target/PAaaS-0.1-ALPHA.jar",
                     "file_name": "PAaaS-0.1-ALPHA.jar",
                     "hash": "a6632ec6596daf9c64e7d72d698221c5",
-                    "size": "105944"
+                    "size": 105944
                 }
             ]
         },
@@ -44,7 +44,7 @@
                     "url": "https://ci.viaversion.com/job/PAaaS/98/artifact/target/PAaaS-0.1-ALPHA.jar",
                     "file_name": "PAaaS-0.1-ALPHA.jar",
                     "hash": "03905701a9633f25625f7477610437ee",
-                    "size": "105942"
+                    "size": 105942
                 }
             ]
         }

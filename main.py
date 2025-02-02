@@ -1,122 +1,121 @@
 import requests
 import json
+import os
+import re
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
-import re
-import os
 
 session = requests.Session()
+BASE_URL = "https://ci.viaversion.com/job/"
+PROJECTS_DIR = "projects"
+
 
 def get_projects():
-	r = session.get("https://ci.viaversion.com/api/json")
-	return [ job["name"] for job in r.json()["jobs"] ]
-
-def get_artifact_metadata(job_url: str, buildNumber: int, relativePath: str):
-	r = session.head(f"{job_url}/{buildNumber}/artifact/{relativePath}")
-	try:
-		size = int(r.headers["Content-Length"])
-	except Exception as e:
-		size = 0
-
-	r2 = session.get(f"{job_url}/{buildNumber}/artifact/{relativePath}/*fingerprint*/")
-	file_hash = re.findall(r"[0-9a-f]{32}", r2.text)[0]
-
-	return (size, file_hash)
+    response = session.get("https://ci.viaversion.com/api/json")
+    return [job["name"] for job in response.json()["jobs"]]
 
 
-def get_job(job_url: str, name: str, buildNumber: int):
-	r = session.get(f"{job_url}/{buildNumber}/api/json")
- 
-	if r.status_code != 200:
-		return None
- 
-	data = r.json()
-	status = data["result"].lower()
-	
-	# get artifacts
-	artifacts = data["artifacts"]
-	artifacts_metadata = []
-	for artifact in artifacts:
-		relativePath = artifact["relativePath"]
-		artifact_metadata = get_artifact_metadata(job_url, buildNumber, relativePath)
-		artifact_data = {
-			"url": f"{job_url}/{buildNumber}/artifact/{relativePath}",
-			"file_name": artifact["fileName"],
-			"hash": artifact_metadata[1],
-			"size": artifact_metadata[0]
-		}
+def get_artifact_metadata(job_url: str, build_number: int, relative_path: str):
+    size = 0
+    file_hash = ""
+    
+    try:
+        response = session.head(f"{job_url}/{build_number}/artifact/{relative_path}")
+        size = int(response.headers.get("Content-Length", 0))
+    except Exception:
+        pass
+    
+    fingerprint_url = f"{job_url}/{build_number}/artifact/{relative_path}/*fingerprint*/"
+    response = session.get(fingerprint_url)
+    hash_matches = re.findall(r"[0-9a-f]{32}", response.text)
+    
+    if hash_matches:
+        file_hash = hash_matches[0]
+    
+    return size, file_hash
 
-		artifacts_metadata.append(artifact_data)
-	artifacts_metadata = sorted(artifacts_metadata, key = lambda item: item["size"])
 
-	# get version
-	version = ""
+def get_job(job_url: str, build_number: int):
+    response = session.get(f"{job_url}/{build_number}/api/json")
+    if response.status_code != 200:
+        return None
+    
+    data = response.json()
+    artifacts_metadata = []
+    
+    for artifact in data["artifacts"]:
+        relative_path = artifact["relativePath"]
+        size, file_hash = get_artifact_metadata(job_url, build_number, relative_path)
+        artifacts_metadata.append({
+            "url": f"{job_url}/{build_number}/artifact/{relative_path}",
+            "file_name": artifact["fileName"],
+            "hash": file_hash,
+            "size": size,
+        })
+    
+    artifacts_metadata.sort(key=lambda item: item["size"])
+    version = ""
+    
+    if artifacts_metadata:
+        filename = artifacts_metadata[0]["file_name"].removesuffix(".jar")
+        parts = filename.split("-")
+        if len(parts) > 1:
+            version = parts[1]
+        if "SNAPSHOT" in filename:
+        	items = data["changeSet"]["items"]
+        	if items:
+        		version = items[0]["commitId"][:7]
+    
+    return {
+        "build_number": build_number,
+        "version": version,
+        "artifacts": artifacts_metadata,
+    }
 
-	try:
-		if artifacts_metadata:
-			filename = artifacts_metadata[0]["file_name"].removesuffix(".jar")
-			version = filename.split("-")[1]
-			if "SNAPSHOT" in filename:
-				version = data["changeSet"]["items"][0]["commitId"][:7]
-	except Exception as e:
-		pass
 
-	return {
-		"build_number": buildNumber,
-		"version": version,
-		"artifacts": artifacts_metadata,
-	}
- 
 def get_latest_build_number(name: str):
-	job_url = f"https://ci.viaversion.com/job/{name}"
+    response = session.get(f"{BASE_URL}{name}/api/json")
+    return response.json()["lastBuild"]["number"]
 
-	r = session.get(f"{job_url}/api/json")
-	return r.json()["lastBuild"]["number"]
 
-def fetch_job_json_data(results: list, name: str, checkPoint: int, latestBuildNumber: int):
-	new_results = results
-	job_url = f"https://ci.viaversion.com/job/{name}"
+def fetch_job_json_data(existing_builds: list, name: str, checkpoint: int, latest_build_number: int):
+    job_url = f"{BASE_URL}{name}"
+    pbar = tqdm(total=latest_build_number - checkpoint, desc=name)
+    
+    with ThreadPoolExecutor(max_workers=32) as executor:
+        futures = {executor.submit(get_job, job_url, number): number for number in range(checkpoint + 1, latest_build_number + 1)}
+        
+        for future in futures:
+            future.add_done_callback(lambda _: pbar.update(1))
+        
+        new_builds = [future.result() for future in as_completed(futures) if future.result()]
+    
+    pbar.close()
+    return sorted(existing_builds + new_builds, key=lambda item: item["build_number"])
 
-	pbar = tqdm(total=latestBuildNumber-checkPoint, desc=name)
-	with ThreadPoolExecutor(max_workers=8) as executor:
-		futures = {executor.submit(lambda number: get_job(job_url, name, number), number): number for number in range(checkPoint+1, latestBuildNumber+1)}
-
-		for future in futures:
-			future.add_done_callback(lambda _: pbar.update(1))
-   
-		new_results += [future.result() for future in as_completed(futures)]
-	new_results = [item for item in new_results if item]
-	new_results = sorted(new_results, key = lambda item: item["build_number"])
-	pbar.close()
-
-	return new_results
 
 def fetch_job(name: str):
-	file_path = f"projects/{name}.json"
+    file_path = os.path.join(PROJECTS_DIR, f"{name}.json")
+    
+    if os.path.isfile(file_path):
+        with open(file_path, "r") as file:
+            data = json.load(file)
+    else:
+        data = {"builds": [], "prev_build_number": 0}
+    
+    latest_build_number = get_latest_build_number(name)
+    prev_build_number = data["prev_build_number"]
+    
+    data["builds"] = fetch_job_json_data(data["builds"], name, prev_build_number, latest_build_number)
+    data["prev_build_number"] = latest_build_number
+    
+    with open(file_path, "w") as file:
+        json.dump(data, file, indent=4)
 
-	if os.path.isfile(file_path):
-		with open(file_path, "r") as f:
-			data = json.load(f)
-	else:
-		data = {
-			"builds": [],
-			"prev_build_number": 0
-		}
 
-	latestBuildNumber = get_latest_build_number(name)
-	prevBuildNumber = data["prev_build_number"]
-	builds = data["builds"]
-	data["builds"] = fetch_job_json_data(builds, name, prevBuildNumber, latestBuildNumber)
-	data["prev_build_number"] = latestBuildNumber
-
-	with open(file_path, "w") as f:
-		json.dump(data, f, indent=4)
-
-if __name__ == '__main__':
-	if not os.path.isdir("projects"):
-		os.mkdir("projects")
-
-	projects = get_projects()
-
-	for project in projects:
-		fetch_job(project)
+if __name__ == "__main__":
+    os.makedirs(PROJECTS_DIR, exist_ok=True)
+    
+    projects = get_projects()
+    for project in projects:
+        fetch_job(project)
