@@ -6488,7 +6488,19 @@
             "build_number": 553,
             "version": "",
             "artifacts": []
+        },
+        {
+            "build_number": 554,
+            "version": "2f3c869",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBackwards/554/artifact/build/libs/ViaBackwards-5.2.2-SNAPSHOT.jar",
+                    "file_name": "ViaBackwards-5.2.2-SNAPSHOT.jar",
+                    "hash": "564a9e6d4351bc4841808d22d88924bc",
+                    "size": 1221256
+                }
+            ]
         }
     ],
-    "prev_build_number": 553
+    "prev_build_number": 554
 }
