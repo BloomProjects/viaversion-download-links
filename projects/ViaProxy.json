@@ -2519,7 +2519,31 @@
                     "size": 29050770
                 }
             ]
+        },
+        {
+            "build_number": 592,
+            "version": "e9fd0ec",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/592/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT-sources.jar",
+                    "hash": "208f975e0752e8150ff32d370760d61a",
+                    "size": 299831
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/592/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT.jar",
+                    "hash": "51390ddb8857e15b1b8200196123da7d",
+                    "size": 27257378
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaProxy/592/artifact/build/libs/ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "file_name": "ViaProxy-3.4.0-SNAPSHOT+java8.jar",
+                    "hash": "af9cf2f9efcb8168c462f5ff6128db5d",
+                    "size": 29050837
+                }
+            ]
         }
     ],
-    "prev_build_number": 591
+    "prev_build_number": 592
 }
