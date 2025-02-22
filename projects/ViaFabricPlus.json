@@ -15183,7 +15183,43 @@
                     "size": 11959593
                 }
             ]
+        },
+        {
+            "build_number": 859,
+            "version": "bd8ad2e",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaFabricPlus/859/artifact/build/libs/ViaFabricPlus-4.0.3-SNAPSHOT-sources.jar",
+                    "file_name": "ViaFabricPlus-4.0.3-SNAPSHOT-sources.jar",
+                    "hash": "ac31ee5b6bfc2640a8b9795096e002c7",
+                    "size": 740071
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaFabricPlus/859/artifact/build/libs/ViaFabricPlus-4.0.3-SNAPSHOT.jar",
+                    "file_name": "ViaFabricPlus-4.0.3-SNAPSHOT.jar",
+                    "hash": "952af0dccf7999e2660e67915b0ea16a",
+                    "size": 11959588
+                }
+            ]
+        },
+        {
+            "build_number": 860,
+            "version": "16b0839",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaFabricPlus/860/artifact/build/libs/ViaFabricPlus-4.0.3-SNAPSHOT-sources.jar",
+                    "file_name": "ViaFabricPlus-4.0.3-SNAPSHOT-sources.jar",
+                    "hash": "6c66510253498e9005321e599d1e3f87",
+                    "size": 740071
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaFabricPlus/860/artifact/build/libs/ViaFabricPlus-4.0.3-SNAPSHOT.jar",
+                    "file_name": "ViaFabricPlus-4.0.3-SNAPSHOT.jar",
+                    "hash": "af85e7b491c0f20e199b4488332f430a",
+                    "size": 11959589
+                }
+            ]
         }
     ],
-    "prev_build_number": 858
+    "prev_build_number": 860
 }
