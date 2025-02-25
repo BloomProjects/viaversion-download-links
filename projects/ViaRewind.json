@@ -1389,7 +1389,19 @@
                     "size": 377097
                 }
             ]
+        },
+        {
+            "build_number": 115,
+            "version": "e27caba",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind/115/artifact/build/libs/ViaRewind-4.0.6-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.6-SNAPSHOT.jar",
+                    "hash": "4b253be303d4e5e67c95de767469eb3e",
+                    "size": 377087
+                }
+            ]
         }
     ],
-    "prev_build_number": 114
+    "prev_build_number": 115
 }
