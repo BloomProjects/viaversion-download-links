@@ -3233,7 +3233,25 @@
                     "size": 48455
                 }
             ]
+        },
+        {
+            "build_number": 157,
+            "version": "3f28a14",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/157/artifact/build/libs/ViaLoader-4.0.1-SNAPSHOT-sources.jar",
+                    "file_name": "ViaLoader-4.0.1-SNAPSHOT-sources.jar",
+                    "hash": "5fa75d5d1b4dbfa7e45bc128017a2ac4",
+                    "size": 32681
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/157/artifact/build/libs/ViaLoader-4.0.1-SNAPSHOT.jar",
+                    "file_name": "ViaLoader-4.0.1-SNAPSHOT.jar",
+                    "hash": "cb7a81b818146f22d72b828744c1e747",
+                    "size": 48455
+                }
+            ]
         }
     ],
-    "prev_build_number": 156
+    "prev_build_number": 157
 }

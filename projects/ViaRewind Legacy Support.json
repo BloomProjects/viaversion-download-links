@@ -526,7 +526,25 @@
                     "size": 35161
                 }
             ]
+        },
+        {
+            "build_number": 31,
+            "version": "Legacy",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind Legacy Support/31/artifact/build/libs/ViaRewind-Legacy-Support-1.5.2-sources.jar",
+                    "file_name": "ViaRewind-Legacy-Support-1.5.2-sources.jar",
+                    "hash": "015dbadbc6930d00de846c59bc171525",
+                    "size": 22390
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind Legacy Support/31/artifact/build/libs/ViaRewind-Legacy-Support-1.5.2.jar",
+                    "file_name": "ViaRewind-Legacy-Support-1.5.2.jar",
+                    "hash": "7df2b964febb8dabcddcddcd0685aee9",
+                    "size": 35161
+                }
+            ]
         }
     ],
-    "prev_build_number": 30
+    "prev_build_number": 31
 }
