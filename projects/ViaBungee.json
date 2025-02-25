@@ -446,7 +446,19 @@
                     "size": 216853
                 }
             ]
+        },
+        {
+            "build_number": 39,
+            "version": "0.2.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBungee/39/artifact/build/libs/ViaBungee-0.2.0.jar",
+                    "file_name": "ViaBungee-0.2.0.jar",
+                    "hash": "161a73e8cb70fa5cc7c9c49867c2905b",
+                    "size": 216853
+                }
+            ]
         }
     ],
-    "prev_build_number": 38
+    "prev_build_number": 39
 }

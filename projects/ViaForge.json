@@ -4785,7 +4785,79 @@
                     "size": 9057294
                 }
             ]
+        },
+        {
+            "build_number": 89,
+            "version": "45d1e1f",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/89/artifact/viaforge-mc189/build/libs/viaforge-mc189-4.0.1-SNAPSHOT.jar",
+                    "file_name": "viaforge-mc189-4.0.1-SNAPSHOT.jar",
+                    "hash": "c93ef44181ba297197a30d3d31e7ada5",
+                    "size": 261
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/89/artifact/viaforge-mc1206/build/libs/viaforge-mc1206-4.0.1-SNAPSHOT.jar",
+                    "file_name": "viaforge-mc1206-4.0.1-SNAPSHOT.jar",
+                    "hash": "4ae55f1bfb378111f767044d894c4f79",
+                    "size": 7815675
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/89/artifact/viaforge-mc1214/build/libs/viaforge-mc1214-4.0.1-SNAPSHOT.jar",
+                    "file_name": "viaforge-mc1214-4.0.1-SNAPSHOT.jar",
+                    "hash": "1b74bd87a8987ea69b0c50ef640c5d8c",
+                    "size": 7815682
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/89/artifact/viaforge-mc1182/build/libs/viaforge-mc1182-4.0.1-SNAPSHOT.jar",
+                    "file_name": "viaforge-mc1182-4.0.1-SNAPSHOT.jar",
+                    "hash": "87e8dc10c46bfea5d14576f23a8c62fb",
+                    "size": 7904185
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/89/artifact/viaforge-mc1171/build/libs/viaforge-mc1171-4.0.1-SNAPSHOT.jar",
+                    "file_name": "viaforge-mc1171-4.0.1-SNAPSHOT.jar",
+                    "hash": "57150eee661dd31b67292addb49ef650",
+                    "size": 7904190
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/89/artifact/viaforge-mc1192/build/libs/viaforge-mc1192-4.0.1-SNAPSHOT.jar",
+                    "file_name": "viaforge-mc1192-4.0.1-SNAPSHOT.jar",
+                    "hash": "505fabba37a40be19a742459f502d1c4",
+                    "size": 7904248
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/89/artifact/viaforge-mc1204/build/libs/viaforge-mc1204-4.0.1-SNAPSHOT.jar",
+                    "file_name": "viaforge-mc1204-4.0.1-SNAPSHOT.jar",
+                    "hash": "038568613ea521b9ed29cd30196c591c",
+                    "size": 7904564
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/89/artifact/viaforge-mc1194/build/libs/viaforge-mc1194-4.0.1-SNAPSHOT.jar",
+                    "file_name": "viaforge-mc1194-4.0.1-SNAPSHOT.jar",
+                    "hash": "e776cc5a1230eb8d68617cc713f8700f",
+                    "size": 7904662
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/89/artifact/viaforge-mc1201/build/libs/viaforge-mc1201-4.0.1-SNAPSHOT.jar",
+                    "file_name": "viaforge-mc1201-4.0.1-SNAPSHOT.jar",
+                    "hash": "f26975a0e20461d9e2def3c613063194",
+                    "size": 7904726
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/89/artifact/viaforge-mc1165/build/libs/viaforge-mc1165-4.0.1-SNAPSHOT.jar",
+                    "file_name": "viaforge-mc1165-4.0.1-SNAPSHOT.jar",
+                    "hash": "91ca4180b2480a4697a645b566632433",
+                    "size": 8102468
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/89/artifact/viaforge-mc1122/build/libs/viaforge-mc1122-4.0.1-SNAPSHOT.jar",
+                    "file_name": "viaforge-mc1122-4.0.1-SNAPSHOT.jar",
+                    "hash": "dae1c0cb90ce230760a15b868f321858",
+                    "size": 9057294
+                }
+            ]
         }
     ],
-    "prev_build_number": 88
+    "prev_build_number": 89
 }
