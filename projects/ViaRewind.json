@@ -1401,7 +1401,43 @@
                     "size": 377087
                 }
             ]
+        },
+        {
+            "build_number": 116,
+            "version": "bff1528",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind/116/artifact/build/libs/ViaRewind-4.0.6-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.6-SNAPSHOT.jar",
+                    "hash": "f78f7f7dee261be82b17a98b64a7ea6d",
+                    "size": 377080
+                }
+            ]
+        },
+        {
+            "build_number": 117,
+            "version": "3324f78",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind/117/artifact/build/libs/ViaRewind-4.0.6-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.6-SNAPSHOT.jar",
+                    "hash": "5376b8438554d595ef62add07211141f",
+                    "size": 377085
+                }
+            ]
+        },
+        {
+            "build_number": 118,
+            "version": "51f001a",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind/118/artifact/build/libs/ViaRewind-4.0.6-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.6-SNAPSHOT.jar",
+                    "hash": "4560f007463195533a1fb9331063fd31",
+                    "size": 377105
+                }
+            ]
         }
     ],
-    "prev_build_number": 115
+    "prev_build_number": 118
 }
