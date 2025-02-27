@@ -832,7 +832,55 @@
                     "size": 320099
                 }
             ]
+        },
+        {
+            "build_number": 38,
+            "version": "5.1.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaNBT/38/artifact/target/nbt-5.1.0-SNAPSHOT-sources.jar",
+                    "file_name": "nbt-5.1.0-SNAPSHOT-sources.jar",
+                    "hash": "f7da762fb2cad1d8d07b67ab2d2e3a61",
+                    "size": 44845
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaNBT/38/artifact/target/nbt-5.1.0-SNAPSHOT.jar",
+                    "file_name": "nbt-5.1.0-SNAPSHOT.jar",
+                    "hash": "cb275a2cc8cac2ceed8d1e842be951cb",
+                    "size": 67596
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaNBT/38/artifact/target/nbt-5.1.0-SNAPSHOT-javadoc.jar",
+                    "file_name": "nbt-5.1.0-SNAPSHOT-javadoc.jar",
+                    "hash": "c2a9873ca93a5b5f7df2adb18cc69ef6",
+                    "size": 320104
+                }
+            ]
+        },
+        {
+            "build_number": 39,
+            "version": "b61e075",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaNBT/39/artifact/target/nbt-5.1.0-SNAPSHOT-sources.jar",
+                    "file_name": "nbt-5.1.0-SNAPSHOT-sources.jar",
+                    "hash": "098df9bc2a2617df7d68371b79315832",
+                    "size": 44875
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaNBT/39/artifact/target/nbt-5.1.0-SNAPSHOT.jar",
+                    "file_name": "nbt-5.1.0-SNAPSHOT.jar",
+                    "hash": "8386a7b54cac3a23ebc409eadbcb8342",
+                    "size": 67637
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaNBT/39/artifact/target/nbt-5.1.0-SNAPSHOT-javadoc.jar",
+                    "file_name": "nbt-5.1.0-SNAPSHOT-javadoc.jar",
+                    "hash": "c5258c1a7392ba53d51460d402d6b1f4",
+                    "size": 320101
+                }
+            ]
         }
     ],
-    "prev_build_number": 37
+    "prev_build_number": 39
 }
