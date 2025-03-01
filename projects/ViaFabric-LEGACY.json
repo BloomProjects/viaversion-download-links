@@ -215,7 +215,25 @@
                     "size": 6245294
                 }
             ]
+        },
+        {
+            "build_number": 13,
+            "version": "0.4.17+13",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/13/artifact/build/libs/ViaFabric-0.4.17+13-legacy-sources.jar",
+                    "file_name": "ViaFabric-0.4.17+13-legacy-sources.jar",
+                    "hash": "5626c4117b9db468681b011f7fec582e",
+                    "size": 100503
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaFabric-LEGACY/13/artifact/build/libs/ViaFabric-0.4.17+13-legacy.jar",
+                    "file_name": "ViaFabric-0.4.17+13-legacy.jar",
+                    "hash": "373135d927cf32e64be04095e55446f3",
+                    "size": 6250132
+                }
+            ]
         }
     ],
-    "prev_build_number": 12
+    "prev_build_number": 13
 }
