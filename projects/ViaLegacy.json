@@ -4911,7 +4911,25 @@
                     "size": 1168521
                 }
             ]
+        },
+        {
+            "build_number": 230,
+            "version": "bda196f",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLegacy/230/artifact/build/libs/ViaLegacy-3.0.8-SNAPSHOT-sources.jar",
+                    "file_name": "ViaLegacy-3.0.8-SNAPSHOT-sources.jar",
+                    "hash": "426d39534bfa4eadc741854dc5c2f740",
+                    "size": 521142
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLegacy/230/artifact/build/libs/ViaLegacy-3.0.8-SNAPSHOT.jar",
+                    "file_name": "ViaLegacy-3.0.8-SNAPSHOT.jar",
+                    "hash": "e0d9c6d68d8c2f0b80d2d149c6d7a728",
+                    "size": 1168573
+                }
+            ]
         }
     ],
-    "prev_build_number": 229
+    "prev_build_number": 230
 }
