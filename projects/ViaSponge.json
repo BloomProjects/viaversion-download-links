@@ -376,7 +376,19 @@
                     "size": 46236
                 }
             ]
+        },
+        {
+            "build_number": 32,
+            "version": "1.2.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaSponge/32/artifact/build/libs/ViaSponge-1.2.0.jar",
+                    "file_name": "ViaSponge-1.2.0.jar",
+                    "hash": "147639671a659bfb9067f3a03b2928a4",
+                    "size": 46233
+                }
+            ]
         }
     ],
-    "prev_build_number": 31
+    "prev_build_number": 32
 }
