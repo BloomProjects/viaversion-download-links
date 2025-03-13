@@ -904,7 +904,31 @@
                     "size": 320756
                 }
             ]
+        },
+        {
+            "build_number": 41,
+            "version": "5.1.0",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaNBT/41/artifact/target/nbt-5.1.0-sources.jar",
+                    "file_name": "nbt-5.1.0-sources.jar",
+                    "hash": "9baab4855a1850aa9e53e0f8dbaf13f2",
+                    "size": 45769
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaNBT/41/artifact/target/nbt-5.1.0.jar",
+                    "file_name": "nbt-5.1.0.jar",
+                    "hash": "7a258ccd6de0b27ce1e1cfd7ba9ff172",
+                    "size": 69275
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaNBT/41/artifact/target/nbt-5.1.0-javadoc.jar",
+                    "file_name": "nbt-5.1.0-javadoc.jar",
+                    "hash": "978d3b917821613c6de67d7440ff964d",
+                    "size": 319984
+                }
+            ]
         }
     ],
-    "prev_build_number": 40
+    "prev_build_number": 41
 }
