@@ -1461,7 +1461,19 @@
                     "size": 377208
                 }
             ]
+        },
+        {
+            "build_number": 121,
+            "version": "22ff141",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind/121/artifact/build/libs/ViaRewind-4.0.6-SNAPSHOT.jar",
+                    "file_name": "ViaRewind-4.0.6-SNAPSHOT.jar",
+                    "hash": "a70a62e8611b93df65eb38530f02a38f",
+                    "size": 377297
+                }
+            ]
         }
     ],
-    "prev_build_number": 120
+    "prev_build_number": 121
 }
