@@ -129,7 +129,19 @@
                     "size": 386083
                 }
             ]
+        },
+        {
+            "build_number": 13,
+            "version": "de84a8f",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaRewind-Java8/13/artifact/build/libs/ViaRewind-4.0.6-SNAPSHOT-downgraded.jar",
+                    "file_name": "ViaRewind-4.0.6-SNAPSHOT-downgraded.jar",
+                    "hash": "154ca3bf54fca8a68fffb1e8c42a98a6",
+                    "size": 386125
+                }
+            ]
         }
     ],
-    "prev_build_number": 12
+    "prev_build_number": 13
 }
