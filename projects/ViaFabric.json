@@ -1223,7 +1223,12 @@
                     "size": 5160212
                 }
             ]
+        },
+        {
+            "build_number": 68,
+            "version": "",
+            "artifacts": []
         }
     ],
-    "prev_build_number": 67
+    "prev_build_number": 68
 }
