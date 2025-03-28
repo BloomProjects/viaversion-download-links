@@ -3503,7 +3503,55 @@
                     "size": 107529
                 }
             ]
+        },
+        {
+            "build_number": 154,
+            "version": "4.0.1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaAprilFools/154/artifact/build/libs/ViaAprilFools-4.0.1-javadoc.jar",
+                    "file_name": "ViaAprilFools-4.0.1-javadoc.jar",
+                    "hash": "cdce5ab42bf1103b260034b7400a44ca",
+                    "size": 261
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaAprilFools/154/artifact/build/libs/ViaAprilFools-4.0.1-sources.jar",
+                    "file_name": "ViaAprilFools-4.0.1-sources.jar",
+                    "hash": "cdce5ab42bf1103b260034b7400a44ca",
+                    "size": 261
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaAprilFools/154/artifact/build/libs/ViaAprilFools-4.0.1.jar",
+                    "file_name": "ViaAprilFools-4.0.1.jar",
+                    "hash": "94153b9d9e6f129acf43c06ca016c753",
+                    "size": 107487
+                }
+            ]
+        },
+        {
+            "build_number": 155,
+            "version": "d2d04ad",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaAprilFools/155/artifact/build/libs/ViaAprilFools-4.0.2-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaAprilFools-4.0.2-SNAPSHOT-javadoc.jar",
+                    "hash": "12cff3ac7b864cef9a6714f1105050ec",
+                    "size": 261
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaAprilFools/155/artifact/build/libs/ViaAprilFools-4.0.2-SNAPSHOT-sources.jar",
+                    "file_name": "ViaAprilFools-4.0.2-SNAPSHOT-sources.jar",
+                    "hash": "12cff3ac7b864cef9a6714f1105050ec",
+                    "size": 261
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaAprilFools/155/artifact/build/libs/ViaAprilFools-4.0.2-SNAPSHOT.jar",
+                    "file_name": "ViaAprilFools-4.0.2-SNAPSHOT.jar",
+                    "hash": "f02d1b4db3652a578561d8a439c1dc08",
+                    "size": 107526
+                }
+            ]
         }
     ],
-    "prev_build_number": 153
+    "prev_build_number": 155
 }
