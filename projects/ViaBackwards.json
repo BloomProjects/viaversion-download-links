@@ -6608,7 +6608,19 @@
                     "size": 1262141
                 }
             ]
+        },
+        {
+            "build_number": 562,
+            "version": "422826a",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBackwards/562/artifact/build/libs/ViaBackwards-5.3.1-SNAPSHOT.jar",
+                    "file_name": "ViaBackwards-5.3.1-SNAPSHOT.jar",
+                    "hash": "ffffa1eb1b9d6c37829dd07b8696fbea",
+                    "size": 1262199
+                }
+            ]
         }
     ],
-    "prev_build_number": 561
+    "prev_build_number": 562
 }
