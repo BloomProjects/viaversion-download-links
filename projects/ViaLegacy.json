@@ -5055,7 +5055,61 @@
                     "size": 1168529
                 }
             ]
+        },
+        {
+            "build_number": 236,
+            "version": "46cd33f",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLegacy/236/artifact/build/libs/ViaLegacy-3.0.9-SNAPSHOT-sources.jar",
+                    "file_name": "ViaLegacy-3.0.9-SNAPSHOT-sources.jar",
+                    "hash": "5c9fe4697e7678328a453c3d3004ef44",
+                    "size": 521081
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLegacy/236/artifact/build/libs/ViaLegacy-3.0.9-SNAPSHOT.jar",
+                    "file_name": "ViaLegacy-3.0.9-SNAPSHOT.jar",
+                    "hash": "b238b9a89b396526bdc5594f8be6702e",
+                    "size": 1168568
+                }
+            ]
+        },
+        {
+            "build_number": 237,
+            "version": "5de6ff4",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLegacy/237/artifact/build/libs/ViaLegacy-3.0.9-SNAPSHOT-sources.jar",
+                    "file_name": "ViaLegacy-3.0.9-SNAPSHOT-sources.jar",
+                    "hash": "668fe6ef22bd4f8e03d4d2c0a0fe25f2",
+                    "size": 521016
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLegacy/237/artifact/build/libs/ViaLegacy-3.0.9-SNAPSHOT.jar",
+                    "file_name": "ViaLegacy-3.0.9-SNAPSHOT.jar",
+                    "hash": "29859443ddc8ea9a8e1d0b1bdbddc8a0",
+                    "size": 1168438
+                }
+            ]
+        },
+        {
+            "build_number": 238,
+            "version": "c5f3427",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLegacy/238/artifact/build/libs/ViaLegacy-3.0.9-SNAPSHOT-sources.jar",
+                    "file_name": "ViaLegacy-3.0.9-SNAPSHOT-sources.jar",
+                    "hash": "ee50ca281cdd12fd7141662283446529",
+                    "size": 521016
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLegacy/238/artifact/build/libs/ViaLegacy-3.0.9-SNAPSHOT.jar",
+                    "file_name": "ViaLegacy-3.0.9-SNAPSHOT.jar",
+                    "hash": "4d2e63b90a005edcea597fa481a40a96",
+                    "size": 1168439
+                }
+            ]
         }
     ],
-    "prev_build_number": 235
+    "prev_build_number": 238
 }
