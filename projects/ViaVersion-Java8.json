@@ -203,7 +203,19 @@
                     "size": 5264709
                 }
             ]
+        },
+        {
+            "build_number": 25,
+            "version": "5.3.1",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion-Java8/25/artifact/build/libs/ViaVersion-5.3.1-downgraded.jar",
+                    "file_name": "ViaVersion-5.3.1-downgraded.jar",
+                    "hash": "21922b9a47436ad2907e718533d37178",
+                    "size": 5559301
+                }
+            ]
         }
     ],
-    "prev_build_number": 24
+    "prev_build_number": 25
 }
