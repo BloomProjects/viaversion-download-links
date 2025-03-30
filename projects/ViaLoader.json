@@ -3485,7 +3485,97 @@
                     "size": 49374
                 }
             ]
+        },
+        {
+            "build_number": 169,
+            "version": "e764e11",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/169/artifact/build/libs/ViaLoader-4.0.2-SNAPSHOT-sources.jar",
+                    "file_name": "ViaLoader-4.0.2-SNAPSHOT-sources.jar",
+                    "hash": "8b99605df2ff06002580e40fca0f54e0",
+                    "size": 34087
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/169/artifact/build/libs/ViaLoader-4.0.2-SNAPSHOT.jar",
+                    "file_name": "ViaLoader-4.0.2-SNAPSHOT.jar",
+                    "hash": "d450035cbb46347bb789d465c8779a71",
+                    "size": 49378
+                }
+            ]
+        },
+        {
+            "build_number": 170,
+            "version": "7d7008e",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/170/artifact/build/libs/ViaLoader-4.0.2-SNAPSHOT-sources.jar",
+                    "file_name": "ViaLoader-4.0.2-SNAPSHOT-sources.jar",
+                    "hash": "c0a8947ab0392c834c75c9bd507ff449",
+                    "size": 33932
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/170/artifact/build/libs/ViaLoader-4.0.2-SNAPSHOT.jar",
+                    "file_name": "ViaLoader-4.0.2-SNAPSHOT.jar",
+                    "hash": "f3516ff0e963eee2a2c6a98f666d493f",
+                    "size": 48938
+                }
+            ]
+        },
+        {
+            "build_number": 171,
+            "version": "f10ec7f",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/171/artifact/build/libs/ViaLoader-4.0.2-SNAPSHOT-sources.jar",
+                    "file_name": "ViaLoader-4.0.2-SNAPSHOT-sources.jar",
+                    "hash": "4d95295e41397ea107063ca6832f820b",
+                    "size": 34087
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/171/artifact/build/libs/ViaLoader-4.0.2-SNAPSHOT.jar",
+                    "file_name": "ViaLoader-4.0.2-SNAPSHOT.jar",
+                    "hash": "ab94cd62cd8590ab49921714a3a214e0",
+                    "size": 49378
+                }
+            ]
+        },
+        {
+            "build_number": 172,
+            "version": "ccaeb57",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/172/artifact/build/libs/ViaLoader-4.0.2-SNAPSHOT-sources.jar",
+                    "file_name": "ViaLoader-4.0.2-SNAPSHOT-sources.jar",
+                    "hash": "432f341595a43f5e1aec772ca0c7f74d",
+                    "size": 34180
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/172/artifact/build/libs/ViaLoader-4.0.2-SNAPSHOT.jar",
+                    "file_name": "ViaLoader-4.0.2-SNAPSHOT.jar",
+                    "hash": "1f56d9929eef8906ac36c091c293e00f",
+                    "size": 49550
+                }
+            ]
+        },
+        {
+            "build_number": 173,
+            "version": "95b744f",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/173/artifact/build/libs/ViaLoader-4.0.2-SNAPSHOT-sources.jar",
+                    "file_name": "ViaLoader-4.0.2-SNAPSHOT-sources.jar",
+                    "hash": "77a2db81369ca5d1b24194dd4f27e895",
+                    "size": 34197
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaLoader/173/artifact/build/libs/ViaLoader-4.0.2-SNAPSHOT.jar",
+                    "file_name": "ViaLoader-4.0.2-SNAPSHOT.jar",
+                    "hash": "cc9523bab89974f75e99dc14b28ccf5d",
+                    "size": 49573
+                }
+            ]
         }
     ],
-    "prev_build_number": 168
+    "prev_build_number": 173
 }
