@@ -13179,7 +13179,19 @@
             "build_number": 1101,
             "version": "",
             "artifacts": []
+        },
+        {
+            "build_number": 1102,
+            "version": "dd6a1a7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion/1102/artifact/build/libs/ViaVersion-5.3.1-SNAPSHOT.jar",
+                    "file_name": "ViaVersion-5.3.1-SNAPSHOT.jar",
+                    "hash": "ede41de04a6ebdac7964d47045b4820b",
+                    "size": 5444966
+                }
+            ]
         }
     ],
-    "prev_build_number": 1101
+    "prev_build_number": 1102
 }
