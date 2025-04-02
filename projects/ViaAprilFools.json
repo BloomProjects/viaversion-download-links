@@ -3599,7 +3599,31 @@
                     "size": 184647
                 }
             ]
+        },
+        {
+            "build_number": 158,
+            "version": "d42d54c",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaAprilFools/158/artifact/build/libs/ViaAprilFools-4.0.2-SNAPSHOT-javadoc.jar",
+                    "file_name": "ViaAprilFools-4.0.2-SNAPSHOT-javadoc.jar",
+                    "hash": "d4e807d1dd33514f6949025445d8b169",
+                    "size": 261
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaAprilFools/158/artifact/build/libs/ViaAprilFools-4.0.2-SNAPSHOT-sources.jar",
+                    "file_name": "ViaAprilFools-4.0.2-SNAPSHOT-sources.jar",
+                    "hash": "d4e807d1dd33514f6949025445d8b169",
+                    "size": 261
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaAprilFools/158/artifact/build/libs/ViaAprilFools-4.0.2-SNAPSHOT.jar",
+                    "file_name": "ViaAprilFools-4.0.2-SNAPSHOT.jar",
+                    "hash": "67668dc6e79e81ba3f8ba63311b9242d",
+                    "size": 184647
+                }
+            ]
         }
     ],
-    "prev_build_number": 157
+    "prev_build_number": 158
 }
