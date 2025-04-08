@@ -13251,7 +13251,43 @@
                     "size": 5444076
                 }
             ]
+        },
+        {
+            "build_number": 1108,
+            "version": "ebd8eb7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion/1108/artifact/build/libs/ViaVersion-5.3.2-SNAPSHOT.jar",
+                    "file_name": "ViaVersion-5.3.2-SNAPSHOT.jar",
+                    "hash": "1d25574863c097a756e09cec7759b469",
+                    "size": 5444068
+                }
+            ]
+        },
+        {
+            "build_number": 1109,
+            "version": "4b85ca7",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion/1109/artifact/build/libs/ViaVersion-5.3.2-SNAPSHOT.jar",
+                    "file_name": "ViaVersion-5.3.2-SNAPSHOT.jar",
+                    "hash": "c74bddae46e1293ec7c5eed2095e25bf",
+                    "size": 5444118
+                }
+            ]
+        },
+        {
+            "build_number": 1110,
+            "version": "ac8bb10",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion/1110/artifact/build/libs/ViaVersion-5.3.2-SNAPSHOT.jar",
+                    "file_name": "ViaVersion-5.3.2-SNAPSHOT.jar",
+                    "hash": "dda8ba5e53351df5dd33041fff7d3f7c",
+                    "size": 5444268
+                }
+            ]
         }
     ],
-    "prev_build_number": 1107
+    "prev_build_number": 1110
 }
