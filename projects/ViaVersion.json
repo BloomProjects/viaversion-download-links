@@ -13287,7 +13287,55 @@
                     "size": 5444268
                 }
             ]
+        },
+        {
+            "build_number": 1111,
+            "version": "b06556a",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion/1111/artifact/build/libs/ViaVersion-5.3.2-SNAPSHOT.jar",
+                    "file_name": "ViaVersion-5.3.2-SNAPSHOT.jar",
+                    "hash": "1c0e1021abcc3548409fb1e55a6989c2",
+                    "size": 5445084
+                }
+            ]
+        },
+        {
+            "build_number": 1112,
+            "version": "3d0a0fe",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion/1112/artifact/build/libs/ViaVersion-5.3.2-SNAPSHOT.jar",
+                    "file_name": "ViaVersion-5.3.2-SNAPSHOT.jar",
+                    "hash": "ead06d6d98fe56d5ae1921a74329ad2e",
+                    "size": 5445088
+                }
+            ]
+        },
+        {
+            "build_number": 1113,
+            "version": "162fcaf",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion/1113/artifact/build/libs/ViaVersion-5.3.2-SNAPSHOT.jar",
+                    "file_name": "ViaVersion-5.3.2-SNAPSHOT.jar",
+                    "hash": "686123262663668e3eff6bd95ddac481",
+                    "size": 5445096
+                }
+            ]
+        },
+        {
+            "build_number": 1114,
+            "version": "93d6fa2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion/1114/artifact/build/libs/ViaVersion-5.3.2-SNAPSHOT.jar",
+                    "file_name": "ViaVersion-5.3.2-SNAPSHOT.jar",
+                    "hash": "da810eadf46707811beb0e3fede4f079",
+                    "size": 5445199
+                }
+            ]
         }
     ],
-    "prev_build_number": 1110
+    "prev_build_number": 1114
 }
