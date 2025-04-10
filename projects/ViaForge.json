@@ -5906,7 +5906,91 @@
                     "size": 12011127
                 }
             ]
+        },
+        {
+            "build_number": 105,
+            "version": "3dce028",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/105/artifact/viaforge-mc1214/build/libs/viaforge-mc1214-4.0.1-SNAPSHOT.jar",
+                    "file_name": "viaforge-mc1214-4.0.1-SNAPSHOT.jar",
+                    "hash": "622ed99e4b3b5542f67c414dc67baa58",
+                    "size": 7823717
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/105/artifact/viaforge-mc1206/build/libs/viaforge-mc1206-4.1.1.jar",
+                    "file_name": "viaforge-mc1206-4.1.1.jar",
+                    "hash": "23a52ff65ebcdfa449c24a7e1a96946e",
+                    "size": 8273286
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/105/artifact/viaforge-mc1215/build/libs/viaforge-mc1215-4.1.1.jar",
+                    "file_name": "viaforge-mc1215-4.1.1.jar",
+                    "hash": "8414a615ef1275686150f900d9c2269e",
+                    "size": 8273307
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/105/artifact/viaforge-mc1171/build/libs/viaforge-mc1171-4.1.1.jar",
+                    "file_name": "viaforge-mc1171-4.1.1.jar",
+                    "hash": "4cf58548448deaba190e6cf4567053a0",
+                    "size": 8366455
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/105/artifact/viaforge-mc1182/build/libs/viaforge-mc1182-4.1.1.jar",
+                    "file_name": "viaforge-mc1182-4.1.1.jar",
+                    "hash": "25cd853e31d318ef9fbb06872aac4d29",
+                    "size": 8366455
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/105/artifact/viaforge-mc1192/build/libs/viaforge-mc1192-4.1.1.jar",
+                    "file_name": "viaforge-mc1192-4.1.1.jar",
+                    "hash": "b91ad6a302583a4c0387c2f1d433b0ce",
+                    "size": 8366516
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/105/artifact/viaforge-mc1204/build/libs/viaforge-mc1204-4.1.1.jar",
+                    "file_name": "viaforge-mc1204-4.1.1.jar",
+                    "hash": "ef965b0485226a7fac405e05c43b4515",
+                    "size": 8366833
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/105/artifact/viaforge-mc1194/build/libs/viaforge-mc1194-4.1.1.jar",
+                    "file_name": "viaforge-mc1194-4.1.1.jar",
+                    "hash": "128152fa828defd13f59f76eeba489c9",
+                    "size": 8366928
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/105/artifact/viaforge-mc1201/build/libs/viaforge-mc1201-4.1.1.jar",
+                    "file_name": "viaforge-mc1201-4.1.1.jar",
+                    "hash": "6acfd4c68b3b9963e125b86e05c78926",
+                    "size": 8366990
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/105/artifact/viaforge-mc1165/build/libs/viaforge-mc1165-4.1.1.jar",
+                    "file_name": "viaforge-mc1165-4.1.1.jar",
+                    "hash": "863fc0ed0bcb655e61509fd3e2dff84a",
+                    "size": 8573133
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/105/artifact/viaforge-mc1122/build/libs/viaforge-mc1122-4.1.1.jar",
+                    "file_name": "viaforge-mc1122-4.1.1.jar",
+                    "hash": "a76aa0ac74f9de7a8a9a764ed568aa11",
+                    "size": 9527935
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/105/artifact/viaforge-mc189/build/libs/viaforge-mc189-4.1.1-dev.jar",
+                    "file_name": "viaforge-mc189-4.1.1-dev.jar",
+                    "hash": "d9edf2714cff093b4fda32539edc8141",
+                    "size": 12009895
+                },
+                {
+                    "url": "https://ci.viaversion.com/job/ViaForge/105/artifact/viaforge-mc189/build/libs/viaforge-mc189-4.1.1.jar",
+                    "file_name": "viaforge-mc189-4.1.1.jar",
+                    "hash": "9bc7849af6f8a29c401681af18fe62a1",
+                    "size": 12011125
+                }
+            ]
         }
     ],
-    "prev_build_number": 104
+    "prev_build_number": 105
 }
