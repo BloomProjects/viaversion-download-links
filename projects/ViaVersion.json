@@ -13335,7 +13335,19 @@
                     "size": 5445199
                 }
             ]
+        },
+        {
+            "build_number": 1115,
+            "version": "f555188",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaVersion/1115/artifact/build/libs/ViaVersion-5.3.2-SNAPSHOT.jar",
+                    "file_name": "ViaVersion-5.3.2-SNAPSHOT.jar",
+                    "hash": "c0cac2d8cd54914e43ddd0aa01322320",
+                    "size": 5445178
+                }
+            ]
         }
     ],
-    "prev_build_number": 1114
+    "prev_build_number": 1115
 }
