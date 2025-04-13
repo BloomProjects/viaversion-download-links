@@ -203,7 +203,19 @@
                     "size": 1303566
                 }
             ]
+        },
+        {
+            "build_number": 21,
+            "version": "5.3.2",
+            "artifacts": [
+                {
+                    "url": "https://ci.viaversion.com/job/ViaBackwards-Java8/21/artifact/build/libs/ViaBackwards-5.3.2-downgraded.jar",
+                    "file_name": "ViaBackwards-5.3.2-downgraded.jar",
+                    "hash": "c9346efd2cc9db491192e0c9f0adf784",
+                    "size": 1304384
+                }
+            ]
         }
     ],
-    "prev_build_number": 20
+    "prev_build_number": 21
 }
